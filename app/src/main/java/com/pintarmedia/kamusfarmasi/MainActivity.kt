@@ -13,7 +13,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import java.io.IOException
 import java.io.Serializable
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : BaseActivity() {
     private val JSON_FARMASI = "farmasi.json"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

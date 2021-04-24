@@ -18,9 +18,10 @@ class ListIstilah : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.list_istilah)
         val persone : MutableList<Farmasi> = intent.extras?.get("farmasi") as MutableList<Farmasi>
+
         Log.i("pcx", persone.toString())
         val farmasiAdapter = FarmasiAdapter({itemClick -> Unit
-            Log.i("click",itemClick.istilah)
+            //Log.i("click",itemClick.istilah)
             val intent = Intent(this,DetailIstilah::class.java)
             intent.putExtra("farmasi",itemClick)
             startActivity(intent)
