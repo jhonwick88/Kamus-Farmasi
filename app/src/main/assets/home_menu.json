@@ -1,0 +1,14 @@
+[
+    {
+      "menu_id": "1",
+      "menu_title": "KAMUS A-Z",
+      "menu_disc": "Pencarian didasarkan pada gambaran diskripsi obat",
+      "menu_img": "file:///android_asset/obat.png"
+    },
+     {
+      "menu_id": "2",
+      "menu_title": "KAMUS ONLINE",
+      "menu_disc": "Pencarian didasarkan pada merk obat",
+      "menu_img": "file:///android_asset/merk.png"
+    }
+]

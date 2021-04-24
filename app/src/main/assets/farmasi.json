@@ -1,0 +1,5062 @@
+[
+  {
+    "id": "1",
+    "istilah": "Abses",
+    "arti": "Pengumpulan nanah dalam rongga yang terbentuk akibat kerusakan jaringan."
+  },
+  {
+    "id": "2",
+    "istilah": "Absorpsi",
+    "arti": "suatu fenomena fisik atau kimiawi atau suatu proses sewaktu atom, molekul, atau ion memasuki suatu fase limbak (bulk) lain yang bisa berupa gas, cairan, atau pun padatan.Proses ini berbeda dengan adsorpsi karena pengikatan molekul dilakukan melalui volume dan bukan permukaan."
+  },
+  {
+    "id": "3",
+    "istilah": "Adiksi",
+    "arti": "penggunaan habitual dan kompulsif dari suatu obat diiringi dengan bukti ketergantungan fisiologis. Konsep adiksi juga diperluas melampaui penyalahgunaan zat kimia agar dapat digunakan pada beberapa bentuk kebiasaan perilaku maladaptif, seperti judi patologis."
+  },
+  {
+    "id": "4",
+    "istilah": "Adsorpsi",
+    "arti": "proses yang terjadi ketika suatu fluida, cairan maupun gas , terikat kepada suatu padatan atau cairan (zat penjerap, adsorben) dan akhirnya membentuk suatu lapisan tipis atau film (zat terjerap, adsorbat) pada permukaannya. Berbeda dengan absorpsi yang merupakan penyerapan fluida oleh fluida lainnya dengan membentuk suatu larutan."
+  },
+  {
+    "id": "5",
+    "istilah": "Agranulositosis",
+    "arti": "Jumlah leukosit kurang dari 500 mm3 dengan gejala luka infeksi pada tekak, traktus intestinal dan kulit."
+  },
+  {
+    "id": "6",
+    "istilah": "Akromegali",
+    "arti": "Pembesaran disebabkan sekresi berlebihan somatotropin"
+  },
+  {
+    "id": "7",
+    "istilah": "Alat Kesehatan",
+    "arti": "instrumen, aparatus, mesin dan/atau implant, reagen untuk penggunaan in vitro, perangkat lunak, bahan atau material ; yang sebagaimana dimaksud oleh produsen, digunakan sendiri maupun kombinasi, untuk manusia dengan satu atau beberapa tujuan sebagai berikut:  diagnosis, pencegahan, pemantauan, perlakuan atau pengurangan penyakit; diagnosis, pemantauan, perlakuan, pengurangan atau kompensasi kondisi sakit penyelidikan, penggantian, pemodifikasian, mendukung anatomi, atau proses fisiologis; mendukung atau mempertahankan hidup; mengontrol/mengendalikan pembuahan; desinfeksi alat kesehatan; menyediakan informasi untuk tujuan medis atau diagnosis melalui pengujian invitro terhadap spesimen dari tubuh manusia.  Dan tidak mencapai kerja utama pada atau dalam tubuh manusia melalaui proses farmakologi, imunologi atau metabolisme tetapi dapat membantu fungsi yang diinginkan dari alat kesehatan dengan cara tersebut."
+  },
+  {
+    "id": "8",
+    "istilah": "Alat Kesehatan Diagnostik In Vitro (DIV)",
+    "arti": "peralatan, baik digunakan tunggal maupun dalam kombinasi, ditujukan oleh pabrikannya untuk pemeriksaan in-vitro spesimen yang berasal dari tubuh manusia yang semata-mata atau pada prinsipnya digunakan untuk memberikan informasi bagi tujuan diagnostik, pemantauan atau kesesuaian. Hal ini termasuk reagen, kalibrator, bahan kontrol, wadah spesimen, peranti lunak, dan instrumen atau perlengkapan terkait atau barang lainnya."
+  },
+  {
+    "id": "9",
+    "istilah": "Alergi",
+    "arti": "kekebalan tubuh di mana tubuh seseorang menjadi hipersensitif dalam bereaksi secara imunologi terhadap bahan-bahan yang umumnya imunogenik (antigenik)atau dikatakan orang yang bersangkutan bersifat atopic."
+  },
+  {
+    "id": "10",
+    "istilah": "Alergen",
+    "arti": "senyawa yang dapat menginduksi imunoglobulin E (IgE) melalui paparan berupa inhalasi (dihirup), ingesti (proses menelan), kontak, ataupun injeksi."
+  },
+  {
+    "id": "11",
+    "istilah": "Alkalosis",
+    "arti": "Peningkatan PH darah di atas 7,43"
+  },
+  {
+    "id": "12",
+    "istilah": "Amenoroe",
+    "arti": "Tidak ada menstruasi"
+  },
+  {
+    "id": "13",
+    "istilah": "Amfetamin",
+    "arti": "obat golongan stimulansia (hanya dapat diperoleh dengan resep dokter) yang biasanya digunakan hanya untuk mengobati gangguan hiperaktif karena kurang perhatian atau Attention-deficit Hyperactivity Disorder (ADHD) pada pasien dewasa dan anak-anak. Juga digunakan untuk mengobati gejala-gejala luka-luka traumatik pada otak dan gejala mengantuk pada siang hari pada kasus narkolepsi dan sindrom kelelahan kronis."
+  },
+  {
+    "id": "14",
+    "istilah": "Anabolisme",
+    "arti": "reaksi yang merangkai senyawa organik dari molekul-molekul tertentu, untuk diserap oleh sel tubuh."
+  },
+  {
+    "id": "15",
+    "istilah": "Anemia",
+    "arti": "(dalam bahasa Yunani: Tanpa darah) adalah keadaan saat jumlah sel darah merah atau jumlah hemoglobin (protein pembawa oksigen) dalam sel darah merah berada di bawah normal."
+  },
+  {
+    "id": "16",
+    "istilah": "Angina pectoris",
+    "arti": "penyakit jantung iskemik didefinisikan sebagai berkurangnya pasokan oksigen dan menurunnya aliran darah ke dalam miokardium."
+  },
+  {
+    "id": "17",
+    "istilah": "Anoreksia",
+    "arti": "Hilangnya atau berkurangnya nafsu makan."
+  },
+  {
+    "id": "18",
+    "istilah": "Ansietas",
+    "arti": "Cemas, resah, rasa cemas yang berlebihan tidak sesuai dengan realitas."
+  },
+  {
+    "id": "19",
+    "istilah": "Antioksidan",
+    "arti": "merupakan zat yang mampu memperlambat atau mencegah proses oksidasi."
+  },
+  {
+    "id": "20",
+    "istilah": "Anuria",
+    "arti": "Tidak terjadi eksin urin."
+  },
+  {
+    "id": "21",
+    "istilah": "Artritis",
+    "arti": "Radang sendi terutama pada rheumatik"
+  },
+  {
+    "id": "22",
+    "istilah": "Apotek",
+    "arti": "(berasal dari bahasa Belanda: Apotheek) adalah tempat menjual dan kadang membuat atau meramu obat. Apotek juga merupakan tempat apoteker melakukan praktik profesi farmasi sekaligus menjadi peritel. Kata ini berasal dari kata bahasa Yunani apotheca yang secara harfiah berarti &#8220;penyimpanan&#8221;."
+  },
+  {
+    "id": "23",
+    "istilah": "Apoteker",
+    "arti": "seseorang yang mempunyai keahlian dan kewenangan di bidang kefarmasian baik di apotek, rumah sakit, industri, pendidikan, dan bidang lain yang masih berkaitan dengan bidang kefarmasian."
+  },
+  {
+    "id": "24",
+    "istilah": "Asam urat",
+    "arti": "(bahasa Inggris: uric acid, urate) adalah senyawa turunan purina dengan rumus kimia C5H4N4O3 dan rasio plasma antara 3,6 mg/dL (~214µmol/L) dan 8,3 mg/dL (~494µmol/L) (1 mg/dL = 59,48 µmol/L)."
+  },
+  {
+    "id": "25",
+    "istilah": "Asidosis tubulus renalis",
+    "arti": "(bahasa Inggris: Renal tubular acidosis, RTA) adalah suatu penyakit ginjal (renal) khususnya pada bagian tubulus renalis-nya. Menurut sejumlah literatur ilmiah bidang kesehatan, penyakit ATR ini memang tergolong penyakit langka, dengan manifestasi klinis yang tidak spesifik sehingga diagnosis sering terlambat."
+  },
+  {
+    "id": "26",
+    "istilah": "Asites",
+    "arti": "Penimbunan cairan dalam rongga perut"
+  },
+  {
+    "id": "27",
+    "istilah": "Ataksia",
+    "arti": "Gangguan koordinasi gerakan"
+  },
+  {
+    "id": "28",
+    "istilah": "Atonia",
+    "arti": "Relaksasi otot"
+  },
+  {
+    "id": "29",
+    "istilah": "Bakteri",
+    "arti": "kelompok mikroorganisme yang tidak memiliki membran inti sel."
+  },
+  {
+    "id": "30",
+    "istilah": "Bakteriostatik",
+    "arti": "substansi kimia atau konsentrasi rendah bakterisida yang mampu menahan pertumbuhan bakteri, tetapi tidak mematikannya, seperti bakterisida."
+  },
+  {
+    "id": "31",
+    "istilah": "Bakterisida",
+    "arti": "substansi kimia yang mampu membunuh atau menghancurkan bakteri; pembasmi bakteri."
+  },
+  {
+    "id": "32",
+    "istilah": "Balanitis",
+    "arti": "peradangan glans penis."
+  },
+  {
+    "id": "33",
+    "istilah": "Benign",
+    "arti": "tidak maligna; tidak rekuren; dapat sembuh."
+  },
+  {
+    "id": "34",
+    "istilah": "Betabloker",
+    "arti": "obat yang menginduksi blockade adrenergic pada reseptor b1 atau b2 atau keduanya."
+  },
+  {
+    "id": "35",
+    "istilah": "Bioavaibilitas",
+    "arti": "derajat suatu obat atau suatu substansi lain mencapai jaringan target setelah diberikan."
+  },
+  {
+    "id": "36",
+    "istilah": "Biokimia",
+    "arti": "ilmu yang mempelajari struktur dan fungsi komponen seluler seperti protein, karbohidrat, lipid, asam nukleat, dan biomolekul lainnya."
+  },
+  {
+    "id": "37",
+    "istilah": "Biopsi",
+    "arti": "Pengambilan jaringan dari mahluk hidup untuk pemeriksaan mikroskopik."
+  },
+  {
+    "id": "38",
+    "istilah": "Biotoksin",
+    "arti": "toksin (zat racun) yang terbentuk di jaringan jasad hidup."
+  },
+  {
+    "id": "39",
+    "istilah": "Biotransformasi",
+    "arti": "rangkaian perubahan kimia suatu senyawa (suatu obat) yang terjadi di dalam tubuh, seperti oleh aktifitas enzimatik."
+  },
+  {
+    "id": "40",
+    "istilah": "Bisinosis",
+    "arti": "penyakit paru-paru akibat pengaruh debu kapas."
+  },
+  {
+    "id": "41",
+    "istilah": "Blood Count",
+    "arti": "Jumlah sel darah putih dan darah merah per unit volume darah."
+  },
+  {
+    "id": "42",
+    "istilah": "Boraks",
+    "arti": "bahan pembersih (antiseptik; zat pembantu melelehkan zat padat) yg berupa hablur (kristal) berwarna kuning atau serbuk berwarna cokelat."
+  },
+  {
+    "id": "43",
+    "istilah": "Brakikardia",
+    "arti": "kondisi di mana detak jantung melemah yaitu kurang dari 60 denyut per menit."
+  },
+  {
+    "id": "44",
+    "istilah": "Bronkitis",
+    "arti": "Radang bronkus/saluran napas"
+  },
+  {
+    "id": "45",
+    "istilah": "Bronkodilator",
+    "arti": "alat yang dapat memperlebar lubang saluran napas yg menyempit ketika seseorang mendapat serangan asma."
+  },
+  {
+    "id": "46",
+    "istilah": "Bulimia",
+    "arti": "penyakit merasa lapar yang berlebihan dan ingin selalu makan"
+  },
+  {
+    "id": "47",
+    "istilah": "Cairan Asites",
+    "arti": "Akumulasi cairan pada rongga perut (peritonium). Meski penyebab umumnya adalah sirosis atau sakit liver yang lainnya, akumulasi ini mungkin disebabkan oleh keadaan medik lainnya."
+  },
+  {
+    "id": "48",
+    "istilah": "Candida",
+    "arti": "Genus jamur menyerupai ragi yang umumnya merupakan bagian dari flora normal mulut, kulit, saluran pencernaan, dan vagina, namun dapat menyebabkan berbagai infeksi."
+  },
+  {
+    "id": "49",
+    "istilah": "CAPD (Continuous ambulatory peri-toneal dialysis)",
+    "arti": "Dialisis peritonial kontinyu."
+  },
+  {
+    "id": "50",
+    "istilah": "Capsulae",
+    "arti": "Sediaan berupa serbuk yang diisikan dalam cangkang kapsul atau berupa sediaan cairan, setengah padat yang dibungkus dengan kapsul dasar."
+  },
+  {
+    "id": "51",
+    "istilah": "Cara Distribusi Alat Kesehatan yang Baik (CDAKB)",
+    "arti": "pedoman yang digunakan dalam rangkaian kegiatan distribusi dan pengendalian mutu yang bertujuan untuk menjamin agar produk alat kesehatan yang didistribusikan senantiasa memenuhi persyaratan yang ditetapkan sesuai tujuan penggunaannya."
+  },
+  {
+    "id": "52",
+    "istilah": "Carcinoma/Karsinoma",
+    "arti": "Pertumbuhan sel yang ganas yang terdiri dari sel-sel epitel yang cenderung untuk menginfiltrasi jaringan sekitarnya dan menimbulkan metastatis."
+  },
+  {
+    "id": "53",
+    "istilah": "Cardiomyopathy",
+    "arti": "suatu penyakit primer pada otot jantung tanpa adanya penyebab yang diketahui."
+  },
+  {
+    "id": "54",
+    "istilah": "Castration",
+    "arti": "pembuangan testes atau ovarium."
+  },
+  {
+    "id": "55",
+    "istilah": "Cat’s Claw",
+    "arti": "Nama lain untuk Uncaria tomentosa,yaitu spesies yang tumbuh di hutan hujan Amazon.Tanaman ini mengandung alkaloid dan mempunyai efek medik seperti tanin dan fitokimia lainnya.Beberapa senyawa dari tanaman ini mempunyai efek sebagai anti inflamasi, anti oksidan dan anti kanker."
+  },
+  {
+    "id": "56",
+    "istilah": "Cito",
+    "arti": "Segera"
+  },
+  {
+    "id": "57",
+    "istilah": "Cofactor",
+    "arti": "Elemen atau bahan seperti koenzim, dimana suatu factor lain harus bersatu dengannya untuk dapat berfungsi."
+  },
+  {
+    "id": "58",
+    "istilah": "Collutoria",
+    "arti": "Larutan pekat dalam air yang mengandung bahan deodoran,antiseptika,anestetika local atau astringen."
+  },
+  {
+    "id": "59",
+    "istilah": "Collyria",
+    "arti": "Sediaan berupa larutan steril, jernih, bebas jarah asing, isotonus, digunakan untuk membersihkan mata. Dapat ditambahkan zat dapar dan zat pengawet."
+  },
+  {
+    "id": "60",
+    "istilah": "Confusion",
+    "arti": "orientasi yang terganggu dalam waktu, tempat, atau orang yang kadang-kadang disertai gangguan kesadaran."
+  },
+  {
+    "id": "61",
+    "istilah": "Congestion",
+    "arti": "adanya jumlah cairan abnormal pada pembuluh atau jalan masuk dari suatu organ atau bagiannya; terutama, cairan darah yang disebabkan oleh peningkatan influx atau hambatan aliran baliknya."
+  },
+  {
+    "id": "62",
+    "istilah": "COPD (Chronic Obstructive Pulmonary Disease)",
+    "arti": "Penyakit paru-paru obstruktif kronik."
+  },
+  {
+    "id": "63",
+    "istilah": "Corpumonale",
+    "arti": "Kelainan jantung yang ditandai dengan hipertropi ventrikel kanan akibat penyakit paru-paru."
+  },
+  {
+    "id": "64",
+    "istilah": "Costovertebral",
+    "arti": "Berkenaan dengan suatu iga atau vertebrata."
+  },
+  {
+    "id": "65",
+    "istilah": "Countershock",
+    "arti": "suatu kejutan arus langsung berintensitas tinggi yang dialirkan ke jantung untuk menghentikan fibrilasi ventrikel dan mengembalikan aktivitas listrik yang sinkron."
+  },
+  {
+    "id": "66",
+    "istilah": "COX (Cyclooxygenase)",
+    "arti": "Enzim Siklooksigenase. Enzim ini berperan untuk mengubah asam arakidonat menjadi prostaglandin pada proses inflamasi."
+  },
+  {
+    "id": "67",
+    "istilah": "Crepitus",
+    "arti": "Crepitus tulang: bunyi gemeretak yang ditimbulkan dengan menggesekkan fragmen-fragmen tulang yang patah."
+  },
+  {
+    "id": "68",
+    "istilah": "CSF (Cerebrospinal Fluid)",
+    "arti": "Cairan jernih yang ada pada ruang subaraknoid dan sistem ventrikular di sekitar dan di dalam otak."
+  },
+  {
+    "id": "69",
+    "istilah": "CVP (Central Venous Pressure)",
+    "arti": "Tekanan darah pada vena kava toraks, dekat dengan atrium kanan jantung."
+  },
+  {
+    "id": "70",
+    "istilah": "Cyanosis",
+    "arti": "Perubahan warna kulit menjadi agak kebiru-biruan, yang disebabkan konsentrasi hemoglobin tereduksi yang berlebihan pada pembuluh darah di permukaan kulit."
+  },
+  {
+    "id": "71",
+    "istilah": "Cytochrome/Sitokrom",
+    "arti": "Merupakan senyawa yang mengandung hem yang terikat pada protein, berperan pada pernapasan sel, dibedakan menurut gugus prostetiknya misalnya a, b, c, d dan P450.Contoh : CYP2A6, CYP 2B6, CYP289, CYP2D6, CYP2E1, CYP3A4"
+  },
+  {
+    "id": "72",
+    "istilah": "D5W",
+    "arti": "Larutan dekstrosa 5% dalam air."
+  },
+  {
+    "id": "73",
+    "istilah": "Deionisasi",
+    "arti": "Menghapus ion terlarut dari larutan dengan melewatkan larutan melalui unggun resin pertukaran ion, terdiri dari manik-manik polimer bahwa ion hidrogen pertukaran kation dan ion hidroksil dalam larutan untuk anion. Kotoran ionik tetap terikat pada resin dan hidrogen dan ion hidroksil menggabungkan dengan satu sama lain untuk membentuk air."
+  },
+  {
+    "id": "74",
+    "istilah": "Delirium",
+    "arti": "Berubahnya kesadaran secara patologis diikiuti amnesia,disorientasi,bingung,delusi. Halusinasi, ide gila diikuti gejala fisik ikutan seperti tremor,demam dan berkeringat."
+  },
+  {
+    "id": "75",
+    "istilah": "Demensia",
+    "arti": "penurunan fungsi mental."
+  },
+  {
+    "id": "76",
+    "istilah": "Depersonalisasi",
+    "arti": "Perubahan persepsi diri sendiri sehingga sensasi terhadap suatu kenyataan menjadi hilang atau berubah untuk sementara; merupakan manifestasi neurosis atau penyakit jiwa yang lain atau juga dapat dalam bentuk ringan pada orang yang normal."
+  },
+  {
+    "id": "77",
+    "istilah": "Depresi",
+    "arti": "Gangguan jiwa yang ditandai rasa yang abnormal"
+  },
+  {
+    "id": "78",
+    "istilah": "Depuratif",
+    "arti": "pembersih darah"
+  },
+  {
+    "id": "79",
+    "istilah": "Depyrogenation",
+    "arti": "Penghapusan atau perusakan endotoksin."
+  },
+  {
+    "id": "80",
+    "istilah": "Dermatitis",
+    "arti": "Radang kulit"
+  },
+  {
+    "id": "81",
+    "istilah": "Desinfeksi",
+    "arti": "Sebuah proses yang mengurangi zat mencemari ke tingkat penerimaan yang ditetapkan."
+  },
+  {
+    "id": "82",
+    "istilah": "Desinfektan Antiseptik",
+    "arti": "obat yang dapat mencegah infeksi dan mencegah perkembangan organisme tanpa mematikan organisme."
+  },
+  {
+    "id": "83",
+    "istilah": "Diaforesis",
+    "arti": "Keringat berlebihan yang tidak wajar, mungkin disebabkan oleh syok atau kondisi medik lain."
+  },
+  {
+    "id": "84",
+    "istilah": "Diaforetika",
+    "arti": "memperbanyak keluarnya keringat / peluruh keringat."
+  },
+  {
+    "id": "85",
+    "istilah": "Digestiva",
+    "arti": "merangsang sistem pencernaan."
+  },
+  {
+    "id": "86",
+    "istilah": "Dilator",
+    "arti": "melebarkan pembuluh darah."
+  },
+  {
+    "id": "87",
+    "istilah": "Dismenorrhoe",
+    "arti": "untuk mengobati nyeri haid."
+  },
+  {
+    "id": "88",
+    "istilah": "Dispepsia",
+    "arti": "Berkurangnya daya atau fungsi pencernaan, biasanya ditunjukkan dengan perasaan tidak nyaman pada epigastrum setelah makan."
+  },
+  {
+    "id": "89",
+    "istilah": "Diuretik",
+    "arti": "obat untuk meningkatkan ekskresi urin atau jumlah urin."
+  },
+  {
+    "id": "90",
+    "istilah": "DNA (Deoxyribonucleic acid)",
+    "arti": "Asam deoksiribonukleat yaitu asam nukleat yang mengandung informasi genetik yang berguna untuk perkembangan semua makhluk hidup."
+  },
+  {
+    "id": "91",
+    "istilah": "Dong quai",
+    "arti": "Nama lain untuk Angelica sinensis atau ginseng betina yaitu tanaman dari Cina yang digunakan untuk mengobati gangguan ginekologi, anemia ringan dan hipertensi."
+  },
+  {
+    "id": "92",
+    "istilah": "DOTS (Directly Observed Treatment Shortcourse)",
+    "arti": "Strategi yang digunakan dalam pengendalian atau penanggulangan penyakit TB melalui peningkatan diagnosis TB dengan pemeriksaan dahak secara mikroskopis, pengobatan dengan Pengawasan Menelan Obat (PMO), kesinambungan persediaan obat anti TB jangka pendek dengan mutu terjamin serta pencatatan dan pelaporan secara baku untuk memudahkan pemantauan dan evaluasi program penanggulangan TB."
+  },
+  {
+    "id": "93",
+    "istilah": "Dyspnea",
+    "arti": "Pernapasan yang sukar atau sesak"
+  },
+  {
+    "id": "94",
+    "istilah": "Ear drops",
+    "arti": "obat tetes telinga"
+  },
+  {
+    "id": "95",
+    "istilah": "Edema",
+    "arti": "berarti meningkatnya volume cairan di luar sel (ekstraseluler) dan di luar pembuluh darah (ekstravaskular) disertai dengan penimbunan di jaringan serosa."
+  },
+  {
+    "id": "96",
+    "istilah": "Eksoenzim",
+    "arti": "enzim yang aktivitasnya di luar sel."
+  },
+  {
+    "id": "97",
+    "istilah": "Eksositosis",
+    "arti": "mekanisme transpor molekul besar seperti protein danpolisakarida, melintasi membran plasma dari dalam ke luar sel (sekresi) dengan cara menggabungkan veskula berisi molekul tersebut dengan membran plasma."
+  },
+  {
+    "id": "98",
+    "istilah": "Ekstrak",
+    "arti": "sediaan kering, kental atau cair dibuat dengan menyari simplisia nabati atau hewani menurut cara yang cocok, di luar pengaruh cahaya matahari langsung."
+  },
+  {
+    "id": "99",
+    "istilah": "Eksudasi",
+    "arti": "keluarnya cairan dari jaringan atau kapiler karena luka atau inflamasi."
+  },
+  {
+    "id": "100",
+    "istilah": "Eliksir",
+    "arti": "larutan yang mempunyai rasa dan bau sedap, mengandung selain obat, jug azat tambahan seperti gula dan atau zat pemanis lainnya, zat warna, zat wewangi dan zat pengawet; digunakan sebagai obat dalam."
+  },
+  {
+    "id": "101",
+    "istilah": "Emetik",
+    "arti": "obat muntah."
+  },
+  {
+    "id": "102",
+    "istilah": "Emfisema",
+    "arti": "Penimbunan udara dalam jaringan"
+  },
+  {
+    "id": "103",
+    "istilah": "Emulsi",
+    "arti": "sediaan yang mengandung bahan obat cair atau larutan obat, terdispersi dalam cairan pembawa, distabilkan dengan zat pengemulsi atau surfaktan yang cocok."
+  },
+  {
+    "id": "104",
+    "istilah": "Enantiomer",
+    "arti": "salah satu dari pasangan molekul yang merupakan isomer bayangan cermin satu sama lain"
+  },
+  {
+    "id": "105",
+    "istilah": "Endoenzim",
+    "arti": "enzim yang aktivitasnya didalam sel."
+  },
+  {
+    "id": "106",
+    "istilah": "Endokrin",
+    "arti": "sistem kontrol kelenjar tanpa saluran (ductless) yang menghasilkan hormon yang tersirkulasi di tubuh melalui aliran darah untuk memengaruhi organ-organ lain."
+  },
+  {
+    "id": "107",
+    "istilah": "Endometriosis",
+    "arti": "Adanya jaringan endometrium pada lokasi abnormal"
+  },
+  {
+    "id": "108",
+    "istilah": "Endometrium",
+    "arti": "lapisan dalam uterus yang sangat kaya akan pembuluh darah."
+  },
+  {
+    "id": "109",
+    "istilah": "Ensefalitis",
+    "arti": "Radang otak"
+  },
+  {
+    "id": "110",
+    "istilah": "Enteral",
+    "arti": "saluran pencernaan."
+  },
+  {
+    "id": "111",
+    "istilah": "Enterobacter",
+    "arti": "bakteri"
+  },
+  {
+    "id": "112",
+    "istilah": "Enzim konstitutif",
+    "arti": "enzim yang dibentuk terus-menerus oleh sel tanpa peduli apakah substratnya ada atau tidak."
+  },
+  {
+    "id": "113",
+    "istilah": "Epithema",
+    "arti": "obat kompres kulit (obat topikal)."
+  },
+  {
+    "id": "114",
+    "istilah": "Erythema",
+    "arti": "Warna merah pada kulit yang disebabkan vasodilatasi dan otot, nefritis, perikarditis, dan berbagai perubahan kulit biasanya mematikan."
+  },
+  {
+    "id": "115",
+    "istilah": "Esofagus",
+    "arti": "saluran yang menyalurkan makanan melalui gaya peristaltik dari faring ke lambung."
+  },
+  {
+    "id": "116",
+    "istilah": "Esterase",
+    "arti": "enzim-enzim yang memecah golongan ester."
+  },
+  {
+    "id": "117",
+    "istilah": "Estrogen",
+    "arti": "sekelompok senyawa steroid yang berfungsi terutama sebagai hormon seks wanita."
+  },
+  {
+    "id": "118",
+    "istilah": "Eye drops",
+    "arti": "obat tetes mata."
+  },
+  {
+    "id": "119",
+    "istilah": "Fagositosis",
+    "arti": "suatu proses perlindungan tubuh dengan cara mengelilingi benda asing lalu ditelan dan dihancurkan."
+  },
+  {
+    "id": "120",
+    "istilah": "Farmakodinamik",
+    "arti": "ilmu yang mempelajari cara kerja obat, efek obat terhadap fungsi berbagai organ dan pengaruh obat terhadap reaksi biokimia dan struktur obat. Secara singkat artinya pengaruh obat terhadap sel hidup."
+  },
+  {
+    "id": "121",
+    "istilah": "Farmakogenetik",
+    "arti": "cabang ilmu farmakologi klinik yang mempelajari perubahan respon terhadap obat yang disebabkan oleh faktor genetik."
+  },
+  {
+    "id": "122",
+    "istilah": "Farmakognosi",
+    "arti": "ilmu farmasi yang menyangkut cara pengenalan tanaman dan bahan-bahan lain sebagai sumber obat dari alam."
+  },
+  {
+    "id": "123",
+    "istilah": "Farmakokine",
+    "arti": "ilmu yang mempelajari absorbsi, ditribusi, metabolisme (biotransformasi), dan ekskresi obat (ADME). Secara singkat artinya tentang pengaruh tubuh terhadap obat."
+  },
+  {
+    "id": "124",
+    "istilah": "Farmakoterapi",
+    "arti": "ilmu yang mempelajari penggunaan obat untuk menyembuhkan penyakit."
+  },
+  {
+    "id": "125",
+    "istilah": "Fatigue",
+    "arti": "Keadaan meningkatnya ketidaknyamanan dan menurunnya efisiensi akibat pekerjaan yang berkepanjangan atau berlebihan; kehilangan tenaga atau kemampuan menjawab rangsangan."
+  },
+  {
+    "id": "126",
+    "istilah": "FdUMP5-fluorodeoxyuridin",
+    "arti": "monophosphate Salah satu bentuk metabolit fluorourasil."
+  },
+  {
+    "id": "127",
+    "istilah": "Fermentasi",
+    "arti": "Suatu proses biokimia di mana substan organik, terutama karbohidrat ditata ulang oleh enzim-enzim untuk menyediakan energi kimia."
+  },
+  {
+    "id": "128",
+    "istilah": "Feses",
+    "arti": "bahan-bahan yang tidak berguna lagi bagi tubuh, dikeluarkan melalui anus"
+  },
+  {
+    "id": "129",
+    "istilah": "Fetometri",
+    "arti": "pengukuran fetus, khususnya diameter kepalanya."
+  },
+  {
+    "id": "130",
+    "istilah": "Fetus",
+    "arti": "keturunan yang belum dilahirkan dari setiap hewan vivipar, khususnya keturunan belum lahir pada masa pasca embrionik setelah struktur mayor yang terbentuk, pada manusia berkisar dari tujuh hingga delapan minggu setelah fertilisasi sampai kelahiran."
+  },
+  {
+    "id": "131",
+    "istilah": "Filter",
+    "arti": "proses penyaringan untuk memisahkan antara suatu senyawa dengan senyawa lain."
+  },
+  {
+    "id": "132",
+    "istilah": "First –Pass – Effect",
+    "arti": "metabolisme secara cepat dari obat – obat yang diberikan secara oral sebelum mencapai sirkulasi umum"
+  },
+  {
+    "id": "133",
+    "istilah": "Fisiologi",
+    "arti": "Ilmu faal; cabang biologi yang berkaitan dengan fungsi dan kegiatan kehidupan atau zat hidup (sel, jaringan dan organ)."
+  },
+  {
+    "id": "134",
+    "istilah": "Flatulensi",
+    "arti": "Terbentuknya banyak gas dalam usus"
+  },
+  {
+    "id": "135",
+    "istilah": "Flebitis",
+    "arti": "radang pembuluh vena."
+  },
+  {
+    "id": "136",
+    "istilah": "Fotofobia",
+    "arti": "intoleransi visual yang abnormal terhadap cahaya"
+  },
+  {
+    "id": "137",
+    "istilah": "Fotosensitasi",
+    "arti": "efek kepekaan yang berlebihan terhadap cahaya yang timbul akibat penggunaan obat."
+  },
+  {
+    "id": "138",
+    "istilah": "Funduskopi",
+    "arti": "tindakan memeriksa dasar bola mata."
+  },
+  {
+    "id": "139",
+    "istilah": "FUTP(fluorouridine triphosphate)",
+    "arti": "Salah satu bentuk metabolit fluorourasil."
+  },
+  {
+    "id": "140",
+    "istilah": "Gagal ginjal",
+    "arti": "ketidakmampuan ginjal mengekskresikan metabolit-metabolit pada kadar normal plasma dalam keadaan pembebanan normal atau ketidakmampuan menyimpan elektrolit pada keadaan normal."
+  },
+  {
+    "id": "141",
+    "istilah": "Galactorrhea",
+    "arti": "Keluar air susu walaupun tidak menyusui &lt; ISO Farmakoterapi Hal 561 &gt;"
+  },
+  {
+    "id": "142",
+    "istilah": "Galamin",
+    "arti": "Zat sintetik"
+  },
+  {
+    "id": "143",
+    "istilah": "Gametositosid",
+    "arti": "Membunuh gametosit yang berada dalam eritrosit sehingga transmisinya ke nyamuk dihambat."
+  },
+  {
+    "id": "144",
+    "istilah": "Gansiklovir",
+    "arti": "Antivirus untuk virus CMV, untuk pengobatan atau terapi penyakit yang disebabkan oleh sitomegalovirus &lt;CMV&gt;"
+  },
+  {
+    "id": "145",
+    "istilah": "Gastrin",
+    "arti": "perangsang sekresi asam lambung dan pepsin"
+  },
+  {
+    "id": "146",
+    "istilah": "Gastritis",
+    "arti": "Penyakit lambung atau tukak duodenum &lt; ISO Farmakoterapi Hal 418 &gt;"
+  },
+  {
+    "id": "147",
+    "istilah": "Gefitnib",
+    "arti": "Merupakan penghambat spesifik EGFR &lt; epidermal growth factor receptor&gt; yang secara kompetitif menghambat pengikatan ATP"
+  },
+  {
+    "id": "148",
+    "istilah": "Ginekomastia",
+    "arti": "perkembangan berlebihan kelenjar susu laki-laki"
+  },
+  {
+    "id": "149",
+    "istilah": "Genetik",
+    "arti": "berhubungan dengan reproduksi atau kelahiran atau diwariskan"
+  },
+  {
+    "id": "150",
+    "istilah": "Genital",
+    "arti": " berkenaan dengan berbagai organ eksternal dan internal yang menyangkut reproduksi "
+  },
+  {
+    "id": "151",
+    "istilah": "Glaucoma",
+    "arti": " penyakit mata yang ditandai dengan peninggian tekanan intraocular yang mengakibatkan perubahan patologis dalam diskus optikus dan defek pada lapangan pandang yang khas. "
+  },
+  {
+    "id": "152",
+    "istilah": "Glomerulonefritis",
+    "arti": "peradangan lengkung kapiler dalam glomerulus ginjal"
+  },
+  {
+    "id": "153",
+    "istilah": "Glukoneogenesis",
+    "arti": "pembentukan glukosa dari molekul bukan karbohidrat seperti asam amino, laktat , dan bagian gliserol lemak."
+  },
+  {
+    "id": "154",
+    "istilah": "Goitrogens",
+    "arti": "senyawa yang menyebabkan pembesaran pada kelenjer tiroid, yang menyebabkan pembengkakan di bagian depan leher."
+  },
+  {
+    "id": "155",
+    "istilah": "Gonorrhea",
+    "arti": "infeksi yang disebabkan oleh Neisseria Gonorrhoeae yang ditularkan melalui hubungan seks pada sebagian kasus, tetapi juga oleh kontak dengan eksudat terifeksi pada neonates ketika lahir, atau oleh bayi dirumah dengan penghuni yang terinfeksi."
+  },
+  {
+    "id": "156",
+    "istilah": "Gou",
+    "arti": "kumpulan gangguan metabolism purin"
+  },
+  {
+    "id": "157",
+    "istilah": "Gonadotropin",
+    "arti": "Hormon glikoprotein &lt; peptida &gt; dan hanya efektif bila diberikan dalam bentuk suntikan"
+  },
+  {
+    "id": "158",
+    "istilah": "Glaukoma",
+    "arti": "Pembentukan cairan bola mata &lt; Farmakoterapi UI Ed V Hal 100 &gt;"
+  },
+  {
+    "id": "159",
+    "istilah": "Gutta percha",
+    "arti": "Bahan untuk perbaikan gigi &lt; ANSEL Hal 573 &gt;"
+  },
+  {
+    "id": "160",
+    "istilah": "Handschoon",
+    "arti": "Sarung tangan"
+  },
+  {
+    "id": "161",
+    "istilah": "Haemoglobin",
+    "arti": "Protein darah"
+  },
+  {
+    "id": "162",
+    "istilah": "Heart Failure",
+    "arti": "Gagal jantung koroner: suatu keadaan di mana jantung tidak mampu untuk memompa darah dalam jumlah mencukupi untuk metabolisme tubuh."
+  },
+  {
+    "id": "163",
+    "istilah": "Hematokrit",
+    "arti": "Kekentalan darah"
+  },
+  {
+    "id": "164",
+    "istilah": "Hematuria",
+    "arti": "Ekskresi sel darah merah melalui urin"
+  },
+  {
+    "id": "165",
+    "istilah": "Hemodialisa",
+    "arti": "Ginjal buatan, cara untuk mengeliminasi zat-zat penting dalam urine"
+  },
+  {
+    "id": "166",
+    "istilah": "Hemoragik",
+    "arti": "Mengakibatkan pendarahan/terjadi pendarahan"
+  },
+  {
+    "id": "167",
+    "istilah": "Hepar",
+    "arti": "Hati"
+  },
+  {
+    "id": "168",
+    "istilah": "Hepatitis",
+    "arti": "Penyakit organ hati"
+  },
+  {
+    "id": "169",
+    "istilah": "Hereditas",
+    "arti": "Keturunan"
+  },
+  {
+    "id": "170",
+    "istilah": "Herpes simplex",
+    "arti": "Pembentukan gelembung berkelompok berisi air akibat virus herpes biasanya terjadi pada bibir atau bagian tubuh lain."
+  },
+  {
+    "id": "171",
+    "istilah": "Herpes Zooster",
+    "arti": "Pembentukan gelembung berkelompok berisi air akibat virus zooster pada daerah kulit bagian perut, punggung diikuti dengan neuralgia"
+  },
+  {
+    "id": "172",
+    "istilah": "Heterogen",
+    "arti": "Beragam"
+  },
+  {
+    "id": "173",
+    "istilah": "Hibiscus",
+    "arti": "Bunga"
+  },
+  {
+    "id": "174",
+    "istilah": "Hidrofilik",
+    "arti": "larut air"
+  },
+  {
+    "id": "175",
+    "istilah": "Hidrofobik",
+    "arti": "Tidak larut air"
+  },
+  {
+    "id": "176",
+    "istilah": "Hidrolisis",
+    "arti": "Terlarut dan berikatan"
+  },
+  {
+    "id": "177",
+    "istilah": "Hiperglikemia",
+    "arti": "Naiknya kandungan glukosa dalam serum ( lebih dari 120mg/100ml)"
+  },
+  {
+    "id": "178",
+    "istilah": "Hiperaktif",
+    "arti": "Gerak yang berlebih"
+  },
+  {
+    "id": "179",
+    "istilah": "Hiperkalemia",
+    "arti": "kadar kalium yang tinggi"
+  },
+  {
+    "id": "180",
+    "istilah": "Hiperkalsemia",
+    "arti": "kadar kalsium yang tinggi"
+  },
+  {
+    "id": "181",
+    "istilah": "Hipersekresi",
+    "arti": "Pengeluaran zat yang tinggi"
+  },
+  {
+    "id": "182",
+    "istilah": "Hipersensitif",
+    "arti": "sensitivitas ynag tinggi"
+  },
+  {
+    "id": "183",
+    "istilah": "Hipertensi",
+    "arti": "Darah tinggi"
+  },
+  {
+    "id": "184",
+    "istilah": "Hiperurisemia",
+    "arti": "Keadaan dimana kadar asam urat darah meningkat diatas 6mg %"
+  },
+  {
+    "id": "185",
+    "istilah": "Hipoaktif",
+    "arti": "Kekurangn gerak/ kurang aktif"
+  },
+  {
+    "id": "186",
+    "istilah": "Hipoglikemia",
+    "arti": "Berkurangnya kandungan glukosa dalam serum (70mg/100ml)"
+  },
+  {
+    "id": "187",
+    "istilah": "Hipokalemia",
+    "arti": "kadar kalium yang rendah"
+  },
+  {
+    "id": "188",
+    "istilah": "Hipokalsemia",
+    "arti": "kadar kalsium yang rendah"
+  },
+  {
+    "id": "189",
+    "istilah": "Hiposekresi",
+    "arti": "Pengeluaran zat yang rendah"
+  },
+  {
+    "id": "190",
+    "istilah": "Hiposensitif",
+    "arti": "Sensitivitas yang rendah"
+  },
+  {
+    "id": "191",
+    "istilah": "Hipotensi",
+    "arti": "Darah rendah"
+  },
+  {
+    "id": "192",
+    "istilah": "Histology",
+    "arti": "ilmu tentang jaringan tubuh"
+  },
+  {
+    "id": "193",
+    "istilah": "Homogenitas",
+    "arti": "keseragaman"
+  },
+  {
+    "id": "194",
+    "istilah": "Hygiene",
+    "arti": "ilmu kesehatan"
+  },
+  {
+    "id": "195",
+    "istilah": "Hygienist",
+    "arti": "ahli kesehatan"
+  },
+  {
+    "id": "196",
+    "istilah": "Ichorrea",
+    "arti": "keluarnya banyak cairan encer dari luka atau borok."
+  },
+  {
+    "id": "197",
+    "istilah": "Icterus",
+    "arti": "menjadi kuningnya warna kulit,selaput lendir dan berbagai jaringan tubuh oleh zat warna empedu."
+  },
+  {
+    "id": "198",
+    "istilah": "Idioptik",
+    "arti": "Terjadi dengan sendirinya tanpa penyebab yang jelas"
+  },
+  {
+    "id": "199",
+    "istilah": "Idiotope",
+    "arti": "fragmen antibodi yang mengikat antigen."
+  },
+  {
+    "id": "200",
+    "istilah": "Ikterus",
+    "arti": "Sakit kuning, kulit berwarna kuning akibat masuknya empedu terutama bilirubin ke dalam darah"
+  },
+  {
+    "id": "201",
+    "istilah": "Ileum",
+    "arti": "bagian usus antara pangkal usus halus dan usus besar."
+  },
+  {
+    "id": "202",
+    "istilah": "Ileus",
+    "arti": "penyumbatan usus"
+  },
+  {
+    "id": "203",
+    "istilah": "Imune",
+    "arti": "kebal terhadap penyakit tertentu"
+  },
+  {
+    "id": "204",
+    "istilah": "Immunoeletrophoresis",
+    "arti": "eletroforesis untuk menentukan fragmen antigen zat anti."
+  },
+  {
+    "id": "205",
+    "istilah": "Imumoglobulin",
+    "arti": "fraksi protein yg mengandung zat anti,kompleks imun tertentu."
+  },
+  {
+    "id": "206",
+    "istilah": "Immunologi",
+    "arti": "ilmu yang mempelajari segala hal yang bersangkutan dengan kekebalan"
+  },
+  {
+    "id": "207",
+    "istilah": "Immunosupressant",
+    "arti": "penekan reaksi imun,usaha mencegah atau mengurangi reaksi imun."
+  },
+  {
+    "id": "208",
+    "istilah": "Impotene",
+    "arti": "ketidakmampuan seorang pria untuk bersenggama"
+  },
+  {
+    "id": "209",
+    "istilah": "Incubation",
+    "arti": "masa antara infeksi dan timbulnya gejala penyakit."
+  },
+  {
+    "id": "210",
+    "istilah": "Indikasi",
+    "arti": "petunjuk yang menjadi alasan dilkukannya tindakan langsung terhadap sebab penyakit."
+  },
+  {
+    "id": "211",
+    "istilah": "Infark",
+    "arti": "kematian jaringan karena gangguan pendarahan."
+  },
+  {
+    "id": "212",
+    "istilah": "Infeksi",
+    "arti": "masuknya bibit penyakit ke dalam tubuh,khususnya mikroba"
+  },
+  {
+    "id": "213",
+    "istilah": "Infertility",
+    "arti": "tidak dapat memperoleh keturunan"
+  },
+  {
+    "id": "214",
+    "istilah": "Influenza",
+    "arti": "penyakit akut yang di sebabkan oleh virus, ditandai dengan demam, radang selaput lendir saluran nafas atau saluran cerna"
+  },
+  {
+    "id": "215",
+    "istilah": "Inhalation",
+    "arti": "menghirup udara atau uap lain ke dalam paru-paru."
+  },
+  {
+    "id": "216",
+    "istilah": "Injeksi",
+    "arti": "memasukkan larutan obat atau larutan-larutan lain ke dalam tubuh memakai semprit."
+  },
+  {
+    "id": "217",
+    "istilah": "Insomnia",
+    "arti": "tidak bisa tidur"
+  },
+  {
+    "id": "218",
+    "istilah": "Insulin",
+    "arti": "hormon yang dihasilkan oleh sel- sel beta pulau langerhans kelenjar ludah perut."
+  },
+  {
+    "id": "219",
+    "istilah": "IUD",
+    "arti": "Alat yang diletakkan di dalam rongga rahim untuk mencegah terjadinya pembuahan."
+  },
+  {
+    "id": "220",
+    "istilah": "Intramuscular",
+    "arti": "metode rute pemberian obat dengan memberikan suntikan langsung ke otot."
+  },
+  {
+    "id": "221",
+    "istilah": "Intravena",
+    "arti": "pemberian zat langsung ke pembuluh darah"
+  },
+  {
+    "id": "222",
+    "istilah": "Jangar",
+    "arti": "Penyakit pening kepala."
+  },
+  {
+    "id": "223",
+    "istilah": "Janin",
+    "arti": "Bakal bayi yang masih dalam kandungan."
+  },
+  {
+    "id": "224",
+    "istilah": "Jaringan",
+    "arti": "Sekumpulan sel-sel yang bergabung dengan zat-zat yang terdapat di ruang (celah) antar sel tersebut membentuk suatu struktur/ fungsi tertentu pada makhluk hidup."
+  },
+  {
+    "id": "225",
+    "istilah": "Jaundice",
+    "arti": "Perubahan warna menjadi kekuningan pada kulit, selaput lendir, san sklera mata yang diakibatkan oleh tingginya kadar bilirubin darah."
+  },
+  {
+    "id": "226",
+    "istilah": "Jerawat",
+    "arti": "Penyakit radang kelenjar minyak (sebaceous) dan folikel (kantong kecil pelindung,kelenjar) rambut pada kulit yang ditandai oleh letusan jerawat atau pustula, terutama pada wajah."
+  },
+  {
+    "id": "227",
+    "istilah": "Jejas",
+    "arti": "Lecet, tergores, luka sedikit."
+  },
+  {
+    "id": "228",
+    "istilah": "Kardiotoksik",
+    "arti": "memiliki efek racun atau merusak terhadap racun."
+  },
+  {
+    "id": "229",
+    "istilah": "Karditis",
+    "arti": "Radang jantung"
+  },
+  {
+    "id": "230",
+    "istilah": "Karsinoma",
+    "arti": "Tumor epitel ganas"
+  },
+  {
+    "id": "231",
+    "istilah": "Kavitasi",
+    "arti": "pembentukan rongga di dalam tubuh atau di salah satu organnya."
+  },
+  {
+    "id": "232",
+    "istilah": "Kifosis",
+    "arti": "kelengkungan torak tulang belakang yang berlebihan seperti yang terlihat dari samping."
+  },
+  {
+    "id": "233",
+    "istilah": "Kolaps",
+    "arti": "keadaan kelemahan dan depresi ekstrem dengan kegagalan sirkulasi."
+  },
+  {
+    "id": "234",
+    "istilah": "Kolestatik",
+    "arti": "penghentian atau supresi aliran empedu dengan penyebab intrahepatik atau ekstrahepatik."
+  },
+  {
+    "id": "235",
+    "istilah": "Kolik",
+    "arti": "nyeri abdomen akut."
+  },
+  {
+    "id": "236",
+    "istilah": "Kolitis",
+    "arti": "peradangan kolon"
+  },
+  {
+    "id": "237",
+    "istilah": "Kolonisasi",
+    "arti": "implantasi dan pertumbuhan suatu mikroorganisme pada suatu pejamu."
+  },
+  {
+    "id": "238",
+    "istilah": "Koma",
+    "arti": "keadaan tidak sadarkan diri yang penderitanya tidak dapat dibangunkan, bahkan dengan ransangan yang sangat kuat."
+  },
+  {
+    "id": "239",
+    "istilah": "Kompleks ghon",
+    "arti": "gabungan lesi paru parenkimal dan fokus nodus ilmfatikus yang berkaitan."
+  },
+  {
+    "id": "240",
+    "istilah": "Komplikasi",
+    "arti": "penyakit ataupun penyakit-penyakit yang muncul bersama-sama dengan penyakit lainnya."
+  },
+  {
+    "id": "241",
+    "istilah": "Kondiloma",
+    "arti": "lesi yang menonjol pada kulit."
+  },
+  {
+    "id": "242",
+    "istilah": "Konfusi",
+    "arti": "mengganggu orientasi dalam hal waktu, tempat, atau orang kadang-kadang disertai oleh gangguan kesadaran."
+  },
+  {
+    "id": "243",
+    "istilah": "Konjugasi",
+    "arti": "pekerjaan bergabung bersama."
+  },
+  {
+    "id": "244",
+    "istilah": "Konjungtivitas",
+    "arti": "peradangan pada konjungtiva."
+  },
+  {
+    "id": "245",
+    "istilah": "Konstipasi",
+    "arti": "jarang atau sulit mengeluarkan feses."
+  },
+  {
+    "id": "246",
+    "istilah": "Konstriksi",
+    "arti": "bagian atau tempat yang mengkerut"
+  },
+  {
+    "id": "247",
+    "istilah": "Kontra indikasi",
+    "arti": "setiap keadaan, teristimewa setiap keadaan penyakit yang menyebabkan suatu cara pengobatan tidak tepat atau tidak dikehendaki."
+  },
+  {
+    "id": "248",
+    "istilah": "Konvulsi",
+    "arti": "kontraksi i volunter atau serentetan kontraksi dari otot-otot volunter."
+  },
+  {
+    "id": "249",
+    "istilah": "Kram",
+    "arti": "kontraksi muskular spasmodik yang nyeri, khususnya suatu spasme tonik."
+  },
+  {
+    "id": "250",
+    "istilah": "Kronik",
+    "arti": "menetap untuk suatu periode waktu yang panjang."
+  },
+  {
+    "id": "251",
+    "istilah": "Laju Disolusi",
+    "arti": "kecepatan perubahan dari bentuk padat menjadi terlarut dalam medianya setiap waktu tertentu."
+  },
+  {
+    "id": "252",
+    "istilah": "Laju Sedimentasi",
+    "arti": "kecepatan pengendapan dari partikel-partikel suspense"
+  },
+  {
+    "id": "253",
+    "istilah": "Laktagoga",
+    "arti": "memperlancar ASI"
+  },
+  {
+    "id": "254",
+    "istilah": "Laktasi",
+    "arti": "produksi susu pada kelenjar payudara wanita setelah melahirkan"
+  },
+  {
+    "id": "255",
+    "istilah": "Laktifuga",
+    "arti": "menghentikan atau mengurangi ASI"
+  },
+  {
+    "id": "256",
+    "istilah": "Larutan",
+    "arti": "sedian cair yang mengandung satu atau lebih zat kimia yang dapat larut dalam pelarut."
+  },
+  {
+    "id": "257",
+    "istilah": "Larutan Buffer",
+    "arti": "suatu larutan yang mengandung asam lemah dengan garam dari asam itu,atau larutan basa lemah dengan garam dari basa itu, yang PH-nya tetap bila ditambah sedikit asam kuat,basa kuat atau air."
+  },
+  {
+    "id": "258",
+    "istilah": "Larutan ideal",
+    "arti": "lautan yang interaksi antar zat terlarut,antara zat terlarut-pelarut,dan antar pelarutnya sama."
+  },
+  {
+    "id": "259",
+    "istilah": "Larutan Jenuh",
+    "arti": "larutan yang mengandung zat terlarut sebanyak yang diperlukan untuk mempertahankan keseimbangan dengan padatan zat itu dalam larutan."
+  },
+  {
+    "id": "260",
+    "istilah": "Laxantia/Laksativ",
+    "arti": "melancarkan BAB / Pencahar."
+  },
+  {
+    "id": "261",
+    "istilah": "Leprostatik",
+    "arti": "Obat yang membunuh atau menghambat Mycobacterium leprae, unsur penyebab lepra."
+  },
+  {
+    "id": "262",
+    "istilah": "Lesi",
+    "arti": "diskontinuitas jaringan patologik atau traumatic atau hilangnya fungsi suatu bagian."
+  },
+  {
+    "id": "263",
+    "istilah": "Letal",
+    "arti": "mematikan"
+  },
+  {
+    "id": "264",
+    "istilah": "Lethargy",
+    "arti": "tingkat kesadaran yang menurun pendengaran berkurang dan apati;keadaan tidak acuh."
+  },
+  {
+    "id": "265",
+    "istilah": "Levodopa",
+    "arti": "merupakan prekusor dopamine dan karbidopa inhibitor dekarboksilat untuk nmembantu pengurangan L-DOPA di dalam darah dan memperbaiki otak."
+  },
+  {
+    "id": "266",
+    "istilah": "Ligand",
+    "arti": "Suatu partikel yang mempunyai pasangan electron bebas untuk berikatam koordinasi dean ion pusat membentuk molekul atau ion poliatom (ion kompleks)."
+  },
+  {
+    "id": "267",
+    "istilah": "Liniment",
+    "arti": "Suatu larutan alkohol atau berlemak atau emulsi dari macam-macam bahan obat yang dimaksudkan untuk pemakaian luar pada kulit,biasanya dengan menggosokkannya."
+  },
+  {
+    "id": "268",
+    "istilah": "Liofilik",
+    "arti": "partikel yang suka pada pelarutnya"
+  },
+  {
+    "id": "269",
+    "istilah": "Liofobik",
+    "arti": "partikel yang tidak suka pada pelarutnya"
+  },
+  {
+    "id": "270",
+    "istilah": "Litotriptika",
+    "arti": "menghancurkan batu pada kandung kemih."
+  },
+  {
+    "id": "271",
+    "istilah": "Lipolisis",
+    "arti": "Dekomposisis atau pemecahan lemak."
+  },
+  {
+    "id": "272",
+    "istilah": "Liquid Petrolatum",
+    "arti": "Campuran dari hidrokarbon cair yang dihasilkan dari minyak bumi dan berguna dalam menggerus bahan yang tidak larut pada preparat salep dengan dasar berlemak."
+  },
+  {
+    "id": "273",
+    "istilah": "Lot",
+    "arti": "Suatu batch atau bagian apa saja dari suatu batch yang mempunyai kualitas tertentu yang seragam dan diberi kode pengenal “nomon lot” untuk membedakan."
+  },
+  {
+    "id": "274",
+    "istilah": "Lotio",
+    "arti": "Preparat cair yang dimaksudkan unyuk pemakaian luar pada kulit."
+  },
+  {
+    "id": "275",
+    "istilah": "Lozenges",
+    "arti": "Obat isap berbentuk sediaan padat bentuk cakram yang mengandung bahan obat dan umumnya juga bahan pewangi,dimaksudkan untuk secara perlahan-lahan melarut dalam rongga mulut untuk efek setempat."
+  },
+  {
+    "id": "276",
+    "istilah": "Lubrikasi",
+    "arti": "Proses penambahan bahan pelincir ke dalam granul setelah proses pengayakan kering."
+  },
+  {
+    "id": "277",
+    "istilah": "Lupus",
+    "arti": "Anjung hutan (latin), kelainan kulit atau selaput lendir yang menyerupai bekas cakaran anjing"
+  },
+  {
+    "id": "278",
+    "istilah": "Lupus erimatosus",
+    "arti": "Penyakit autoimun diawali dengan demam tinggi, nyeri pada sendi"
+  },
+  {
+    "id": "279",
+    "istilah": "Malignan",
+    "arti": "Ganas"
+  },
+  {
+    "id": "280",
+    "istilah": "Maserasi",
+    "arti": "merupakan proses perendaman sampel menggunakan pelarut organik pada temperatur ruangan."
+  },
+  {
+    "id": "281",
+    "istilah": "Meningitis",
+    "arti": "Radang selaput otak"
+  },
+  {
+    "id": "282",
+    "istilah": "Menopause",
+    "arti": "berhentinya secara fisiologis siklus menstruasi yang berkaitan dengan tingkat lanjut usia perempuan."
+  },
+  {
+    "id": "283",
+    "istilah": "Metabolit",
+    "arti": "(bahasa Inggris: metabolite) adalah intermediat dan produk dari metabolisme."
+  },
+  {
+    "id": "284",
+    "istilah": "Metabolisme",
+    "arti": "(bahasa Yunani: μεταβολισμος, metabolismos, perubahan) adalah semuareaksi kimia yang terjadi di dalam organisme, termasuk yang terjadi di tingkat selular."
+  },
+  {
+    "id": "285",
+    "istilah": "Midriasis",
+    "arti": "Dilatasi pupil"
+  },
+  {
+    "id": "286",
+    "istilah": "Mikrobiologi",
+    "arti": "sebuah cabang dari ilmu biologi yang mempelajari mikroorganisme."
+  },
+  {
+    "id": "287",
+    "istilah": "Mikroorganisme/mikroba",
+    "arti": "organisme yang berukuran sangat kecil sehingga untuk mengamatinya diperlukan alat bantuan."
+  },
+  {
+    "id": "288",
+    "istilah": "Miopati",
+    "arti": "Penyakit otot"
+  },
+  {
+    "id": "289",
+    "istilah": "Miosis",
+    "arti": "Penciutan pupil"
+  },
+  {
+    "id": "290",
+    "istilah": "Myastenia gravis",
+    "arti": "Meningkatnya kelelahan otot serat lintang akibat gangguan penghantaran rangsang neuromuskolor terjadi terutama pada otot bicara mengunyah dan menelan"
+  },
+  {
+    "id": "291",
+    "istilah": "Nadir",
+    "arti": "Titik terendah"
+  },
+  {
+    "id": "292",
+    "istilah": "Narkolepsi",
+    "arti": "penyakit kronis yang ditandai dengan serangan kantuk dan ingin tidur."
+  },
+  {
+    "id": "293",
+    "istilah": "Narkosis",
+    "arti": "keadaan mati rasa seluruh badan karena pengaruh obat bius (narkotik dan sebagainya)."
+  },
+  {
+    "id": "294",
+    "istilah": "Narkotika",
+    "arti": "Obat yang menyebabkan pingsan, kurang sensitif, dan meredakan nyeri."
+  },
+  {
+    "id": "295",
+    "istilah": "Nausea",
+    "arti": "rasa akan muntah; rasa mual"
+  },
+  {
+    "id": "296",
+    "istilah": "Nefritis",
+    "arti": "radang yang terjadi pada ginjal sebagai reaksi imunologis ginjal terhadap infeksi pada tempat lain."
+  },
+  {
+    "id": "297",
+    "istilah": "Nefritis Intertisial",
+    "arti": "Penyakit primer atau sekunder pada jaringan interstial ginjal."
+  },
+  {
+    "id": "298",
+    "istilah": "Nefrosis",
+    "arti": "kondisi di mana membrane glomerulus bocor, menyebabkan sejumlah protein keluar dari darah menuju protein."
+  },
+  {
+    "id": "299",
+    "istilah": "Nefrotoksis",
+    "arti": "Merusak ginjal"
+  },
+  {
+    "id": "300",
+    "istilah": "Nekrosis",
+    "arti": "proses kematian sel yang melibatkan sekelompok sel sehingga sel tersebut kehilangan integritas membran."
+  },
+  {
+    "id": "301",
+    "istilah": "Nematosida",
+    "arti": "zat untuk membasmi cacing nematoda."
+  },
+  {
+    "id": "302",
+    "istilah": "Neonatal",
+    "arti": "Masa selama 4 minggu setelah kelahiran."
+  },
+  {
+    "id": "303",
+    "istilah": "Neonatus",
+    "arti": "masa kehidupan pertama di luar Rahim sampai dengan usia 28 hari, di mana terjadi perubahan yang sangat besar dari kehidupan di dalam rahim."
+  },
+  {
+    "id": "304",
+    "istilah": "Neural tube defects",
+    "arti": "Gangguan tubulus saraf"
+  },
+  {
+    "id": "305",
+    "istilah": "Neuritis",
+    "arti": "Radang syaraf"
+  },
+  {
+    "id": "306",
+    "istilah": "Neuropathy",
+    "arti": "Gangguan fungsional atau perubahan patologis pada sistem saraf tepi."
+  },
+  {
+    "id": "307",
+    "istilah": "Neurotorsisitas",
+    "arti": "Gangguan yang disebabkan oleh paparan senyawa alami maupun buatan yang bersifat toksik pada sistem saraf"
+  },
+  {
+    "id": "308",
+    "istilah": "Neurotransmiter",
+    "arti": "senyawa organic endogenus membawa sinyal di antara neuron."
+  },
+  {
+    "id": "309",
+    "istilah": "Nikotin",
+    "arti": "zat racun yang terdapat dalam tembakau, digunakan dalam perobatan dan untuk insektisida"
+  },
+  {
+    "id": "310",
+    "istilah": "Non Hodgkin’s",
+    "arti": "lymphomaLymphoma Non Hodgkin merupakan kelompok kanker yang timbul mulai dari limfosit, salah satu tipe sel darah putih.Tipe ini dibedakan dari Lymphoma Hodgkin dari sifat patologi, epidemiologi, organ yang terlibat, pengaruhnya terhadap tingkah laku dan perawatannya.Lymphoma jenis ini berkembang pada organ yang berhubungan dengan sistem limfe (limpa, limfe node dan tonsil), Beberapa kasus diawali dengan infiltrasi terhadap limfe node, pada kasus lain infiltrasi diawali pada organ limfe lain."
+  },
+  {
+    "id": "311",
+    "istilah": "Obesitas",
+    "arti": "Kondisi di mana lemak terakumulasi di tubuh, terutama pada jaringan subkutan"
+  },
+  {
+    "id": "312",
+    "istilah": "Obstipasi",
+    "arti": "Konstipasi total"
+  },
+  {
+    "id": "313",
+    "istilah": "Oculenta",
+    "arti": "Salep steril untuk pengobatan mata menggunakan salep mata dasar yang cocok."
+  },
+  {
+    "id": "314",
+    "istilah": "Olfaktori",
+    "arti": "berhubungan dengan indera penciuman."
+  },
+  {
+    "id": "315",
+    "istilah": "Oligosakarida",
+    "arti": "karbohidrat yang pada hidrolisis menghasilkan sejumlah kecil (dua sampai sepuluh ) monosakarida."
+  },
+  {
+    "id": "316",
+    "istilah": "Oligouria",
+    "arti": "Berkurangnya ekskresi urin per hari menjadi 100-400/ml"
+  },
+  {
+    "id": "317",
+    "istilah": "OHO (Obat Hipoglikemik Oral) ",
+    "arti": "Obat untuk menurunkan kadar gula darah yang diberikan secara oral."
+  },
+  {
+    "id": "318",
+    "istilah": "Oksitoksik",
+    "arti": "Obat yang dapat menyebabkan oksitosia (kelahiran yang cepat)."
+  },
+  {
+    "id": "319",
+    "istilah": "Onikolis",
+    "arti": "terlepasnya kuku dari matriksnya, biasanya dimulai pada ujung bebas dan berkembang ke proksimal."
+  },
+  {
+    "id": "320",
+    "istilah": "Onset",
+    "arti": "Waktu yang diperlukan suatu obat untuk mulai memberikan efeknya setelah pemberian"
+  },
+  {
+    "id": "321",
+    "istilah": "Osteoarthritis",
+    "arti": "penyakit sendi degenerative noninflamasi yang terutama terjadi pada orang tua, ditandai dengan degenerasi tulang rawan sendi, hipertrofi tulang pada tepinya, dan perubahan pada membran sinovial."
+  },
+  {
+    "id": "322",
+    "istilah": "Osteoblast",
+    "arti": "sel yang berasal dari fibroblast dan ketika dewasa berhubungan dengan produksi tulang."
+  },
+  {
+    "id": "323",
+    "istilah": "Osteodistrofi",
+    "arti": "gangguan pembentukan tulang."
+  },
+  {
+    "id": "324",
+    "istilah": "Osteofit",
+    "arti": "tonjolan bertulang atau pertumbuhan oseosa"
+  },
+  {
+    "id": "325",
+    "istilah": "Osteomielitis",
+    "arti": "Radang sumsum tulang"
+  },
+  {
+    "id": "326",
+    "istilah": "Osteopenia",
+    "arti": "Kerapuhan tulang karena berkurangnya unsur-unsur pembentuk tulang."
+  },
+  {
+    "id": "327",
+    "istilah": "Osteoporosis",
+    "arti": "pengurangan massa tulang; menyebabkan fraktur setelah trauma minimal."
+  },
+  {
+    "id": "328",
+    "istilah": "Osteorekrosis",
+    "arti": "Disebut juga avaskular nekrosis atau nekrosis tulang yaitu penyakit yang disebabkan hilangnya suplai darah ke tulang yang bersifat sementara maupun permanen"
+  },
+  {
+    "id": "329",
+    "istilah": "Osteosarcoma (Osteosarkoma Neoplasma)",
+    "arti": "tulang primer yang ganas dan terdiri atas stroma jaringan penyambung ganas dengan adanya osteoid ganas, pembentukan tulnag atau kartilago."
+  },
+  {
+    "id": "330",
+    "istilah": "OTC drug (Over The Counter drug)",
+    "arti": "Obat yang dapat dibeli secara bebas tanpa resep dokter."
+  },
+  {
+    "id": "331",
+    "istilah": "Otitis media",
+    "arti": "Radang telinga tengah"
+  },
+  {
+    "id": "332",
+    "istilah": "Ovula",
+    "arti": "sediaan padat yang digunakan melalui vagina, umumnya berbentuk telur, dapat melarut, melunak dan meleleh pada suhu tubuh."
+  },
+  {
+    "id": "333",
+    "istilah": "Pansitipenia",
+    "arti": "Depresi semua sel darah secara abnormal"
+  },
+  {
+    "id": "334",
+    "istilah": "Paralisis",
+    "arti": "Kehilangan atau gangguan fungsi motorik pada suatu bagian akibat lesi pada mekanisme saraf atau otot"
+  },
+  {
+    "id": "335",
+    "istilah": "Paranoia",
+    "arti": "Proses gangguan pikiran yang ditandai dengan rasa takut atau khawatir yang berlebihan."
+  },
+  {
+    "id": "336",
+    "istilah": "Parathesia",
+    "arti": "Perasaan sakit atau tidak nyaman, abnormal seperti kesemutan, rasa terbakar atau berkeringat."
+  },
+  {
+    "id": "337",
+    "istilah": "Parkinson",
+    "arti": "penyakit dengan ciri–ciri tremor (getar) pada tangan dan kaki."
+  },
+  {
+    "id": "338",
+    "istilah": "Parasimpatolitik",
+    "arti": "pelawan efek perangsang saraf parasimpatik."
+  },
+  {
+    "id": "339",
+    "istilah": "Pasivasi",
+    "arti": "Sebuah kimia proses pengobatan / pembersihan akhir yang menghilangkan besi eksogen atau senyawa besi dari permukaan pipa stainless steel dan peralatan dengan menggunakan suatu oksidan ringan, seperti larutan asam nitrat, atau dengan &#8220;in-situ electropolishing. Tujuan passivasi adalah untuk memulihkan dan / atau meningkatkan pembentukan spontan dari permukaan kimia inert atau film pasif protektif."
+  },
+  {
+    "id": "340",
+    "istilah": "Pasteurisasi",
+    "arti": "Pemanasan susu, anggur, jus buah, dll, selama sekitar tiga puluh menit pada 68 ° C (154,4 ° F) dimana bakteri hidup hancur, tetapi rasa atau buket yang diawetkan, spora tidak akan terpengaruh, tetapi tetap dari berkembang dengan segera pendingin cair untuk 10 ° C (50 ° F) atau lebih rendah."
+  },
+  {
+    "id": "341",
+    "istilah": "Patogen",
+    "arti": "Setiap sel eukariotik mengandung mikrobiologi atau informasi genetik yang cukup, yang setelah ekspresi informasi tersebut mampu menghasilkan penyakit pada orang sehat, tanaman, atau hewan."
+  },
+  {
+    "id": "342",
+    "istilah": "PBL (Peripheral Blood Lymphocites)",
+    "arti": "Limfosit perifer darah yaitu jumlah limfosit matang yang bersirkulasi dalam darah."
+  },
+  {
+    "id": "343",
+    "istilah": "Pemerian",
+    "arti": "Deskripsi"
+  },
+  {
+    "id": "344",
+    "istilah": "Penyakit Kawasaki",
+    "arti": "Penyakit yang menyerang anak-anak, pertama kali terjadi di Jepang tetapi sekarang sudah tersebar di seluruh dunia. Bagian tubuh yang dipengaruhi adalah limfa node, kulit, arteri koroner jantung. Penyakit ini diawali dengan demam, rasa capek dan terkadang nyeri pada lambung. Kemudian terjadi ruam dan beberapa hari kemudian terjadi konjungtivitas, dan perubahan membran mukosa menjadi merah, lidah merah dan kering. Kelenjar limfa di leher membesar."
+  },
+  {
+    "id": "345",
+    "istilah": "Penyalur Alat Kesehatan (PAK)",
+    "arti": "perusahaan berbentuk badan hukum yang memiliki izin untuk pengadaan, penyimpanan, penyaluran alat kesehatan dalam jumlah besar sesuai ketentuan perundang-undangan."
+  },
+  {
+    "id": "346",
+    "istilah": "Pharmacy",
+    "arti": "rumah obat, apotek, apotik."
+  },
+  {
+    "id": "347",
+    "istilah": "Placebo",
+    "arti": "Zat inert atau tidak berbahaya yang digunakan dalam eksperimen terkontrol menguji kemanjuran zat lain."
+  },
+  {
+    "id": "348",
+    "istilah": "Pneumococcus",
+    "arti": "Diplococcus pneumoniae, bakteri berbentuk lonjong, berambut, gram positif, penyebab bronkitis, otitis media, meningitis,keratitis, konjungtivitis"
+  },
+  {
+    "id": "349",
+    "istilah": "Pneumonia",
+    "arti": "Radang paru"
+  },
+  {
+    "id": "350",
+    "istilah": "Poliuria",
+    "arti": "Meningkatnya jumlah urin karena penyakit"
+  },
+  {
+    "id": "351",
+    "istilah": "Porfiria",
+    "arti": "Kelompok gangguan metabolisme porfirin yang ditandai dengan peningkatan pembentukan dan ekskresi senyawa porfirin atau prekursor. Gejala yang timbul adalah sakit perut, yang mungkin parah dan gangguan gastrointestinal seperti mual, muntah, diare atau konstipasi, peningkatan tekanan darah, denyut jantung, rasa lelah pada otot,sensitif terhadap cahaya, bentol pada kulit dan rasa gatal, warna urin berubah menjadi karena ekskresi porfirin dan gangguan mental seperti depresi."
+  },
+  {
+    "id": "352",
+    "istilah": "Post partum",
+    "arti": "Setelah kelahiran"
+  },
+  {
+    "id": "353",
+    "istilah": "Posisi Trendelenburg",
+    "arti": "Posisi berbaring pada tempat yang datar, dimana posisi kepala lebih rendah daripada pelvis.Posisi ini adalah posisi standar untuk pembedahan abdominal atau ginekologi."
+  },
+  {
+    "id": "354",
+    "istilah": "Proliferasi",
+    "arti": "Bertumbuh membelah dengan cepat"
+  },
+  {
+    "id": "355",
+    "istilah": "Proteinuria",
+    "arti": "Adanya protein dalam urin"
+  },
+  {
+    "id": "356",
+    "istilah": "Pruritus",
+    "arti": "Gatal pada kulit yang menyebabkan timbul keinginan untuk menggaruknya. Rasa gatal ini bisa disebabkan oleh kulit yang kering sampai kemungkinan adanya kanker."
+  },
+  {
+    "id": "357",
+    "istilah": "Psikofarmaka",
+    "arti": "obat yang bekerja pada fungsi psikologis dan status kejiwaan."
+  },
+  {
+    "id": "358",
+    "istilah": "Psikosis",
+    "arti": "Penyakit pikiran kejiwaan"
+  },
+  {
+    "id": "359",
+    "istilah": "Psoriasis",
+    "arti": "Jaringan kulit yang bersisik"
+  },
+  {
+    "id": "360",
+    "istilah": "PVR (Pulmonary Vascular Resistance)",
+    "arti": "Resistensi Vaskular Sistemik yaitu resistensi pada pembuluh darah paru-paru yang cukup kuat untuk mengalirkan darah melalui sistem sirkulasi."
+  },
+  {
+    "id": "361",
+    "istilah": "Qinghaosu",
+    "arti": "tanaman artemisia annua yang ekstraknya merupakan senyawa trioksin pada obat artemisinin"
+  },
+  {
+    "id": "362",
+    "istilah": "QRS complex",
+    "arti": "struktur yang berhubungan dengan depolarisasi jantung pada elektrokardiogran"
+  },
+  {
+    "id": "363",
+    "istilah": "Qs",
+    "arti": "secukupnya"
+  },
+  {
+    "id": "364",
+    "istilah": "Quazepam",
+    "arti": "derivat obat benzodiazepin"
+  },
+  {
+    "id": "365",
+    "istilah": "Quercetin",
+    "arti": "senyawa flavon yang terdapat dibanyak di sayuran dan buah-buahan, sumber terpenting adalah teh,bawangm buah apel, dan anggur merah."
+  },
+  {
+    "id": "366",
+    "istilah": "Questran",
+    "arti": "adalah obat yang menyerap asam empedu dalam usus."
+  },
+  {
+    "id": "367",
+    "istilah": "Quinine",
+    "arti": "suatu derivat alkaloid dari kulit pohon cinchona"
+  },
+  {
+    "id": "368",
+    "istilah": "RA (Rheumatoid Arthritis)",
+    "arti": "Artitis Rematik"
+  },
+  {
+    "id": "369",
+    "istilah": "Rabies",
+    "arti": "Penyakit akut yang disebabkan oleh virus pada sistem saraf pusat yang mempengaruhi seluruh hewan berdarah dingin dan biasanya ditularkan ke manusia melalui gigitan anjing yang terinfeksi."
+  },
+  {
+    "id": "370",
+    "istilah": "Radiasi",
+    "arti": "Energi dalam bentuk gelombang atau partikel, terutama radiasi elektromagnetik."
+  },
+  {
+    "id": "371",
+    "istilah": "Rash (Ruam)",
+    "arti": "Perubahan pada kulit, meliputi perubahan warna dan teksture."
+  },
+  {
+    "id": "372",
+    "istilah": "Recipe",
+    "arti": "Mengambil; digunakan sebagai kepala resep, dinyatakan dengan symbol R/ . 2. Formula untuk menyediakan kombinasi bahan-bahan khusus."
+  },
+  {
+    "id": "373",
+    "istilah": "Recovery",
+    "arti": "Pemulihan"
+  },
+  {
+    "id": "374",
+    "istilah": "Redistribution fat",
+    "arti": "Kondisi medis yang ditandai dengan kehilangan lemak (atau terkadang penambahan lemak), umumnya di dagu atau wajah."
+  },
+  {
+    "id": "375",
+    "istilah": "Regimen",
+    "arti": "Pengaturan cara hidup dan makan bagi orang sakit"
+  },
+  {
+    "id": "376",
+    "istilah": "Rekristalisasi",
+    "arti": "Proses pembentukan Kristal agar didapatkan yang lebih murni."
+  },
+  {
+    "id": "377",
+    "istilah": "Rektum",
+    "arti": "Bagian dari tubuh yang berfungsi untuk pengeluaran sisa metabolsme"
+  },
+  {
+    "id": "378",
+    "istilah": "Relaksan Otot",
+    "arti": "Perifer obat yang dapat menyebabkan kelumpuhan pada otot rangka"
+  },
+  {
+    "id": "379",
+    "istilah": "Renal",
+    "arti": "Ginjal"
+  },
+  {
+    "id": "380",
+    "istilah": "Resep",
+    "arti": "Surat yang berisi permintaan dari dokter yang berisi obat untuk pasien"
+  },
+  {
+    "id": "381",
+    "istilah": "Reseptor",
+    "arti": "Tempat obat berikatan dalam tubuh"
+  },
+  {
+    "id": "382",
+    "istilah": "Resisten",
+    "arti": "Situasi di mana obat tidak lagi memberikan efek terapi"
+  },
+  {
+    "id": "383",
+    "istilah": "Retensi",
+    "arti": "Tindakan atau proses menahan dalam hal kepemilikan, atau menahan pada posisi atau tempat tertentu; penyimpanan persisten dari materi yang seharusnya dibuang dalam badan."
+  },
+  {
+    "id": "384",
+    "istilah": "Retikulositosis",
+    "arti": "Kondisi di mana terjadi peningkatan retikulosit. Kondisi ini umum terlihat pada anemia. Retikulosit adalah sel darah merah yang belum matang yang biasanya timbul saat terjadi regenerasi sel darah merah yang rusak."
+  },
+  {
+    "id": "385",
+    "istilah": "Retinoskopi",
+    "arti": "pengamatan pupil menggunakan lampu yang cahayanya diproyeksikan ke dalam mata, untuk menentukan kelainan refraksi."
+  },
+  {
+    "id": "386",
+    "istilah": "Rhinitis",
+    "arti": "Radang hidung atau pilek"
+  },
+  {
+    "id": "387",
+    "istilah": "Rigidity Nuchal",
+    "arti": "Kekakuan pada tengkuk atau tulang belakang"
+  },
+  {
+    "id": "388",
+    "istilah": "Riketsia",
+    "arti": "Gangguan dalam perkembangan dan mineralisasi lempeng pertanamab tulang yang disebabkan oleh sejumlah efek dalam vitamin D, kalsium, dan fosfor, termasuk defisiensi atau malabsorpsi dietetic, gangguan primer tulang, seta kelainan metabolik dan hormon yang diturunkan atau didapat"
+  },
+  {
+    "id": "389",
+    "istilah": "Rilis",
+    "arti": "Pelepasan agen mikrobiologi layak atau sel eukariotik yang tidak mengakibatkan pembentukan penyakit pada orang sehat, tanaman, atau hewan; atau proliferasi tidak terkendali dari setiap agen mikrobiologi atau sel-sel eukariotik."
+  },
+  {
+    "id": "390",
+    "istilah": "Ruam",
+    "arti": "Kelainan kulit yang mempunyai sifat tertentu"
+  },
+  {
+    "id": "391",
+    "istilah": "Saliva",
+    "arti": "sekret jernih, basa, kadang-kadang kental dari kelenjer partis, submaksilaris, sublingualis, dan kelenjer mukosa kecil mulut lain."
+  },
+  {
+    "id": "392",
+    "istilah": "Salut",
+    "arti": "diselubungi oleh kertas atau kain."
+  },
+  {
+    "id": "393",
+    "istilah": "Sanatogen",
+    "arti": "obat dalam bentuk cairan untuk penguat darah."
+  },
+  {
+    "id": "394",
+    "istilah": "Sapogenin",
+    "arti": "zat aktif permukaan yang berasal dari tumbuhan yang larut dalam air yang membentuk larutan mirip sabun"
+  },
+  {
+    "id": "395",
+    "istilah": "Sarkoidosis",
+    "arti": "retikulosis granulomatosa sistemik yang kronik progresif tanpa sebab yang jelas, ditandai dengan tuberkel keras pada hampir semua organ atau jaringan, termasuk kulit, paru-paru, kelenjer getah bening, hati, lima, mata, dan tulang-tulang kecil tangan dan kaki."
+  },
+  {
+    "id": "396",
+    "istilah": "Seborrhea",
+    "arti": "overaktivitas kelenjer sebaseus, mengakibatkan berlebihnya jumlah."
+  },
+  {
+    "id": "397",
+    "istilah": "Sedasi",
+    "arti": "menimbulkan efek sedative; tindakan atau efek menenangkan."
+  },
+  {
+    "id": "398",
+    "istilah": "Seizur",
+    "arti": "serangan mendadak atau kekambuhan suatu penyakit; episode tunggal epilepsy seringkali kejang."
+  },
+  {
+    "id": "399",
+    "istilah": "Sekresi",
+    "arti": "proses penguraian suatu produk spesifik karena aktifitas kelenjer; aktifitas ini dapat berupa memisahkan zat spesifik dalam darah atau penguraian zat kimia baru."
+  },
+  {
+    "id": "400",
+    "istilah": "Sertifikat bebas jual (certificate of free sale)",
+    "arti": "surat keterangan yang dikeluarkan oleh instansi berwenang dari negara asal produk dijual yang menerangkan bahwa suatu produk alat kesehatan sudah mendapatkan izin edar atau sudah bebas jual di negara tersebut."
+  },
+  {
+    "id": "401",
+    "istilah": "Sertifikat pemberitahuan ekspor (certificate of exportation)",
+    "arti": "surat keterangan yang dikeluarkan  khusus untuk ekspor."
+  },
+  {
+    "id": "402",
+    "istilah": "Sertifikat produksi",
+    "arti": "sertifikat yang diberikan oleh Menteri Kesehatan kepada pabrik yang telah melaksanakan cara pembuatan yang baik untuk memproduksi alat kesehatan dan/atau perbekalan kesehatan rumah tangga."
+  },
+  {
+    "id": "403",
+    "istilah": "Serum",
+    "arti": "cairan jernih yang terpisah dari darah jika dibiarkan membeku secara lengkap."
+  },
+  {
+    "id": "404",
+    "istilah": "Sianosis",
+    "arti": "Pewarnaan kulit menjadi merah biru akibat kurangnya penjenuhan darah dengan oksigen, mudah terlihat pada bibir dan kuku jari"
+  },
+  {
+    "id": "405",
+    "istilah": "Simtomatik",
+    "arti": "berkaitan dengan atau sifat dari suatu gejala"
+  },
+  {
+    "id": "406",
+    "istilah": "Sindrom",
+    "arti": "Kumpulan gejala"
+  },
+  {
+    "id": "407",
+    "istilah": "Sindrom Chusing",
+    "arti": "Gejala yang timbul akibat kelebihan glukokortiroid dosis tinggi dalam waktu lama yang ditandai dengan muka bulan,gemuk, hipertoni, lemak otot, pertumbuhan terhambat."
+  },
+  {
+    "id": "408",
+    "istilah": "Sindrom gray",
+    "arti": "Kumpulan gejala yang terdiri dari muntah, sianosis yang pucat, perut bengkak,kolaps peredaran darah perifer yang berakhir dengan kematian terutama pada bayi prematur dan baru lahir."
+  },
+  {
+    "id": "409",
+    "istilah": "Sindrom steven-johnson",
+    "arti": "Kumpulan gejala berupa keluhan pada angina dan menyerupai rematik."
+  },
+  {
+    "id": "410",
+    "istilah": "Sinus",
+    "arti": "Rongga/ruang atau saluran tempat nanah keluar"
+  },
+  {
+    "id": "411",
+    "istilah": "Sinusitis",
+    "arti": "Radang rongga paranasal"
+  },
+  {
+    "id": "412",
+    "istilah": "Sirosis",
+    "arti": "penyakit hati yang ditandai dengan hilangnya pita-pita jaringan fibrosa yang terjalin difus, yang membagi parenkim hati menjadi daerah-daerah mikronodulator atau makronodulator"
+  },
+  {
+    "id": "413",
+    "istilah": "Sirosis hepatic",
+    "arti": "Perubahan lanjut parenkim hati menjadi jaringan ikat"
+  },
+  {
+    "id": "414",
+    "istilah": "Sistemik",
+    "arti": "berkaitan dengan atau mengenai tubuh secara keseluruhan"
+  },
+  {
+    "id": "415",
+    "istilah": "Skizofrenia",
+    "arti": "Istilah untuk sekelompok psikosis dengan berbagai gangguan kepribadian, cara berpikir, perasaan dan hubungannya dengan lingkungan."
+  },
+  {
+    "id": "416",
+    "istilah": "Sputum",
+    "arti": "Dahak"
+  },
+  {
+    "id": "417",
+    "istilah": "Steril",
+    "arti": "Tidak dapat menghasilkan keturunan Aseptic; tidak menghasilkan mikroorganisme; bebas dari mikroorganisme hidup"
+  },
+  {
+    "id": "418",
+    "istilah": "Struma",
+    "arti": "Gondok, pembesaran kelenjar tiroid"
+  },
+  {
+    "id": "419",
+    "istilah": "Stroke",
+    "arti": "serangan mendadak dan berat"
+  },
+  {
+    "id": "420",
+    "istilah": "Sub kutan",
+    "arti": "di bawah kulit"
+  },
+  {
+    "id": "421",
+    "istilah": "Substrat",
+    "arti": "tempat melekatnya enzim"
+  },
+  {
+    "id": "422",
+    "istilah": "Suplemen",
+    "arti": "nutrisi tambahan yang dipkai untuk melengkapi kebutuhan nutrisi tubuh"
+  },
+  {
+    "id": "423",
+    "istilah": "Surfaktan",
+    "arti": "zat aktif permukaan misalnya detergen"
+  },
+  {
+    "id": "424",
+    "istilah": "Suspensei",
+    "arti": "suatu sediaan oral berupa cairan"
+  },
+  {
+    "id": "425",
+    "istilah": "Takikardia",
+    "arti": "Kontraksi jantung di atas 100/menit"
+  },
+  {
+    "id": "426",
+    "istilah": "Talcum",
+    "arti": "bedak"
+  },
+  {
+    "id": "427",
+    "istilah": "Temperature",
+    "arti": "suhu"
+  },
+  {
+    "id": "428",
+    "istilah": "Terapi",
+    "arti": "Pengobatan"
+  },
+  {
+    "id": "429",
+    "istilah": "Termal",
+    "arti": "suhu"
+  },
+  {
+    "id": "430",
+    "istilah": "Teratogen",
+    "arti": "cacat"
+  },
+  {
+    "id": "431",
+    "istilah": "Tingtur",
+    "arti": "sedian cair/ekstrak"
+  },
+  {
+    "id": "432",
+    "istilah": "Tokoferol",
+    "arti": "sedian obat"
+  },
+  {
+    "id": "433",
+    "istilah": "Toksik",
+    "arti": "racun"
+  },
+  {
+    "id": "434",
+    "istilah": "Tonsil",
+    "arti": "Kelumpuhan jaringan limpa terutama di belakang mulut, amandel"
+  },
+  {
+    "id": "435",
+    "istilah": "Tonsilitis",
+    "arti": "Radang tonsil"
+  },
+  {
+    "id": "436",
+    "istilah": "Tonus",
+    "arti": "Tegangan"
+  },
+  {
+    "id": "437",
+    "istilah": "Trauma",
+    "arti": "Cedera fisik atau psikis berlebihan Na, misalnya pada gagal jantung"
+  },
+  {
+    "id": "438",
+    "istilah": "Tremor",
+    "arti": "Gemetar"
+  },
+  {
+    "id": "439",
+    "istilah": "Trombositopenia",
+    "arti": "Berkurangnya jumlah trombosit"
+  },
+  {
+    "id": "440",
+    "istilah": "Trombositosis",
+    "arti": "Bertambahnya jumlah trombosit dalam darah"
+  },
+  {
+    "id": "441",
+    "istilah": "Trombosis",
+    "arti": "Pembentukan trombus/bekuan darah"
+  },
+  {
+    "id": "442",
+    "istilah": "Trombolitik",
+    "arti": "Melarutkan bekuan darah"
+  },
+  {
+    "id": "443",
+    "istilah": "UCI (Universal Child- Immunization)",
+    "arti": "Tercapainya imunisasi dasar lengkap pada bayi (0-11 bulan), ibu hamil,wanita usia subur dan anak sekolah tingkat dasar."
+  },
+  {
+    "id": "444",
+    "istilah": "Udema",
+    "arti": "Penimbunan cairan tubuh akibat gangguan metabolisme elektrolit dan retensi"
+  },
+  {
+    "id": "445",
+    "istilah": "Ulcus",
+    "arti": "luka terbuka pada permukaan kulit atau selaput permukaan kulit atau selaput lendir."
+  },
+  {
+    "id": "446",
+    "istilah": "ULN (upper limits of normal)",
+    "arti": "Melebihi batas normal"
+  },
+  {
+    "id": "447",
+    "istilah": "Ultrafiltrasi",
+    "arti": "penyaringan di bawah tekanan melalui saringan berpori remik sehingga koloida dapat dipisahkan dari kristaloida."
+  },
+  {
+    "id": "448",
+    "istilah": "Ultraviolet",
+    "arti": "menunjukkan radiasi elektromagnetik antara sinsr ungu dan sinar-X , mempunyai panjang gelombang dari 200-400 nanometer. u. A (UVA), radiasi ultraviolet dengan panjang gelombang antara 320-400 nm, lebih dari 99% sinar tersebut mencapai permukaan bumi. Sinar ini meningkatkan efek membahayakan dari sinar UVB, yang bertanggung jawab terhadap beberapa reaksi fotosensitivitas, dan digunakan dalam berbagai kelainan kulit. u. B (UVB), radiasi ultraviolet dengan panjang gelombang antara 290-320 nm, yang 1% sinarnya mencapai permukaan bumi. Sinar ini menyebabkan luka bakar matahari dan sejumlah perubahan fotokimiawi yang merusak di dalam sel, meliputi kerusakan DNA yang menimbulkan penuaan dini kulit, dan berbagai reaksi fotosensitivitas; sinar ini juga digunakan untuk pengobatan berbagaikelainan kulit. u. C (UVC), radiasi ultraviolet dengan panjang gelombang antara 200-290 nm, yang semua sinarnya disaring oleh lapisan ozon dan tidak mencapai permukaan bumi; sinar bersifat membunuh kumandan juga digunakan dalam fototerapi ultraviolet."
+  },
+  {
+    "id": "449",
+    "istilah": "Umbilicus",
+    "arti": "parut yang menandai tempat perletakan tali pusar."
+  },
+  {
+    "id": "450",
+    "istilah": "Unguenta",
+    "arti": "Sediaan berupa massa lembek, mudah dioleskan, umumnya berlemak dan mengandung obat, digunakan sebagai obat luar untuk melindungi atau melemaskan kulit, tidak berbau tengik."
+  },
+  {
+    "id": "451",
+    "istilah": "Unguentum",
+    "arti": "salep"
+  },
+  {
+    "id": "452",
+    "istilah": "Uniselular",
+    "arti": "Organisme atau jaringan yang terdiri atas satu sel"
+  },
+  {
+    "id": "453",
+    "istilah": "Unmed need",
+    "arti": "wanita usia subur yang berstatus kawin yang tidak ingin punya anak lagi atau ingin menjarangkan kehamilan tetapi tidak menggunakan kontrasepsi."
+  },
+  {
+    "id": "454",
+    "istilah": "Uranoplasty",
+    "arti": "bedah plastik untuk memperbaiki langitan yang sumbing."
+  },
+  {
+    "id": "455",
+    "istilah": "Uremia",
+    "arti": "unsur-unsur kemih dalam darah yang menimbulkan keadaan keracunan dengan gejala-gejala mual, muntah"
+  },
+  {
+    "id": "456",
+    "istilah": "Ureter",
+    "arti": "saluran dari ginjal ke kandung kemih"
+  },
+  {
+    "id": "457",
+    "istilah": "Uretra",
+    "arti": "aliran kandung kemih ke luar"
+  },
+  {
+    "id": "458",
+    "istilah": "Uretroscope",
+    "arti": "teropong untuk memeriksa lumen aliran kandung kemih."
+  },
+  {
+    "id": "459",
+    "istilah": "Ureum",
+    "arti": "hasil metabolisme protein dalam tubuh yang terdapat dalam kemih dan keringat"
+  },
+  {
+    "id": "460",
+    "istilah": "Urin",
+    "arti": "Cairan yang diekskresikan oleh ginjal, mengandung banyak zat yang tidak diperlukan lagi oleh tubuh"
+  },
+  {
+    "id": "461",
+    "istilah": "Urinogenous",
+    "arti": "berasal dari urin."
+  },
+  {
+    "id": "462",
+    "istilah": "Urobilin",
+    "arti": "zat warna empedu merah tengguli yang merupakan hasil oksidasi urobilinogen, terdapat dalam tinja"
+  },
+  {
+    "id": "463",
+    "istilah": "Urobilinemia",
+    "arti": "adanya urobilin dalam darah"
+  },
+  {
+    "id": "464",
+    "istilah": "Urobilinuria",
+    "arti": "adanya urobilin dalm krmih secara berlebihan"
+  },
+  {
+    "id": "465",
+    "istilah": "Urticaria",
+    "arti": "keadaan yang ditandai dengan timbulnya urtika di kulit yang disertai rasa sangat gatal"
+  },
+  {
+    "id": "466",
+    "istilah": "Urtika",
+    "arti": "Udema setempat berisi serum dan menonjol di atas permukaan kulit"
+  },
+  {
+    "id": "467",
+    "istilah": "Uterus",
+    "arti": "rahim, kandungan ibu"
+  },
+  {
+    "id": "468",
+    "istilah": "UTI (Urinary Tract Infection)",
+    "arti": "Infeksi Saluran Urin"
+  },
+  {
+    "id": "469",
+    "istilah": "Vena/venen",
+    "arti": "Pembuluh darah yang kadar oksigen rendah dibanding dengan arteria."
+  },
+  {
+    "id": "470",
+    "istilah": "Vaksin",
+    "arti": "Mikroorganisme/bagian dari mikroorganismeyang telah dilemahkan/dimatikan yang digunakan untuk merangsang tubuh agar membentuk zat anti terhadap mikroorganisme tersebut dalam upaya melakukan pencegahan penyakit yang ditimbulkan."
+  },
+  {
+    "id": "471",
+    "istilah": "Varices/varises",
+    "arti": "Pelebaran pembuluh-pembuluh darah balik (vena) di bawah kulit."
+  },
+  {
+    "id": "472",
+    "istilah": "Varikokel/varicocele",
+    "arti": "Pelebaran pembuluh-pembuluh darah balik (vena) di kantung buah zakar (scrotum)."
+  },
+  {
+    "id": "473",
+    "istilah": "Veletor",
+    "arti": "Binatang, biasanya artropoda, yang menjadi perantara berpindah mikroorganisme, penyebab suatu penyakit dari orang sakit ke orang yang sehat."
+  },
+  {
+    "id": "474",
+    "istilah": "Villus=villi",
+    "arti": "Tonjolan-tonjolan di lapisan chorion yang berhadapan berkontak dengan dinding rahim."
+  },
+  {
+    "id": "475",
+    "istilah": "Virus",
+    "arti": "Makhluk hidup yang terkecil, yang tidak dapat dilihat dengan mikroskop biasa, tetapi harus menggunakan mikroskop elektron. Tidak seperti bakteri/protozoa makluk ini tidak dapat digolongkan kedalam kelompok tumbuhan maupun hewan."
+  },
+  {
+    "id": "476",
+    "istilah": "Vital",
+    "arti": "Hidup, diperlukan untuk hidup."
+  },
+  {
+    "id": "477",
+    "istilah": "VO2 max",
+    "arti": "Volume Oksigen, Maksimum volume oksigen yang tubuh dapat gunakan saat bekerja sekeras mungkin."
+  },
+  {
+    "id": "478",
+    "istilah": "Veganisme",
+    "arti": "sebuah filosofi dan gaya hidup yang peduli dan mempraktekan kehidupan tanpa segala bentuk eksploitasi hewan, baik itu penolakan untuk mengonsumsi hewan untuk makanan, pakaian, serta penolakan uji coba pada hewan."
+  },
+  {
+    "id": "479",
+    "istilah": "Vegan",
+    "arti": "Orang-orang yang mempraktekkan gaya hidup Veganisme."
+  },
+  {
+    "id": "480",
+    "istilah": "Vertigo",
+    "arti": "Sensasi gerakan atau rasa gerak dari tubuh atau lingkungan sekitarnya, dapat disertai gejala lain, terutama dari jaringan otonomik akibat gangguan alat keseimbangan tubuh. Vertigo (sering juga disebut pusing berputar, atau pusing tujuh keliling) adalah kondisi di mana seseorang merasa pusing disertai berputar atau lingkungan terasa berputar walaupun badan orang tersebut sedang tidak bergerak."
+  },
+  {
+    "id": "481",
+    "istilah": "Vitamin",
+    "arti": "sekelompok senyawa organik amina berbobot molekul kecil yang memiliki fungsi vital dalam metabolisme setiap organisme,yang tidak dapat dihasilkan oleh tubuh. Vitamin memiliki peranan spesifik di dalam tubuh dan dapat pula memberikan manfaat kesehatan."
+  },
+  {
+    "id": "482",
+    "istilah": "Vermifuga",
+    "arti": "Peluruh cacing."
+  },
+  {
+    "id": "483",
+    "istilah": "VMA (Vanillyl Mandelic Acid)",
+    "arti": "Metabolit dari katekulamin, golongan non epinefrin."
+  },
+  {
+    "id": "484",
+    "istilah": "Vasopressin",
+    "arti": "Hormon dari hipotalamus, disalurkan ke neuro hipofisis untuk disimpan, menyebabkan kontraksi pembuluh darah dan reabsobsi air di ginjal."
+  },
+  {
+    "id": "485",
+    "istilah": "WBC (white blood cell count)",
+    "arti": "darah putih per unit volume darah"
+  },
+  {
+    "id": "486",
+    "istilah": "Wasir",
+    "arti": "ambeien (dalam bahasa Inggris atau Latin disebut Hemorrhoid dan dalam bahasa kedokteran disebut Piles) adalah penyakit atau gangguan pada anus dimana Sphinchter Ani atau bibir anus, mengalami pembengkakan yang kadang-kadang disertai pendarahan."
+  },
+  {
+    "id": "487",
+    "istilah": "Wekamin",
+    "arti": "obat yang digunakan khusus terhadap stimulasi sentral dan efek menekan rasa lapar."
+  },
+  {
+    "id": "488",
+    "istilah": "Water activity",
+    "arti": "dikembangkan untuk menjelaskan intensitas air yang berasosiasi dengan berbagaikonstituen non-air dan padatan."
+  },
+  {
+    "id": "489",
+    "istilah": "Waterprofing",
+    "arti": "sifat objek yang tidak terpengaruh  oleh air, atau bersifat menolak air untuk mengalir melaluinya"
+  },
+  {
+    "id": "490",
+    "istilah": "Wetting agent",
+    "arti": "zat kimia yang meningkatkan sifat  menyebar dan menembus cairan dengan cara menurunkan tegangan permukaan."
+  },
+  {
+    "id": "491",
+    "istilah": "Winter green oil",
+    "arti": "produk alami dari banyak spesies tanaman."
+  },
+  {
+    "id": "492",
+    "istilah": "Wuchereria bancrofti",
+    "arti": "Cacing Filaria adalah kelas dari anggota hewan tak bertulang belakang yang termasuk dalam filumNemathelminths."
+  },
+  {
+    "id": "493",
+    "istilah": "Xantelasma",
+    "arti": "Kumpulan kolesetrol di bawah kulit dengan batas tegas berwarna kekuningan biasanya di sekitar mata"
+  },
+  {
+    "id": "494",
+    "istilah": "Xanthan Gum",
+    "arti": "Polisakarida dengan bobot molekul tinggi hasil fermentasi karbohidrat oleh xanthomonas campestris yang dimurnikan, dikeringkan dan digiling untuk pemanfaatannya lebih lanjut"
+  },
+  {
+    "id": "495",
+    "istilah": "Xanthone",
+    "arti": "Substansi kimia alami yang berasal dari isolasi pada kulit buah manggis yang efektif melawan kanker payudara secara in-vitro."
+  },
+  {
+    "id": "496",
+    "istilah": "Xantin Alkaloid",
+    "arti": "Zat utama pada tanaman yang secara kimia berhubungan pada xantin dengan kerja sebagai stimulant system saraf pusat,relaksan otot polos dan diuretic."
+  },
+  {
+    "id": "497",
+    "istilah": "Xantofil",
+    "arti": "hidrokarbon tak jenuh turunan likopen atau turunan likopen teroksigenesi yang umum terdapat berupa monohidroksikaroten."
+  },
+  {
+    "id": "498",
+    "istilah": "Xantoma",
+    "arti": "Tumor yang mengandung sel-sel berbusa berisi leka,merupakan histiosit yang mengandung material lipid sitoplasma."
+  },
+  {
+    "id": "499",
+    "istilah": "Xeroderma pigmentosum",
+    "arti": "suatu kondisi genetik yang membuat kulitnya sulit sekali untuk sembuh dari efek sinar UV."
+  },
+  {
+    "id": "500",
+    "istilah": "Xeroftalmia",
+    "arti": "keadaan bila orang mengalami kekurangan vitamin A,mula-mula konjungtiva mengalami keratinasi,kemudian korneanya juga terpengaruh.Bila tidak diobati,mata akan menjadi buta."
+  },
+  {
+    "id": "501",
+    "istilah": "Xerosis",
+    "arti": "Penyakit yang menyebabkan kekeringan pada kulit tubuh."
+  },
+  {
+    "id": "502",
+    "istilah": "Xilosa",
+    "arti": "suatu gula pentosa, monosakarida dengan lima atom karbon dan memiliki gugusaldehida. Gula ini diperoleh dengan menguraikan jerami atau serat nabati lainnya dengan cara memasaknya dengan asam sulfat."
+  },
+  {
+    "id": "503",
+    "istilah": "Ximelagaran",
+    "arti": "Produk yang diubah dalam hati menjadi melatagran aktif."
+  },
+  {
+    "id": "504",
+    "istilah": "XTC",
+    "arti": "Kelompok obat-obatan yang efeknya “membebaskan jiwa” (halusinogen) dengan terjadinya berturut-turut desorientasi,pearasaan senang dan nyaman yang bertahan kurang kebih 4 jam."
+  },
+  {
+    "id": "505",
+    "istilah": "Xylene",
+    "arti": "hidrokarbon aromatik yang terdiri dari benzen yang berikatan dengan dua metal"
+  },
+  {
+    "id": "506",
+    "istilah": "Xylit",
+    "arti": "Pemanis golongan Pentanpentanol yang sama manisnya dengan gula."
+  },
+  {
+    "id": "507",
+    "istilah": "Xylosa test",
+    "arti": "Metoda pemeriksaan permeabilitas usus dengan menggunakan laktulosa-maruitol dalam studi Minis menggambarkan perubahan yang sangat kecil dari permeabilitas usus."
+  },
+  {
+    "id": "508",
+    "istilah": "X-ray",
+    "arti": "salah satu bentuk dari radiasi elektromagnetik dengan panjang gelombang berkisar antara 10 nanometer ke 100 pikometer (mirip dengan frekuensi dalam jangka 30 PHzto 60 EHz)."
+  },
+  {
+    "id": "509",
+    "istilah": "Yohimbin",
+    "arti": "Suatu alkaloid yang berasal dari alam dan berhasiat sebagai stimulansia"
+  },
+  {
+    "id": "510",
+    "istilah": "Zat inisiator",
+    "arti": "Zat yang dapat membentuk tumorbila dibantu zat promoter"
+  },
+  {
+    "id": "511",
+    "istilah": "Zat promoter",
+    "arti": "Zat yang bersifat mengikat DNA (mutagen), tapi dapat menstimulasi sel yang telah terinisiasi menjadi sel tumor."
+  },
+  {
+    "id": "512",
+    "istilah": "Zat tambahan",
+    "arti": "zat yang ditambahkan pada suatu sediaan untuk mempertinggi kegunaan, kemantapan, keawetan, dan sebagai zat warna, dimana dalam jumlah yang digunakan tidak membahayakan, tidak mengganggu, dan tidak mengurangi khasiat obat, tidak boleh mengganggu pemeriksaan penetapan kadar."
+  },
+  {
+    "id": "513",
+    "istilah": "Adhesi",
+    "arti": "perlengketan abnormal serat kolagen dengan struktur sekitarnya selama imobilisasi pasca trauma atau sebagai komplikasi dari operasi yang membatasi elastisitas normal dari struktur yang terlibat."
+  },
+  {
+    "id": "514",
+    "istilah": "Adhesion",
+    "arti": "Sifat tetap berdekatan. Bersatunya satu bagian dengan bagian lain secara stabil dan mungkin berlangsung secara abnormal. Pita atau struktur fibrosa tempat melekatnya bagian-bagian secara abnormal. "
+  },
+  {
+    "id": "515",
+    "istilah": "Adhesiotomy",
+    "arti": "Operasi pemotongan adhesi."
+  },
+  {
+    "id": "516",
+    "istilah": "ADI",
+    "arti": "Acceptable Daily Intake, Jumlah maksimum bahan tambahan pangan dalam miligram per kilogram berat badan yang dapat dikonsumsi setiap hari selama hidup tanpa menimbulkan efek merugikan terhadap kesehatan."
+  },
+  {
+    "id": "517",
+    "istilah": "Adiadochokinesia",
+    "arti": "Diskinesia yang terdiri dari ketakmampuan untuk memperlihatkan gerakan yang baik, berulang dengan cepat, dan terkoordinasi (diadochokinesia)."
+  },
+  {
+    "id": "518",
+    "istilah": "Adiaphoria",
+    "arti": "Tidak adanya respons terhadap rangsangan sebagai akibat telah terpapar pada rangsangan yang sama, juga lihat refractory period."
+  },
+  {
+    "id": "519",
+    "istilah": "Adiaspiromycosis",
+    "arti": "Penyakit paru pada banyak spesies rodentia di seluruh dunia dan jarang pada manusia, disebabkan inhalasi spora yang dihasilkan oleh jamur Emmonsia parva atau E. crescens, dan ditandai granula-granula sangat besar (adiaspores) tanpa endospora dalam paru."
+  },
+  {
+    "id": "520",
+    "istilah": "adiaspore",
+    "arti": "spora yang dhasilkan jamur tanah Emmonsia parva dan E. crescens; lihat adiospiromycosis."
+  },
+  {
+    "id": "521",
+    "istilah": "adiksi",
+    "arti": "kecanduan."
+  },
+  {
+    "id": "522",
+    "istilah": "Adipocele",
+    "arti": "hernia yang mngandung lemak."
+  },
+  {
+    "id": "523",
+    "istilah": "Adipocelullar",
+    "arti": "terdiri atas jaringan ikat dan lemak."
+  },
+  {
+    "id": "524",
+    "istilah": "adipocyte",
+    "arti": "sel lemak"
+  },
+  {
+    "id": "525",
+    "istilah": "Adipogenic",
+    "arti": "lipogenik."
+  },
+  {
+    "id": "526",
+    "istilah": "Adipokinesis",
+    "arti": "Mobilisasi lemak dalam badan. Kata sifat: adipokinetic."
+  },
+  {
+    "id": "527",
+    "istilah": "Adipokinin",
+    "arti": "hormon dari kelenjar hipofisis anterior yang mempercepat mobilisasi cadangan lemak."
+  },
+  {
+    "id": "528",
+    "istilah": "Adipolytic",
+    "arti": "Lipolitik. kata sifat: adipolitic"
+  },
+  {
+    "id": "529",
+    "istilah": "Adiponecrosis",
+    "arti": "nekrosis jaringan lemak."
+  },
+  {
+    "id": "530",
+    "istilah": "Adipopexis",
+    "arti": "fiksasi atau menyimpan lemak. kata sifat: adipopetic."
+  },
+  {
+    "id": "531",
+    "istilah": "Adiposis",
+    "arti": "Obesitas; akumulasi lemak dalam badan yang berlebihan. Perlemakan dalam suatu organ atau jaringan. "
+  },
+  {
+    "id": "532",
+    "istilah": "Adiposis Cerebralis",
+    "arti": "Adipositas serebral."
+  },
+  {
+    "id": "533",
+    "istilah": "Adiposis Dolorosa",
+    "arti": "Penyakit, biasanya pada wanita, ditandai dengan pembekakan lemak setempat yang nyeri dan macam-macam lesi saraf; mengakibatkan kematian karena komplikasi paru."
+  },
+  {
+    "id": "534",
+    "istilah": "Adiposis Hepatica",
+    "arti": "perlemakan hati."
+  },
+  {
+    "id": "535",
+    "istilah": "Adiposit",
+    "arti": "sebuah sel lemak. Jaringan adiposa terdiri terutama dari adiposit."
+  },
+  {
+    "id": "536",
+    "istilah": "Adipositis",
+    "arti": "panikulitis."
+  },
+  {
+    "id": "537",
+    "istilah": "adiposity",
+    "arti": "keadaan&nbsp; gemuk, obesitas."
+  },
+  {
+    "id": "538",
+    "istilah": "adiposuria",
+    "arti": "adanya&nbsp; lemak di dalam&nbsp; kemih."
+  },
+  {
+    "id": "539",
+    "istilah": "adipsia",
+    "arti": "tidak merasa haus, atau menghindarkan diri dari minum secara abnormal."
+  },
+  {
+    "id": "540",
+    "istilah": "Aditus",
+    "arti": "jamak. aditus [L]. istilah umum untuk muara atau tempat masuk organ atau bagiannya."
+  },
+  {
+    "id": "541",
+    "istilah": "Adjustment",
+    "arti": "Dalam kedokteran gigi, penyesuaian (adjustment) adalah modifikasi yang dibuat pada prostesis gigi setelah diselesaikan dan dimasukkan ke dalam mulut."
+  },
+  {
+    "id": "542",
+    "istilah": "adjuvant",
+    "arti": "membantu atau menolong. substansi yang membantu substansi lainnya seperti obat tambahan dalam ilmunologi, stimulator nonspesifik dari respons imun. "
+  },
+  {
+    "id": "543",
+    "istilah": "adjuvanticity",
+    "arti": "kesanggupan memodifikasi sistem imun."
+  },
+  {
+    "id": "544",
+    "istilah": "adnerval",
+    "arti": "letaknya dekat saraf. ke arah saraf, dikatakan mengenai arus listrik yang berjalan melalui otot menuju ke tempat masuknya saraf. "
+  },
+  {
+    "id": "545",
+    "istilah": "adnexa",
+    "arti": "organ atau jaringan tambahan."
+  },
+  {
+    "id": "546",
+    "istilah": "Adnexa uterus",
+    "arti": "adalah ovarium dan tuba fallopii."
+  },
+  {
+    "id": "547",
+    "istilah": "adolescence",
+    "arti": "periode diantara pubertas dan penyelesaian pertumbuhan fisik, secara kasar dari umur 11 sampai 19 tahun. Kata sifat: adolescent."
+  },
+  {
+    "id": "548",
+    "istilah": "adoral",
+    "arti": "ke arah atau dekat mulut."
+  },
+  {
+    "id": "549",
+    "istilah": "Adrenal",
+    "arti": "kelenjar&nbsp; adrenal, terletak di&nbsp; dekat ginjal."
+  },
+  {
+    "id": "550",
+    "istilah": "adrenalin",
+    "arti": "Zat yang dilepaskan ke dalam aliran darah oleh kelenjar adrenal. Hormon ini dikenal sebagai hormon &ldquo;stres&rdquo;, karena sekresinya meningkat selama stres dan ketegangan. Adrenalin menyebabkan perubahan dalam tubuh, seperti denyut nadi dipercepat, dilatasi pupil, dan aliran darah meningkat ke otot-otot ekstremitas bawah."
+  },
+  {
+    "id": "551",
+    "istilah": "adrenaline",
+    "arti": "hormon&nbsp; simpatomimetik&nbsp; aktif dari medulla&nbsp; adrenal, yang&nbsp; dapat merangsang sistem&nbsp; antara alpha dan&nbsp; beta adrenergic,&nbsp; menyebabkan&nbsp; vasokonstriksi&nbsp; sistemik, relaksasi&nbsp; pencernaan, merangsang jantung,&nbsp; serta melebarkan&nbsp; pembuluh pernapasan dan otak."
+  },
+  {
+    "id": "552",
+    "istilah": "adrenalinuria",
+    "arti": "adanya epinefrin dalam urin."
+  },
+  {
+    "id": "553",
+    "istilah": "adrenalism",
+    "arti": "tidak sehat karena disfungsi adrenal."
+  },
+  {
+    "id": "554",
+    "istilah": "adrenalitis",
+    "arti": "radang&nbsp; kelenjar adrenal."
+  },
+  {
+    "id": "555",
+    "istilah": "adrenergic",
+    "arti": "diaktifkan oleh, dicirikan oleh, atau mensekresi epinefrin atau substansi dengan aktifivitas serupa; terutama serabut saraf simpatis yang membebaskan norepinefrin pada suatu sinaps bila dilalui impuls saraf. agen yang menimbulkan efek demikian. Lihat juga pada receptor. "
+  },
+  {
+    "id": "556",
+    "istilah": "Adrenergic Blocking Agent",
+    "arti": "Obat yang menghambat respons terhadap stimulus simpatis dengan menghambat tempat reseptor alfa dan beta organ sasaran."
+  },
+  {
+    "id": "557",
+    "istilah": "Adrenergic Neuron Blocking Agent",
+    "arti": "Agen yang menghambat pelepasan norepinefrin dari ujung saraf adrenergik pascaganglion."
+  },
+  {
+    "id": "558",
+    "istilah": "adrenocorticoid",
+    "arti": "hormon-hormon steroid yang dibentuk dalam korteks adrenal; lihat kortikosteroid."
+  },
+  {
+    "id": "559",
+    "istilah": "adrenocorticotrophic",
+    "arti": "kortikotropik."
+  },
+  {
+    "id": "560",
+    "istilah": "adrenocorticotrophin",
+    "arti": "kortikotropin."
+  },
+  {
+    "id": "561",
+    "istilah": "adrenocorticotropin",
+    "arti": "kortikotropin."
+  },
+  {
+    "id": "562",
+    "istilah": "adrenodoxin",
+    "arti": "protein besi-sulfida dari korteks adrenal yang berfungsi sebagai karier elektron pada biosintesis steroid adrenal kolesterol."
+  },
+  {
+    "id": "563",
+    "istilah": "adrenoleukodystrophy",
+    "arti": "kelainan terpaut kromosom X dengan ciri abnormalitas massa putih otak yang difus dan atrofi adrenal."
+  },
+  {
+    "id": "564",
+    "istilah": "adrenolytic",
+    "arti": "menghambat kerja saraf adrenergikatau respons terhadap epinefrin."
+  },
+  {
+    "id": "565",
+    "istilah": "adrenomegaly",
+    "arti": "pembesaran salah&nbsp; satu atau kedua&nbsp; kelenjar adrenal."
+  },
+  {
+    "id": "566",
+    "istilah": "Adrenomimetic",
+    "arti": "simpatomimetik."
+  },
+  {
+    "id": "567",
+    "istilah": "Adrenomyeloneuropathy",
+    "arti": "keadaan herediter yang berhubungan dengan adrenoleukodistrofi tetapi juga disertai degenerasi medula spinalis dan neuropati perifer."
+  },
+  {
+    "id": "568",
+    "istilah": "Adrenoreceptor",
+    "arti": "reseptor adrenergik."
+  },
+  {
+    "id": "569",
+    "istilah": "Adrenotoxin",
+    "arti": "substansi yang toksik untuk adrenal."
+  },
+  {
+    "id": "570",
+    "istilah": "Adriamycin",
+    "arti": "merek dagang untuk preparat doksorubisin hidroklorida."
+  },
+  {
+    "id": "571",
+    "istilah": "Adsorb",
+    "arti": "menarik dan menahan bahan lain pada permukaan."
+  },
+  {
+    "id": "572",
+    "istilah": "Adsorbent",
+    "arti": "mengenai atau ditandai adsorpsi. substansi yang menarik bahan atau partikel lain pada permukaannya. "
+  },
+  {
+    "id": "573",
+    "istilah": "Adsorption",
+    "arti": "kerja substansi dalam menarik dan menahan materi atau partikel lain yang pada permukaannya."
+  },
+  {
+    "id": "574",
+    "istilah": "Adtorsion",
+    "arti": "intorsi."
+  },
+  {
+    "id": "575",
+    "istilah": "aduksi",
+    "arti": "gerakan ekstremitas ke arah tubuh."
+  },
+  {
+    "id": "576",
+    "istilah": "Adult",
+    "arti": "mencapai pertumbuhan atau pematangan lengkap, atau suatu organisme hidup yang telah mencapai pertumbuhan atau pematangan lengkap."
+  },
+  {
+    "id": "577",
+    "istilah": "Adult Respiratory Distress Syndrome",
+    "arti": "Sindrom Distes Pernafasan Dewasa (Adult Respiratory Distress Syndrome/ARDS) ; kegagalan pernafasan mendadak yang ditandai dengan kebocoran plasma ke dalam paru-paru melalui kapiler yang rusak, menyebabkan akumulasi cairan paru-paru yang mengurangi kemampuannya untuk mengembang. Kondisi ini adalah keadaan darurat medis."
+  },
+  {
+    "id": "578",
+    "istilah": "adult stem cell",
+    "arti": "Sel induk dewasa (adult stem cell) ;&nbsp;sel induk jaringan tertentu. Sebuah sel induk pada jaringan janin dan / atau orang dewasa biasanya menghasilkan jenis jaringan di mana ia ditemukan (sel induk darah membuat darah, sel induk saraf membuat neuron, dan sebagainya)."
+  },
+  {
+    "id": "579",
+    "istilah": "Adulteration",
+    "arti": "penambahan suatu unsur tidak murni, murah, atau yang tidak berguna untuk menipu, menjadikan lebih murah, atau memalsukan suatu preparat; dalam terminologi hukum, pemberian label yang tidak benar, termasuk dosis yang tidak sesuai dengan label."
+  },
+  {
+    "id": "580",
+    "istilah": "Advance Directive",
+    "arti": "wasiat hidup; dokumen tertulis di mana seseorang dengan jelas menentukan bagaimana keputusan medis yang mempengaruhi dirinya harus diambil jika dia tidak mampu untuk melakukannya, atau untuk mengizinkan orang tertentu untuk membuat keputusan tersebut untuk dirinya."
+  },
+  {
+    "id": "581",
+    "istilah": "advancement",
+    "arti": "pembebasan secara&nbsp; bedah, misalnya&nbsp; otot atau tendon, disertai penyambungan kembali&nbsp; pada tempat yang&nbsp; lebih pendek."
+  },
+  {
+    "id": "582",
+    "istilah": "adventitia",
+    "arti": "lapisan&nbsp; terluar pada organ,&nbsp; seperti pembuluh&nbsp; darah dan struktur&nbsp; lainnya dalam&nbsp; tubuh."
+  },
+  {
+    "id": "583",
+    "istilah": "Adventitious",
+    "arti": "kecelakaan atau didapat; tidak alami atau herediter. terdapat di luar tempat normal atau biasa. "
+  },
+  {
+    "id": "584",
+    "istilah": "Adventitis",
+    "arti": "lapisan luar organ atau struktur, terutama lapisan luar arteri."
+  },
+  {
+    "id": "585",
+    "istilah": "Adverse Tolerance",
+    "arti": "Keadaan ketika untuk timbulnya efek suatu NAPZA, diperlukan jumlah atau dosis yang semakin sedikit. Hal ini disebabkan oleh NAPZA yang dipakai tertimbun di dalam otak cukup lama. Misalnya, senyawa aktif tetra-hidro-kanabinol yang terdapat di dalam ganja tertimbun lama di jaringan otak sehingga dengan memakai ganja sedikit saja, sudah akan memberi efek atau menimbulkan gejala. Adverse Tolerance kadang-kadang disebut sensitisasi."
+  },
+  {
+    "id": "586",
+    "istilah": "adynamia",
+    "arti": "hilangnya&nbsp; atau tidak adanya&nbsp; kekuatan normal&nbsp; atau vital; astenia."
+  },
+  {
+    "id": "587",
+    "istilah": "Adynamia",
+    "arti": "tidak adanya atau hilangnya kekuatan normal atau vital; astenia. Kata sifat: adynamic."
+  },
+  {
+    "id": "588",
+    "istilah": "Aedes",
+    "arti": "genus nyamuk, termasuk lebih kurang 600 spesies; beberapa merupakan vektor penyakit, lainnya merupakan pengganggu. Termasuk Aedes Aegypty, vektor dari yellow fever dan dengue."
+  },
+  {
+    "id": "589",
+    "istilah": "aeration",
+    "arti": "pertukaran&nbsp; karbondioksida&nbsp; dengan oksigen&nbsp; dan darah dalam&nbsp; paru; mengisi&nbsp; udara atau gas ke&nbsp; dalam cairan"
+  },
+  {
+    "id": "590",
+    "istilah": "Aero",
+    "arti": "air; gas (udara, gas)."
+  },
+  {
+    "id": "591",
+    "istilah": "Aero Otitis",
+    "arti": "Barotitis."
+  },
+  {
+    "id": "592",
+    "istilah": "Aerobacter",
+    "arti": "Nama terdahulu untuk suatu genus bakteri yang sekarang termasuk famili Enterobacteriaceae; spesies individual yang diberikan pada genus Enterobacter dan Klebsiella."
+  },
+  {
+    "id": "593",
+    "istilah": "Aerobe",
+    "arti": "Mikroorganisme yang dapat hidup dan tumbuh dengan adanya oksigen bebas. Kata sifat: aerobic."
+  },
+  {
+    "id": "594",
+    "istilah": "aerobik",
+    "arti": "Olahraga yang dilakukan secara terus-menerus dimana kebutuhan oksigen masih dapat dipenuhi tubuh. "
+  },
+  {
+    "id": "595",
+    "istilah": "Aerobiology",
+    "arti": "Studi yang menguraikan distribusi organisme hidup oleh udara."
+  },
+  {
+    "id": "596",
+    "istilah": "Aerobiosis",
+    "arti": "Kehidupan yang membutuhkan oksigen bebas."
+  },
+  {
+    "id": "597",
+    "istilah": "Aerocele",
+    "arti": "tumor yang dibentuk olehs suatu kantong adventisia yang berisi udara."
+  },
+  {
+    "id": "598",
+    "istilah": "Aerodermectasia",
+    "arti": "emfisema subkutaneus; terjadinya mungkin secara spontan, traumatik, atau bedah."
+  },
+  {
+    "id": "599",
+    "istilah": "Aerodontalgia",
+    "arti": "Nyeri yang dirasakan dalam gigi pada tekanan atmosfer rendah pada tempat yang sangat tinggi."
+  },
+  {
+    "id": "600",
+    "istilah": "Aeroembolism",
+    "arti": "Sumbatan pembuluh darah akibat udara atau gas."
+  },
+  {
+    "id": "601",
+    "istilah": "Aeroemphysema",
+    "arti": "Emfisema dan edema paru dengan pengumpulan gelembung nitrogen dalam jaringan paru; akibat dekompresi atmosfer udara yang cepat dan berlebihan."
+  },
+  {
+    "id": "602",
+    "istilah": "Aerogen",
+    "arti": "Bakteri penghasil gas."
+  },
+  {
+    "id": "603",
+    "istilah": "Aeromonas",
+    "arti": "Genus schizomycetes (famili Pseudomonadaceae), sering ditemukan di air, beberapa patogen pada ikan, amfibia, reptil, dan manusia."
+  },
+  {
+    "id": "604",
+    "istilah": "Aeropathy",
+    "arti": "Jenis penyakit akibat perubahan tekanan udara, sepertti penyakit dekompresi."
+  },
+  {
+    "id": "605",
+    "istilah": "Aeroperitonia",
+    "arti": "Pneumoperitonium."
+  },
+  {
+    "id": "606",
+    "istilah": "Aerophilic",
+    "arti": "Memerlukan udara untuk pertumbuhan wajar."
+  },
+  {
+    "id": "607",
+    "istilah": "Aeroplethysmograph",
+    "arti": "Alat untuk mengukur volume pernapasan dengan mencatat perubahan dalam volume badan."
+  },
+  {
+    "id": "608",
+    "istilah": "Aerosinusitis",
+    "arti": "Barosinusitis."
+  },
+  {
+    "id": "609",
+    "istilah": "aerosol",
+    "arti": "sistem koloid&nbsp; di mana partikelpartikel zat padat&nbsp; atau cair yang di&nbsp; suspensi ke dalam&nbsp; gas, terutama obat&nbsp; dan lainnya yang&nbsp; disalurkan ke&nbsp; dalam semprotan&nbsp; halus atau kabut."
+  },
+  {
+    "id": "610",
+    "istilah": "Aerotaxis",
+    "arti": "Pergerakan suatu organisme yang bereaksi terhadap adanya oksigen molekular."
+  },
+  {
+    "id": "611",
+    "istilah": "Aerotitis",
+    "arti": "barotitis."
+  },
+  {
+    "id": "612",
+    "istilah": "Aerotolerant",
+    "arti": "Bertahan hidup dan tumbuh dalam udara yang jumlahnya sedikit; dikatakan tentang mikroorganisme anaerob."
+  },
+  {
+    "id": "613",
+    "istilah": "afakia",
+    "arti": "ketiadaan lensa mata."
+  },
+  {
+    "id": "614",
+    "istilah": "afasia",
+    "arti": "ketidakmampuan untuk berbicara, menulis, atau mengerti bahasa lisan atau tertulis. Kondisi ini paling sering hasil disebabkan oleh stroke atau cedera kepala."
+  },
+  {
+    "id": "615",
+    "istilah": "Afasia Anomik",
+    "arti": "ketidakmampuan untuk menyebut nama benda atau mengenali nama tertulis atau lisan dari benda. Hal ini juga dikenal sebagai afasia nominal atau afasia amnesia (amnestik)."
+  },
+  {
+    "id": "616",
+    "istilah": "afasia broca",
+    "arti": "suatu gangguan bicara yang disebabkan oleh kerusakan atau masalah perkembangan di daerah anterior otak, termasuk (namun tidak terbatas pada) daerah frontal kiri bawah yang dikenal sebagai area Broca. Dalam hal ini, pemahaman bahasa sebagian besar masih utuh. Juga dikenal sebagai afasia ekspresif atau afasia agramatik."
+  },
+  {
+    "id": "617",
+    "istilah": "Afasia Global",
+    "arti": "hilangnya lengkap kemampuan untuk memahami bahasa lisan atau tertulis, serta mengekspresikan bahasa lisan atau tertulis. Ekspresi verbal terbatas pada kata atau frase otomatis pendek. Juga, pemahaman sama sekali tidak ada meskipun ekspresi wajah terlihat bahwa pasien memahami. Pengulangan dan penamaan juga terganggu."
+  },
+  {
+    "id": "618",
+    "istilah": "Afasia Wernicke",
+    "arti": "bicara fasih tetapi tidak berarti dan kerusakan parah kemampuan memahami kata-kata lisan atau tertulis. Sering (tapi tidak selalu) disebabkan oleh kerusakan saraf ke daerah Wernicke di otak. Kondisi ini juga dikenal sebagai afasia reseptif, afasia fasih, atau afasia sensorik."
+  },
+  {
+    "id": "619",
+    "istilah": "Afebrile",
+    "arti": "Tanpa demam."
+  },
+  {
+    "id": "620",
+    "istilah": "aferen",
+    "arti": "menuju pusat, misalnya saraf aferen membawa impuls ke sistem saraf pusat."
+  },
+  {
+    "id": "621",
+    "istilah": "Aferesis",
+    "arti": "Suatu prosedur pengeluaran komponen darah. Jika yang dikeluarkan adalah leukosit, maka disebut leukoferesis. Bila trombosit yang dikeluarkan, maka disebut tromboferesis. Komponen-komponen selain leukosit atau trombosit akan dimasukkan kembali ke dalam tubuh pendonor."
+  },
+  {
+    "id": "622",
+    "istilah": "Affect",
+    "arti": "Ekspresi eksternal dari emosi yang terikat pada ide atau gambaran mental pada objek."
+  },
+  {
+    "id": "623",
+    "istilah": "Affection",
+    "arti": "SensasimalaiseAutopsi VerbalMorbiditasKontra indikasiemosiGawat Daruratprocess"
+  },
+  {
+    "id": "624",
+    "istilah": "Affectiva",
+    "arti": "Berhubungan dengan pengaruh."
+  },
+  {
+    "id": "625",
+    "istilah": "afferent",
+    "arti": "obat yang&nbsp; bekerja dengan&nbsp; arah hantarannya&nbsp; menuju ke pusat atau tempat referensi spesifik."
+  },
+  {
+    "id": "626",
+    "istilah": "afibrinogenaemia",
+    "arti": "hilangnya fibrin dari darah; kondisi ini terjadi saat disseminated intravascular coagulation (DIC), komplikasi hipertensi pada kehamilan atau hemoragi katastrofik."
+  },
+  {
+    "id": "627",
+    "istilah": "Afibrinogenemia",
+    "arti": "Defisiensi atau tidak adanya fibrinogen dalam darah."
+  },
+  {
+    "id": "628",
+    "istilah": "Afinitas",
+    "arti": "affinity; adalah sejauh mana suatu substansi cenderung ingin mengikat dengan yang lain."
+  },
+  {
+    "id": "629",
+    "istilah": "aflatoksin",
+    "arti": "Toksin jamur yang merupakan karsinogen hati yang kuat. Zat ini dihasilkan oleh Aspergillus flavus dan A. parasiticus, yang tumbuh dengan mudah pada kacang-kacangan, biji-bijian, dan kacang tanah yang secara salah disimpan dalam kondisi hangat dan lembab"
+  },
+  {
+    "id": "630",
+    "istilah": "Aflatoxin",
+    "arti": "Toksin yang dhasilkan oleh Aspergillus flavus dan A. parasiticus, jamur yang mengkontaminasi semaian kacang tanah; memproduksi aflatoksikosis (penyakit x), dengan kecepatan kematian tinggi, pada kematian unggas dan hewan peternakan lain yang diberi makan kacang tanah yang tercemar dan diimplikasikan sebagai penyebab karsinoma pada hati manusia."
+  },
+  {
+    "id": "631",
+    "istilah": "Afrodisiak",
+    "arti": "makanan, minuman, obat, atau kadang-kadang pikiran yang mengintensifkan gairah 5ek5ual (l1b1do)."
+  },
+  {
+    "id": "632",
+    "istilah": "after birth",
+    "arti": "plasenta tali pusat dan selaput ketuban yang dikeluarkan dari rahim setelah bayi lahir."
+  },
+  {
+    "id": "633",
+    "istilah": "Afterbirth",
+    "arti": "Plasenta dan membran yang dilepaskan dari uterus sesudah lahirnya bayi."
+  },
+  {
+    "id": "634",
+    "istilah": "Afterbrain",
+    "arti": "Metensefalon."
+  },
+  {
+    "id": "635",
+    "istilah": "aftercoming head",
+    "arti": "ercoming head kepala yang lahir setelah kelahiran tubuh pada pelahiran presentasi bokon9."
+  },
+  {
+    "id": "636",
+    "istilah": "Afterdepolarization",
+    "arti": "Potensial akhir depolarisasi, sering merupakan salah satu dari suatu seri, kadang-kadang timbul pada jaringan yang secara normal tidak terangsang. Dapat timbul sebelum (a. awal) atau setelah (a. lambat) repolarisasi penuh."
+  },
+  {
+    "id": "637",
+    "istilah": "Afterimage",
+    "arti": "Suatu impresi retina yang menetap sesaat setelah hilangnya stimuli yang menimbulkan gambaran sebenarnya."
+  },
+  {
+    "id": "638",
+    "istilah": "Afterload",
+    "arti": "Pada fisiologi jantung, kekuatan yang melawan kontraksi otot jantung; pada otot yang terisolasi, kekuatan yang menahan kontraksi otot setelah otot itu dirangsang untuk berkontraksi; pada jantung yang utuh, tekanan yang menahan ejeksi darah dari rongga ventrikel."
+  },
+  {
+    "id": "639",
+    "istilah": "afterpains",
+    "arti": "rasa sakit yang timbul seusai melahirkan akibat kontraksi rahim dan biasanya dialami oleh ibu multigravida di awal masa nifas dan terutama saat menyusui."
+  },
+  {
+    "id": "640",
+    "istilah": "Afterpotential",
+    "arti": "Potensial aksi kecil yang dihasilkan setelah pengakhiran potensial puncak atau utama; memiliki fase negatif dan positif (dinaman secara berlawanan); yang disebutkan belakangan sebenarnya lebih negatif daripada potensial istirahat."
+  },
+  {
+    "id": "641",
+    "istilah": "Aftertaste",
+    "arti": "Suatu rasa yang berlanjut setelah substansi yang menimbulkannya telah dihilangkan."
+  },
+  {
+    "id": "642",
+    "istilah": "AG",
+    "arti": "Irama mendua atrium."
+  },
+  {
+    "id": "643",
+    "istilah": "Ag",
+    "arti": "Simbol kimia, perak (L. argentum); antigen."
+  },
+  {
+    "id": "644",
+    "istilah": "AGA",
+    "arti": "American Gastroenterological Association."
+  },
+  {
+    "id": "645",
+    "istilah": "agalactia",
+    "arti": "air susu tidak keluar saat masa laktasi, atau air susu keluar dalam jumlah yang sedikit."
+  },
+  {
+    "id": "646",
+    "istilah": "Agalmatofilia",
+    "arti": "agalmatophilia; parafilia fiksi, belum diamati sebagai sindrom, di mana stimulus seksuoerotiknya adalah patung telanjang atau model manusia. Sinonim: statuofilia, pigmalionisme."
+  },
+  {
+    "id": "647",
+    "istilah": "Agammaglobulinemia",
+    "arti": "sebuah ketiadaan hampir total antibodi (imunoglobulin) yang mengakibatkan hilangnya kemampuan untuk memproduksi imunitas antibodi."
+  },
+  {
+    "id": "648",
+    "istilah": "Aganglionosis",
+    "arti": "Tidak adanya sel ganglion parasimpatis karena kelainan kongenital."
+  },
+  {
+    "id": "649",
+    "istilah": "Agar",
+    "arti": "Hidrofilik kering, substansi koloid yang diekstraksi dari berbagai spesies alga merah (red algae); digunakan pada media kultur padat untuk bakteri dan mikroorganisme lain, sebagai laksatif penting, dalam pembuatan emulsi, dan sebagai medium penyokong untuk imunodifusi dan imunoelektroforesis."
+  },
+  {
+    "id": "650",
+    "istilah": "Agaric",
+    "arti": "penicillinAcaciaSerous fluidwhole bloodCrude Birth Rate (CBR)Angka Kematian KasarGeneral Fertility Rate (GFR)Tinea Versikolor"
+  },
+  {
+    "id": "651",
+    "istilah": "Agastric",
+    "arti": "Tidak mempunyai saluran pencernaan."
+  },
+  {
+    "id": "652",
+    "istilah": "Age Specific Fertility Rate (ASFR)",
+    "arti": "Angka Kelahiran menurut Kelompok Umur; Banyaknya kelahiran setiap seribu wanita pada kelompok umur tertentu."
+  },
+  {
+    "id": "653",
+    "istilah": "Agen Antidiabetes",
+    "arti": "obat yang mengontrol tingkat glukosa (gula) dalam darah pada penderita diabetes."
+  },
+  {
+    "id": "654",
+    "istilah": "Agen Antimikroba",
+    "arti": "obat-obatan, bahan kimia, atau zat lain yang membunuh atau memperlambat pertumbuhan mikroba. Mereka termasuk obat antibakteri (yang membunuh bakteri), antivirus (yang membunuh virus), antijamur (yang membunuh jamur), dan antiparasit (yang membunuh parasit)."
+  },
+  {
+    "id": "655",
+    "istilah": "Agen Antineoplastik",
+    "arti": "obat yang mencegah, membunuh, atau menghambat pertumbuhan dan penyebaran sel kanker."
+  },
+  {
+    "id": "656",
+    "istilah": "Agen Antiresorptif",
+    "arti": "obat atau hormon yang menghambat resorpsi tulang."
+  },
+  {
+    "id": "657",
+    "istilah": "Agen Infeksi",
+    "arti": "organisme hidup atau kuasi-hidup atau partikel yang menyebabkan penyakit menular. Bakteri, virus, jamur, protozoa, cacing, dan prion adalah agen infeksi."
+  },
+  {
+    "id": "658",
+    "istilah": "Agen Kemoterapi",
+    "arti": "senyawa yang digunakan dalam pengobatan penyakit yang membunuh atau menghambat pertumbuhan mikroorganisme dan melakukannya pada konsentrasi yang cukup rendah untuk menghindari kerusakan pada host."
+  },
+  {
+    "id": "659",
+    "istilah": "Agen Radiokontras",
+    "arti": "radiocontrast agent; zat yang menyerap atau memantulkan radiasi sinar-X. Dalam hubungannya dengan pencitraan real-time, agen radiokontras memungkinkan demonstrasi proses secara dinamis, seperti gerakan peristaltik di saluran pencernaan atau aliran darah dalam arteri dan vena."
+  },
+  {
+    "id": "660",
+    "istilah": "Agenesia",
+    "arti": "impotentSungsang Tidak SempurnaAchymiaSungsang SempurnaKelahiran SungsanggaguDefek Septum Ventrikeltubektomi"
+  },
+  {
+    "id": "661",
+    "istilah": "Agenesis",
+    "arti": "kegagalan pembentukan atau pengembangan sebagian atau seluruh organ atau bagian tubuh."
+  },
+  {
+    "id": "662",
+    "istilah": "Agenitalism",
+    "arti": "Tidak adanya alat genital, atau keadaan yang diakibatkan tidak adanya sekresi dari testis atau ovaria."
+  },
+  {
+    "id": "663",
+    "istilah": "Agenosomia",
+    "arti": "Kelainan kongenital atau perkembangan rudimenter dari genitalia dan penonjolan keluar bagian bawah abdomen."
+  },
+  {
+    "id": "664",
+    "istilah": "agent",
+    "arti": "sesuatu yang&nbsp; bisa menimbulkan&nbsp; efek."
+  },
+  {
+    "id": "665",
+    "istilah": "aging",
+    "arti": "perubahan bertahap dalam struktur setiap organisme yang terjadi dengan berlalunya waktu, yang bukan diakibatkan oleh penyakit atau kecelakaan berat lainnya, dan yang akhirnya mengarah pada peningkatan probabilitas kematian sebagai individu tumbuh lebih tua"
+  },
+  {
+    "id": "666",
+    "istilah": "aglikon",
+    "arti": "aglycone; komponen non gula dari suatu glikosida. Pembelahan ikatan glikosidik dari glikosida menghasilkan suatu bentuk gula dan aglikon."
+  },
+  {
+    "id": "667",
+    "istilah": "Aglutinasi",
+    "arti": "penggumpalan sel-sel atau partikel."
+  },
+  {
+    "id": "668",
+    "istilah": "Agonis",
+    "arti": "Sekelompok otot yang menghasilkan gerakan tubuh ke arah tertentu. Ketika gerakan apapun terjadi, ada dua set otot yang bekerja pada sendi. Otot-otot pada satu sisi sendi harus mengendur (rileks) sehingga otot-otot di sisi lain dapat mengencang (kontraksi). Agonis mengacu pada sekelompok otot yang berkontraksi. Sebagai contoh, ketika seseorang menekuk lengannya pada siku, bisep dan trisep bekerja dengan cara ini. Otot bisep adalah agonis;&nbsp;Sebuah ligan yang mengikat reseptor dan mengubah keadaan reseptor sehingga menghasilkan respon biologis."
+  },
+  {
+    "id": "669",
+    "istilah": "Agonis Parsial",
+    "arti": "agonis yang menghasilkan respon maksimal kurang dari respon maksimal yang dihasilkan oleh agonis lain yang bekerja pada reseptor yang sama pada jaringan yang sama, sebagai akibat dari aktivitas intrinsik yang lebih rendah."
+  },
+  {
+    "id": "670",
+    "istilah": "Agonis Penuh",
+    "arti": "agonis yang menghasilkan respon maksimal terbesar dari setiap agonis yang diketahui bekerja pada reseptor yang sama."
+  },
+  {
+    "id": "671",
+    "istilah": "Agranulositosis",
+    "arti": "Jumlah leukosit kurang dari 500 mm3 dengan gejala luka infeksi pada tekak, traktus intestinal dan kulit."
+  },
+  {
+    "id": "672",
+    "istilah": "Agregasi",
+    "arti": "berkumpulnya atau bergabungnya bagian-bagian yang terpisah."
+  },
+  {
+    "id": "673",
+    "istilah": "Agregasi Familial",
+    "arti": "materi atau massa yang mengumpul/ menggumpal."
+  },
+  {
+    "id": "674",
+    "istilah": "Ahli Anestesi",
+    "arti": "seorang dokter spesialis yang mengkhususkan diri dalam praktek anestesiologi, cabang kedokteran yang melibatkan penggunaan obat atau agen lain yang menyebabkan ketidakpekaan terhadap rasa sakit."
+  },
+  {
+    "id": "675",
+    "istilah": "Ahli Bedah",
+    "arti": "seorang dokter yang merawat penyakit, cedera, atau cacat dengan metode operasi atau pembedahan. Definisi dari &ldquo;ahli bedah&rdquo; telah mulai kabur dalam beberapa tahun terakhir karena ahli bedah telah mulai meminimalkan pemotongan, menggunakan teknologi baru yang &ldquo;invasif minimal,&rdquo; menggunakan laparoskop, dll."
+  },
+  {
+    "id": "676",
+    "istilah": "Ahli Bedah Mulut",
+    "arti": "penyedia layanan kesehatan mulut yang melakukan berbagai jenis prosedur bedah di dalam dan di sekitar wajah, mulut, dan daerah rahang."
+  },
+  {
+    "id": "677",
+    "istilah": "Ahli Bedah Onkologi",
+    "arti": "seorang dokter yang mengkhususkan diri dalam menggunakan operasi untuk mengobati kanker."
+  },
+  {
+    "id": "678",
+    "istilah": "ahli bedah saraf",
+    "arti": "seorang dokter yang mengkhususkan diri dalam operasi untuk mengobati gangguan sistem saraf."
+  },
+  {
+    "id": "679",
+    "istilah": "Ahli Gizi",
+    "arti": "dietitian; seorang profesional medis yang mengkhususkan diri dalam dietetika, studi tentang gizi dan penggunaan diet khusus untuk mencegah dan mengobati penyakit."
+  },
+  {
+    "id": "680",
+    "istilah": "Ahli Onkologi Medis",
+    "arti": "seorang dokter yang secara khusus dilatih untuk mendiagnosa dan mengobati kanker dengan kemoterapi dan obat lain."
+  },
+  {
+    "id": "681",
+    "istilah": "Ahli Ortopedi",
+    "arti": "dokter yang mengkhususkan diri dalam mengevaluasi dan mengobati masalah tulang dan struktur terkait, seperti sendi, saraf, otot, tendon, dan ligamen. Juga disebut ahli bedah ortopedi."
+  },
+  {
+    "id": "682",
+    "istilah": "Ahli Ortopedi Pediatrik",
+    "arti": "pediatric orthopaedist; dokter yang mengkhususkan diri dalam kedokteran ortopedi untuk anak-anak. Juga disebut ahli bedah ortopedi anak."
+  },
+  {
+    "id": "683",
+    "istilah": "Ahli Patologi",
+    "arti": "dokter yang mengidentifikasi penyakit dengan mempelajari sel dan jaringan di bawah mikroskop."
+  },
+  {
+    "id": "684",
+    "istilah": "AIDS",
+    "arti": "acquired immuno deficiency&nbsp; syndrome."
+  },
+  {
+    "id": "685",
+    "istilah": "ailurophobia",
+    "arti": "ketakutan tidak wajar terhadap kucing."
+  },
+  {
+    "id": "686",
+    "istilah": "Air Ekstraseluler",
+    "arti": "air dalam tubuh yang tidak di dalam sel yang mencakup air interstisial, air plasma dan air transeluler."
+  },
+  {
+    "id": "687",
+    "istilah": "Airborne Precautions",
+    "arti": "kewaspadaan penularan lewat udara, Bertujuan untuk menurunkan penularan penyakit melalui udara (airborne droplet nuclei, ukuran 5 pm atau lebih kecil) atau partikel debu yang berisi agen infeksi"
+  },
+  {
+    "id": "688",
+    "istilah": "airway",
+    "arti": "jalur keluar&nbsp; masuk udara di&nbsp; paru-paru; alat&nbsp; tubular yang menjamin pernapasan."
+  },
+  {
+    "id": "689",
+    "istilah": "Akademi Refraksionis Optisi",
+    "arti": "ARO; Pendidikan Kesehatan tingkat Akademi dengan kekhususan mempelajari bidang Refraksionis Optisi"
+  },
+  {
+    "id": "690",
+    "istilah": "Akantolisis",
+    "arti": "istilah mikroskopis yang mengacu pada pemisahan intraepidermal keratinosit satu sama lain dengan pengumpulan keratinosit karena kehilangan lampiran desmosomal."
+  },
+  {
+    "id": "691",
+    "istilah": "Akantosis",
+    "arti": "penebalan epidermis yang dihasilkan dalam pembentukan papula dan plak."
+  },
+  {
+    "id": "692",
+    "istilah": "Akantosis Nigrikans",
+    "arti": "sebuah letusan beludru, plak hiperpigmentasi dan papula berkutil di aksila, lipat p4ha, leher, dan / atau wilayah dubur dan kel4min."
+  },
+  {
+    "id": "693",
+    "istilah": "Akar Gigi",
+    "arti": "bagian gigi yang di bawah mahkota dan gusi."
+  },
+  {
+    "id": "694",
+    "istilah": "Akar Licorice",
+    "arti": "Glycyrrhiza glabra, Glycyrrhizin, Gan CAO; obat herbal tradisional yang digunakan untuk mengobati penyakit hati dan kondisi bronkial. Glycyrrhizin adalah komponen aktif dari akar licorice."
+  },
+  {
+    "id": "695",
+    "istilah": "akathisia",
+    "arti": "kondisi&nbsp; yang berciri kegelisahan motorik."
+  },
+  {
+    "id": "696",
+    "istilah": "Akatisia",
+    "arti": "akhatisia; kondisi neurologis di mana seseorang memiliki kegelisahan otot. Ada beberapa bentuk pengalaman akatisia. Pada beberapa orang, rasanya seolah-olah otot mereka bergetar (berkedut). Pada orang lain, terdapat dorongan untuk terus bergerak dan tidak bisa duduk diam."
+  },
+  {
+    "id": "697",
+    "istilah": "AKDR",
+    "arti": "alat kontrasepsi dalam rahim atau spiral adalah alat kontrasepsi (kontrol kelahiran) yang dimasukkan ke dalam rahim oleh dokter kandungan dan terbuat dari plastik dan logam (biasanya tembaga). Fungsinya mencegah telur wanita yang dibuahi agar tidak menetap di dinding rahim. Jenis AKDR yang paling umum adalah Copper T dan Loop Lippes. Jika dimasukkan tidak benar, AKDR dapat menyebabkan jaringan parut dan perdarahan rahim. Istilah dalam bahasa Inggris adalah IUD (Intra Uterine Device)."
+  },
+  {
+    "id": "698",
+    "istilah": "AKG",
+    "arti": "angka kecukupan gizi, Suatu batasan angka kecukupan zat gizi termasuk energi, protein, lemak, serta berbagai vitamin dan mineral yang diperlukan seseorang per hari menurut jenis kelamin dan kelompok umur."
+  },
+  {
+    "id": "699",
+    "istilah": "Akhalasia",
+    "arti": "kegagalan untuk rileks, terutama mengacu pada serat otot halus pada setiap persimpangan dari saluran pencernaan (misalnya bukaan seperti pilorus, kardia atau otot sfingter lainnya), terutama kegagalan sfingter esofagus untuk rileks saat menelan."
+  },
+  {
+    "id": "700",
+    "istilah": "Akinesia",
+    "arti": "(kata sifat: akinetik) adalah ketiadaan atau hilangnya gerakan"
+  },
+  {
+    "id": "701",
+    "istilah": "Akinetik",
+    "arti": "tidak adanya gerakan; berasal dari dua kata Yunani &ldquo;a&rdquo; yang berarti tanpa dan &ldquo;kin&ccedil;sis&rdquo; yang berarti gerakan. Hilangnya gerakan bisa pada sebagian atau seluruh tubuh."
+  },
+  {
+    "id": "702",
+    "istilah": "Akloridia",
+    "arti": "kurangnya asam klorida dalam cairan pencernaan di lambung. Asam klorida membantu mencerna makanan."
+  },
+  {
+    "id": "703",
+    "istilah": "Akreditasi Rumah Sakit",
+    "arti": "Pengakuan terhadap Rumah Sakit yang diberikan oleh lembaga independen penyelenggara Akreditasi yang ditetapkan oleh Menteri, setelah dinilai bahwa Rumah Sakit itu memenuhi Standar Pelayanan Rumah Sakit yang berlaku untuk meningkatkan mutu pelayanan Rumah Sakit secara berkesinambungan."
+  },
+  {
+    "id": "704",
+    "istilah": "Akrodermatitis",
+    "arti": "peradangan kulit ekstremitas, terutama kaki atau telapak kaki."
+  },
+  {
+    "id": "705",
+    "istilah": "Akrokordon",
+    "arti": "acrochordon; pertumbuhan berdaging jinak karena hiperplasia epidermal kulit batang di atas pedunkulata papular."
+  },
+  {
+    "id": "706",
+    "istilah": "Akromegali",
+    "arti": "Pembesaran disebabkan sekresi berlebihan somatotropin."
+  },
+  {
+    "id": "707",
+    "istilah": "Akrosentrik",
+    "arti": "sebuah struktur kromosom di mana terdapat sentromer di dekat dengan salah satu ujungnya."
+  },
+  {
+    "id": "708",
+    "istilah": "akseptor baru",
+    "arti": "Pasangan usia subur yang baru pertama kali menggunakan salah satu cara/alat kontrasepsi dan/atau pasangan usia subur yang menggunakan kembali salah satu cara/alat kontrasepsi setelah mereka berakhir masa kehamilannya (baik kehamilan yang berakhir dengan keguguran, lahir mati ataupun lahir hidup)"
+  },
+  {
+    "id": "709",
+    "istilah": "akseptor KB",
+    "arti": "Pasangan usia subur di mana salah seorang menggunakan salah satu cara/alat kontrasepsi untuk tujuan pencegahan kehamilan, baik melalui program maupun non program"
+  },
+  {
+    "id": "710",
+    "istilah": "Akses Vaskuler",
+    "arti": "sebuah istilah umum untuk menggambarkan area pada tubuh di mana darah diambil untuk sirkulasi melalui sirkuit hemodialisis. Sebuah akses vaskuler dapat berupa fistula arteriovenosa, cangkok, atau kateter."
+  },
+  {
+    "id": "711",
+    "istilah": "Aksis",
+    "arti": "vertebra servikal yang kedua (C2)."
+  },
+  {
+    "id": "712",
+    "istilah": "Akson",
+    "arti": "serat atau serabut saraf yang memproses output dari neuron. Akson dapat bervariasi panjangnya dari beberapa milimeter sampai beberapa centimeter, dan bisa bercabang secara luas. Ketika muatan listrik mencapai ujung akson, neurotransmiter dirilis. Neurotransmiter ini pada gilirannya mengaktifkan reseptor pada dendrit neuron di sebelahnya, yang melanjutkan pesan. Pesan-pesan dasar yang ditransmisikan melalui akson merupakan peristiwa listrik/ kimia, yang disebut potensial aksi."
+  },
+  {
+    "id": "713",
+    "istilah": "Aksonotmesis",
+    "arti": "grade II cedera saraf akibat peregangan saraf di mana endoneurium tetap utuh."
+  },
+  {
+    "id": "714",
+    "istilah": "aktifitas fisik",
+    "arti": "Setiap gerakan tubuh yang meningkatkan pengeluaran tenaga dan energi (pembakaran kalori). (Sumber: Pedoman Upaya Kesehatan Olahraga di Puskesmas. Departemen Kesehatan RI Ditjen Bina Kesmas tahun 2004)"
+  },
+  {
+    "id": "715",
+    "istilah": "Aktin",
+    "arti": "sebuah protein yang penting dalam mempertahankan bentuk sel dan bertindak bersama-sama dengan miosin untuk menghasilkan gerakan sel."
+  },
+  {
+    "id": "716",
+    "istilah": "Aktinik",
+    "arti": "mengacu pada sinar ultraviolet (UV) sinar matahari dan lampu UV. Sunburn adalah terbakar aktinik. Keratosis aktinik adalah lesi kulit yang merupakan konsekuensi dari paparan sinar matahari kronis. Dari bahasa Yunani &ldquo;aktis&rdquo; yang berarti &ldquo;sinar.&rdquo;"
+  },
+  {
+    "id": "717",
+    "istilah": "Aktivator plasminogen tisu",
+    "arti": "(Tissue Plasminogen Activator/TPA); sebuah enzim yang membantu melarutkan bekuan. TPA dibuat oleh lapisan sel pembuluh darah dan juga telah dibuat di laboratorium. Agen penghilang gumpalan ini digunakan dalam pengobatan serangan jantung dan stroke. Alteplase adalah aktivator plasminogen tisu yang diproduksi oleh teknologi DNA rekombinan. TPA rekombinan disingkat r-TPA."
+  },
+  {
+    "id": "718",
+    "istilah": "Aktivitas Intrinsik",
+    "arti": "intrinsic activity; kualitas obat yang memastikan hasil biologisnya. Hal ini juga disebut sebagai efikasi intrinsik (intrinsic efficacy)."
+  },
+  {
+    "id": "719",
+    "istilah": "akupresur",
+    "arti": "Cara pemijatan yang bertujuan untuk memelihara kesehatan dan meningkatkan stamina (kebugaran)."
+  },
+  {
+    "id": "720",
+    "istilah": "akupuntur",
+    "arti": "Metode pengobatan yang mendorong tubuh untuk meningkatkan kesehatan dan mengurangi rasa sakit dan penderitaan. Hal ini dilakukan dengan menusukkan jarum dan menerapkan panas atau stimulasi listrik pada titik-titik akupunktur yang tepat."
+  },
+  {
+    "id": "721",
+    "istilah": "Akut",
+    "arti": "gejala atau tanda-tanda yang dimulai dan memburuk dengan cepat, bukan kronis."
+  },
+  {
+    "id": "722",
+    "istilah": "Alanin Aminopeptidase",
+    "arti": "AAP; enzim yang biasanya ditemukan dalam ginjal sehat. AAP meningkat tinggi dalam urin ketika ada masalah ginjal, sehingga digunakan sebagai biomarker untuk mendeteksi kerusakan atau penyakit pada ginjal dan hati."
+  },
+  {
+    "id": "723",
+    "istilah": "alanine",
+    "arti": "asam amino&nbsp; nonesensial pada&nbsp; protein dan juga&nbsp; bebas di plasma."
+  },
+  {
+    "id": "724",
+    "istilah": "Alat kesehatan",
+    "arti": "Instrumen Aparatus, mesin, implan yang tidak mengandung obat yang digunakan untuk mencegah, mendiagnosis, menyebuhkan dan meringankan penyakit, merawat orang sakit serta pemulihan kesehatan pada manusia, dan atau untuk membentuk struktur dan memperbaiki fungsi tubuh. (Sumber: UU No.23/1992 tentang kesehatan)"
+  },
+  {
+    "id": "725",
+    "istilah": "albinism",
+    "arti": "kelainan&nbsp; pada kongenital,&nbsp; total atau sebagian. Pigmentasi normal (kulit,&nbsp; rambut, mata) diakibatkan kelainan&nbsp; pada sintesis&nbsp; melanin"
+  },
+  {
+    "id": "726",
+    "istilah": "Albinisme",
+    "arti": "Albino yaitu suatu kondisi di mana orang dilahirkan dengan kekurangan jumlah melanin, pigmen yang bertanggung jawab untuk warna rambut, kulit, dan mata"
+  },
+  {
+    "id": "727",
+    "istilah": "albumin",
+    "arti": "protein yang&nbsp; larut di air, dalam&nbsp; konsentrasi larutan garam yang&nbsp; sedang; serum&nbsp; albumin."
+  },
+  {
+    "id": "728",
+    "istilah": "alcohol",
+    "arti": "kelas dari&nbsp; senyawa yang&nbsp; mempunyai gugus&nbsp; fungsional hidroksil (-OH) kecuali&nbsp; senyawa yang gugus OH-nya terikat&nbsp; di sebuah cincin&nbsp; aromatik."
+  },
+  {
+    "id": "729",
+    "istilah": "alcohol-induced hepatitis",
+    "arti": "(hepatitis penharuh alkohol); salah satu jenis hepatitis kronis yang disebabkan konsumsi alkohol berat dalam waktu lama."
+  },
+  {
+    "id": "730",
+    "istilah": "alcoholism",
+    "arti": "Sebuah penyakit adiktif ditandai oleh penggunaan alkohol dan menggambarkan berbagai simtom termasuk toleransi, gejala putus, deteriorasi organ, kompulsi, kehilangan kontrol, dan penggunaan terus walaupun ada konsekuensi yang merugikan."
+  },
+  {
+    "id": "731",
+    "istilah": "Alergen",
+    "arti": "senyawa yang dapat menginduksi imunoglobulin E (IgE) melalui paparan berupa inhalasi (dihirup), ingesti (proses menelan), kontak, ataupun injeksi."
+  },
+  {
+    "id": "732",
+    "istilah": "alergi",
+    "arti": "Kondisi di mana tubuh memiliki respon yang berlebihan terhadap suatu zat (misalnya makanan atau obat). Juga dikenal sebagai hipersensitivitas."
+  },
+  {
+    "id": "733",
+    "istilah": "alexander technique",
+    "arti": "metode latihan psiko-fisik dalam relaksasi yang didasarkan pada perbedaan individual pada pernafasan, otot dan postur tubuh, dapat membantu ibu mengatasi tuntutan kehamilan dan persalinan."
+  },
+  {
+    "id": "734",
+    "istilah": "Alkalemia",
+    "arti": "pH darah di atas normal &gt; 7,45"
+  },
+  {
+    "id": "735",
+    "istilah": "Alkalosis",
+    "arti": "Peningkatan PH darah di atas 7,43"
+  },
+  {
+    "id": "736",
+    "istilah": "alkes",
+    "arti": "alat kesehatan; Instrumen Aparatus, mesin, implan yang tidak mengandung obat yang digunakan untuk mencegah, mendiagnosis, menyebuhkan dan meringankan penyakit, merawat orang sakit serta pemulihan kesehatan pada manusia, dan atau untuk membentuk struktur dan memperbaiki fungsi tubuh. (Sumber: UU No.23/1992 tentang kesehatan)"
+  },
+  {
+    "id": "737",
+    "istilah": "alkohol",
+    "arti": "Zat yang memproduksi efek ganda pada tubuh: pertama adalah efek depresan yang singkat dan kedua adalah efek agitasi pada susunan saraf pusat yang berlangsung enam kali lebih lama dari efek depresannya.Kesadaran atas kedua efek ini sangat tergantung pada kondisi susunan saraf pusat pada saat penggunaan alkohol berlangsung."
+  },
+  {
+    "id": "738",
+    "istilah": "Alkylating Agent",
+    "arti": "Obat sitotoksik, misalnya mustar nitrogen yang sangat reaktif dan dapat menyumbangkan gugus alkil pada senyawa lain. Obat alkil menghambat pembelahan sel melalui reaksi dengan DNA dan digunakan sebagai obat antineoplastik."
+  },
+  {
+    "id": "739",
+    "istilah": "Allosteric Activation",
+    "arti": "Meningkatkan aktivitas enzim dengan mengikat efektor pada situs alosterik yang mengakibatkan pengikatan atau penggantian pada situs katalitik."
+  },
+  {
+    "id": "740",
+    "istilah": "alokon",
+    "arti": "Alat dan Obat Kontrasepsi."
+  },
+  {
+    "id": "741",
+    "istilah": "alopecia",
+    "arti": "gundul;&nbsp; tidak ada rambut&nbsp; di daerah yang&nbsp; biasanya tumbuh."
+  },
+  {
+    "id": "742",
+    "istilah": "alphafetoprotein",
+    "arti": "suatu protein yang diproduksi oleh janin. Protein dapat dilihat dalam darah maternal dan cairan amnion. Pengkajian kuantitatif dapat digunakan sebagai dasar uji skirning antenatal untuk mendeteksi abnormalitas janin, khususnya spina bifida, sindrom down dan kehamilan kembar. Kadar yang meninggi juga terlihat pada orang dewasa yang menderita beberapa tipe penyakit malignan."
+  },
+  {
+    "id": "743",
+    "istilah": "ALS (Amyotropic Lateral Sclerosis)",
+    "arti": "kelemahan progresif cepat berupa pengecilan dan kekakuan otot, kesulitan berbicara, menelan, dan bernapas."
+  },
+  {
+    "id": "744",
+    "istilah": "alteplase",
+    "arti": "aktivator&nbsp; jaringan plasminogen; dihasilkan&nbsp; oleh teknologi&nbsp; DNA rekombinan."
+  },
+  {
+    "id": "745",
+    "istilah": "altretamine",
+    "arti": "bahan&nbsp; antinoplastik;&nbsp; digunakan sebagai&nbsp; obat kanker ovarium dan tumor&nbsp; solid lainnya."
+  },
+  {
+    "id": "746",
+    "istilah": "alum",
+    "arti": "astrigen dan&nbsp; obat sebagai penahan darah lokal."
+  },
+  {
+    "id": "747",
+    "istilah": "alveolar crest",
+    "arti": "Puncak alveolar (alveolar crest) ; bagian tertinggi dari tulang alveolar."
+  },
+  {
+    "id": "748",
+    "istilah": "Alveolektomi",
+    "arti": "operasi menghapus bagian-bagian dari tulang alveolar."
+  },
+  {
+    "id": "749",
+    "istilah": "alveoloplasty",
+    "arti": "perubahan operatif&nbsp; bentuk dan&nbsp; kondisi proses&nbsp; alveolar pada persiapan konstruksi&nbsp; gigi palsu dalam&nbsp; waktu dekat."
+  },
+  {
+    "id": "750",
+    "istilah": "Alveolus",
+    "arti": "Suatu struktur sangat kecil dan menyerupai kantung yang terdapat pada ujung-ujung beronkiolus. Pada permukaannya terdapat banyak pembuluh kapiler. Udara dalam alveolus memberikan oksigen pada darah dan sebaliknya menerima karbon dioksida dari darah. Pertukaran gas tersebut terjadi pada permukaan alveolus yang sangat tipis dan dinding kapiler."
+  },
+  {
+    "id": "751",
+    "istilah": "alzheimer",
+    "arti": "Alzheimer bukan penyakit menular, melainkan merupakan sejenis sindrom dengan apoptosis sel-sel otak pada saat yang hampir bersamaan, sehingga otak tampak mengerut dan mengecil. Alzheimer juga dikatakan sebagai penyakit yang sinonim dengan orang tua. Risiko untuk mengidap Alzheimer, meningkat seiring dengan pertambahan usia. Bermula pada usia 65 tahun, seseorang mempunyai risiko lima persen mengidap penyakit ini dan akan meningkat dua kali lipat setiap lima tahun, kata seorang dokter."
+  },
+  {
+    "id": "752",
+    "istilah": "Ambeien",
+    "arti": "wasir; (dalam bahasa Inggris atau Latin disebut Hemorrhoid dan dalam bahasa kedokteran disebut Piles) adalah penyakit atau gangguan pada anus dimana Sphinchter Ani atau bibir anus, mengalami pembengkakan yang kadang-kadang disertai pendarahan."
+  },
+  {
+    "id": "753",
+    "istilah": "Amebic Abscess",
+    "arti": "Abses yang disebabkan oleh Entamoeba histolytica biasanya mengenai hati, tetapi juga bisa di paru, otak, dan limpa."
+  },
+  {
+    "id": "754",
+    "istilah": "amenore",
+    "arti": "Gangguan dalam sistem reproduksi wanita, dimana wanita tidak mengalami mentruasi secara rutin setiap bulan."
+  },
+  {
+    "id": "755",
+    "istilah": "amenorrhoea",
+    "arti": "tidak timbulnya haid setelah waktu haid normal, atau tidak mengalami menstruasi yang biasanya datang tiap bulan. istilah ini mencakup masa gadis sebelum menarke dan wanita setelah menopause, biasanya disebut untuk wanita usia subur dan merupakan tanda khas kehamilan atau tanda bila terjadi penyakit tertentu. Seperti anoreksia nervosa atau trauma emosional berat."
+  },
+  {
+    "id": "756",
+    "istilah": "Amilase",
+    "arti": "Suatu kelompok enzim yang menguraikan zat pati ataupun glikogen; termasuk di dalam kelompok ini adalah maltosa dan glukosa. Ptialin adalah amilase yang terdapat dalam liur."
+  },
+  {
+    "id": "757",
+    "istilah": "Amilopsin",
+    "arti": "Amilase yang dihasilkan oleh pankreas dan terdapat dalam getah pankreas."
+  },
+  {
+    "id": "758",
+    "istilah": "Amino Acid",
+    "arti": "Lihat pada amino."
+  },
+  {
+    "id": "759",
+    "istilah": "Amiotrofi",
+    "arti": "mengecilnya otot akibat penyakit pada saraf yang terdapat pada otot tersebut"
+  },
+  {
+    "id": "760",
+    "istilah": "amniocentesis",
+    "arti": "sebuah prosedur invasif yang dilakukan pada usia 12-16 minggu gestasi, dengan cara memasukkan jarum berdiameter besar ke dinding abdomen dan uterus sampai ke ketuban dan cairan amnion. Cairan yang mengandung sel-sel janin diaspirasi. Sel-sel janin yang diperoleh selanjutnya dikultur untuk mendeteksi abnormalitas kromosom dan kariotipe sebagai salah satu metode diagnosis saat pranatal. Risiko terjadinya aborsi muncul setelah prosedur ini."
+  },
+  {
+    "id": "761",
+    "istilah": "amniohook",
+    "arti": "alat yang digunakan untuk memecahkan ketuban janin. Lalu cairan amnion dialirkan dan pola persalinan mungkin berubah."
+  },
+  {
+    "id": "762",
+    "istilah": "amnioinfusion",
+    "arti": "prosedur atau cara untuk menggantikan cairan yang hilang saat terjadi pecah ketuban prematur dan terdapat risiko kompresi tali pusat. Salin normal fisiologis yang bersuhu tubuh dimasukkan ke dalam rongga amnion."
+  },
+  {
+    "id": "763",
+    "istilah": "amnion",
+    "arti": "selaput yang membungkus bayi berisi cairan ketuban."
+  },
+  {
+    "id": "764",
+    "istilah": "amnionitis",
+    "arti": " inflamasi ketuban akibat terjadi infeksi."
+  },
+  {
+    "id": "765",
+    "istilah": "amnioscopy",
+    "arti": "pemeriksaan endoskopik dengan menggunakan amnioskop yang memungkinkan si pemeriksa melihat kantong amnion. Penggunaannya dapat dilakukan perabdominal atau servikal."
+  },
+  {
+    "id": "766",
+    "istilah": "amniotic cavity",
+    "arti": "ruang di uterus yang berisi janin, plasenta cairan amnion dan dilapisi selaput ketuban."
+  },
+  {
+    "id": "767",
+    "istilah": "amniotic fluid",
+    "arti": "cairan yang menyelubungi janin dalam kantong amnion. Juga dikenal dengan nama liquor amnii."
+  },
+  {
+    "id": "768",
+    "istilah": "amniotic fluid embolism",
+    "arti": "cairan amnion masuk ke sistem sirkulasi maternal. Kondisi serius ini jarang terjadi, namun saat terjadi mengakibatkan syok serta kolaps maternal dan apat berakibat fatal."
+  },
+  {
+    "id": "769",
+    "istilah": "amniotic sac",
+    "arti": "kantong tempat janin tumbuh."
+  },
+  {
+    "id": "770",
+    "istilah": "amniotomy",
+    "arti": "tindakan memecah ketuban atau memecah selaput janin dengan cara disengaja. Tindakan ini biasanya dilakukan untuk mengobservasi cairan amnion yang kegunaannya mengkaji kondisi janin, untuk induksi persalinan atau mempercepat kala satu persalinan. Tindakan ini menimbulkan risiko yang dapat meningkatkan nyeri dan menimbulkan intervensi selanjutnya."
+  },
+  {
+    "id": "771",
+    "istilah": "Amonia",
+    "arti": "Suatu senyawa anorganik dengan rumus NH3. Bersifat racun bagi hewan dan manusia, sehingga oleh hati diubah menjadi urea, suatu zat yang tidak berbahaya."
+  },
+  {
+    "id": "772",
+    "istilah": "Amphetamine",
+    "arti": "amfetamin; obat golongan stimulansia (hanya dapat diperoleh dengan resep dokter) yang biasanya digunakan hanya untuk mengobati gangguan hiperaktif karena kurang perhatian atau Attention-deficit Hyperactivity Disorder (ADHD) pada pasien dewasa dan anak-anak. Juga digunakan untuk mengobati gejala-gejala luka-luka traumatik pada otak dan gejala mengantuk pada siang hari pada kasus narkolepsi dan sindrom kelelahan kronis."
+  },
+  {
+    "id": "773",
+    "istilah": "amputasi",
+    "arti": "Memotong, atau memangkas; pembuangan suatu anggota gerak atau anggota badan lain atau hasil perkembangan badan."
+  },
+  {
+    "id": "774",
+    "istilah": "anabolisme",
+    "arti": "reaksi yang merangkai senyawa organik dari molekul-molekul tertentu, untuk diserap oleh sel tubuh."
+  },
+  {
+    "id": "775",
+    "istilah": "anadidymus",
+    "arti": "kembar siam yang dempet di panggul atau pada bagian bawah panggul."
+  },
+  {
+    "id": "776",
+    "istilah": "Anak berkebutuhan khusus",
+    "arti": "Anak yang mengalami hambatan fisik dan/atau mental sehingga mengganggu pertumbuhan dan perkembangannya secara wajar, dan anak yang akibat keadaan tertentu mengalami kekerasan, berada di lembaga permasyarakatan/ rumah tahanan, di jalanan, di daerah terpencil/bencana/konflik yang memerlukan penanganan secara khusus."
+  },
+  {
+    "id": "777",
+    "istilah": "Anak Lahir Hidup",
+    "arti": "ALH; Banyaknya kelahiran hidup dari sekelompok atau beberapa kelompok wanita selama masa reproduksinya. Manfaat ALH untuk mengetahui rata-rata jumlah anak yang dilahirkan hidup oleh sekelompok wanita mulai dari masa reproduksi hingga saat wawancara. Contoh: Rata-rata ALH wanita usia 25-29 sebesar 3,7 artinya kemampuan reproduksi wanita usia 25-29 rata-rata melahirkan 3-4 anak"
+  },
+  {
+    "id": "778",
+    "istilah": "Anak penyandang cacat",
+    "arti": "Setiap anak yang mempunyai kelainan fisik dan/atau mental yang dapat mengganggu atau merupakan rintangan dan hambatan baginya untuk melakukan kegiatan secara selayaknya yang terdiri dari penyandang cacat fisik, penyandang cacat mental dan penyandang cacat fisik dan mental."
+  },
+  {
+    "id": "779",
+    "istilah": "anal verge",
+    "arti": "batas atau tepi sfingter yang menutup rektum. Dapat rusak saat melahirkan bayi."
+  },
+  {
+    "id": "780",
+    "istilah": "Analisis Gender",
+    "arti": "Kajian terhadap perbedaan dan kesenjangan peran laki-laki dan perempuan, ketidakseimbangan kekuasaan dalam hubungan mereka, hambatan dan kesempatan serta dampak perbedaan tersebut terhadap kehidupan mereka"
+  },
+  {
+    "id": "781",
+    "istilah": "Analisis Penanggulangan Bencana",
+    "arti": "Suatu analisa dimana kerawanan suatu masyarakat diekspresikan dengan tinggi rendahnya risiko terjadinya bencana yang merupakan fungsi dari suatu ancaman dengan keadaan kerentanan yang sendiri-sendiri atau bersama-sama dan dapat diubah oleh kemampuan"
+  },
+  {
+    "id": "782",
+    "istilah": "Anamnesis",
+    "arti": "istilah lain untuk riwayat medis seseorang, data pasien."
+  },
+  {
+    "id": "783",
+    "istilah": "android pelvis",
+    "arti": " pelvis yang berbentuk seperti panggul laki-laki. Bagian tas pelvis sempit, segmen posterior yang dangkal dan dinding lateral yang lurus akan mempersulit proses kelahiran anak."
+  },
+  {
+    "id": "784",
+    "istilah": "andrologi",
+    "arti": " ilmu tentang masalah kemandulan pada laki-laki."
+  },
+  {
+    "id": "785",
+    "istilah": "andropause",
+    "arti": "Perubahan biologis yang ditandai oleh penurunan bertahap produksi androgen yang dialami oleh pria selama dan setelah pertengahan hidup mereka. Disebut juga menopause pria."
+  },
+  {
+    "id": "786",
+    "istilah": "anemia",
+    "arti": "Adalah suatu keadaan dimana kadar hemoglobin (Hb) dalam darah kurang dari normal, yang berbeda untuk setiap kelompok umur dan jenis kelamin yaitu:"
+  },
+  {
+    "id": "787",
+    "istilah": "anemia aplastik",
+    "arti": "Anemia aplastik adalah anemia akibat penurunan tingkat sel darah merah yang disebabkan oleh ketidakmampuan sel induk dalam sumsum tulang untuk memproduksi sel-sel baru"
+  },
+  {
+    "id": "788",
+    "istilah": "anemia hemolitik",
+    "arti": "Anemia yang disebabkan karena pecahnya sel darah merah lebih cepat dari umur regenerasi sel darah merah. Pada penderita malaria dan thalasemia pada umumnya terjadi karena hemolitik. (Sumber : Pedoman Penanggulangan Anemi Gizi untuk remaja putri dan WUS) "
+  },
+  {
+    "id": "789",
+    "istilah": "Anestesi lokal",
+    "arti": "Bius lokal; teknik untuk menghilangkan atau mengurangi sensasi dan rasa sakit di bagian tubuh tertentu."
+  },
+  {
+    "id": "790",
+    "istilah": "Anestetik",
+    "arti": "Jenis obat yang menghasilkan anestesi terkelola melalui inhalasi (pernapasan) atau intravena (injeksi atau infus)."
+  },
+  {
+    "id": "791",
+    "istilah": "aneurisma aorta abdomen",
+    "arti": "Aneurisma aorta abdomen terjadi ketika pembuluh darah besar yang memasok darah ke perut, panggul, dan kaki (yang disebut aorta abdomen) membesar abnormal atau menggelembung."
+  },
+  {
+    "id": "792",
+    "istilah": "Aneurysma",
+    "arti": "pelebaran pembuluh darah akibat kelemahan dinding pembuluh darah"
+  },
+  {
+    "id": "793",
+    "istilah": "angina pectoris",
+    "arti": "penyakit jantung iskemik didefinisikan sebagai berkurangnya pasokan oksigen dan menurunnya aliran darah ke dalam miokardium."
+  },
+  {
+    "id": "794",
+    "istilah": "angina pektoris",
+    "arti": "Penyakit ini memiliki ciri khas yakni sindrom klinis berupa serangan sakit di dada. Hal ini biasanya muncul ketika penderita sedang beraktivita. Rasa sakit tersebut hilang ketika penderita menghentikan aktivitasnya. Penyakit ini berkaitan dengan jantung koroner. "
+  },
+  {
+    "id": "795",
+    "istilah": "Angiografy",
+    "arti": "teknik pencitraan untuk melihat bagian dalam pembuluh darah dan organ tubuh, terutama arteri, vena, dan ruang jantung."
+  },
+  {
+    "id": "796",
+    "istilah": "angiogram",
+    "arti": "pencitraan sinar X pembuluh darah menggunakan injeksi zat kontras. Dapat dilakukan ketika pascanatal jika ibu diperkirakan mengalami trombosis vena profunda."
+  },
+  {
+    "id": "797",
+    "istilah": "Angioplasti",
+    "arti": "tindakan pembedahan pada pembuluh darah akibat penyempitan atau sumbatan."
+  },
+  {
+    "id": "798",
+    "istilah": "angiosarcoma",
+    "arti": "Kanker langka yang berawal di pembuluh darah pada hati. Angiosarcoma kemungkinan disebabkan oleh bersentuhan dengan vinil klorida di tempat kerja, yang terjadi di pabrik polyvinyl klorida (PVC), atau bersentuhan dengan arsenik. Meskipun begitu, pada kebanyakan orang, tidak ada penyebab yang teridentifikasi. "
+  },
+  {
+    "id": "799",
+    "istilah": "angiotensin",
+    "arti": "suatu protein penyebab vasokonstriksi sehingga meningkatkan tekanan darah. Pada hipertensi akibat kehamilan diduga kerja angiotensin terlalu aktif."
+  },
+  {
+    "id": "800",
+    "istilah": "Angka Kematian Balita",
+    "arti": "Banyaknya kematian anak berumur di bawah lima tahun per 1000 Balita dalam satu tahun"
+  },
+  {
+    "id": "801",
+    "istilah": "Angka Kematian Bayi",
+    "arti": "Infant Mortality Rate (IMR);&nbsp;Banyaknya kematian bayi berumur di bawah satu tahun per 1000 kelahiran hidup dalam satu tahun."
+  },
+  {
+    "id": "802",
+    "istilah": "Angka Kematian Ibu",
+    "arti": "Maternal Mortality Rate (MMR)"
+  },
+  {
+    "id": "803",
+    "istilah": "Angka Kematian Kasar",
+    "arti": "Crude Death Rate (CDR);&nbsp;Banyaknya kematian selama satu tahun tiap seribu penduduk."
+  },
+  {
+    "id": "804",
+    "istilah": "Angka Kematian Menurut Umur",
+    "arti": "Age Specific Death Rate (ASDR);&nbsp;Banyaknya kematian pada kelompok umur tertentu per seribu penduduk dalam kelompok umur yang sama."
+  },
+  {
+    "id": "805",
+    "istilah": "Angka Kematian Neonatal",
+    "arti": "Neonatal Mortality Rate (NMR);&nbsp;Jumlah kematian bayi di bawah usia 28 hari per 1000 kelahiran hidup pada masa tertentu (biasanya 1 tahun)."
+  },
+  {
+    "id": "806",
+    "istilah": "Angka Kematian Perinatal",
+    "arti": "Perinatal Mortality Rate;"
+  },
+  {
+    "id": "807",
+    "istilah": "angle",
+    "arti": "drainase bidang mata yang terbentuk antara kornea dan iris, yang berbentuk sudut. Itulah mengapa Anda menemukan kata &ldquo;sudut&rdquo; dalam jenis-jenis glaukoma yang berbeda."
+  },
+  {
+    "id": "808",
+    "istilah": "Annual Malaria Incidence",
+    "arti": "AMI; Jumlah penderita malaria klinis per 1000 penduduk dalam satu wilayah."
+  },
+  {
+    "id": "809",
+    "istilah": "Annual Parasite Incidence",
+    "arti": "Jumlah penderita malaria dengan konfirmasi laboratorium positif terhadap populasi di wilayah tertentu dan waktu tertentu per 1000 penduduk. "
+  },
+  {
+    "id": "810",
+    "istilah": "anoplasty",
+    "arti": "operasi yang bertujuan memperbaiki robek pada anus. Kadang dilakukan setelah robekan derajat empat."
+  },
+  {
+    "id": "811",
+    "istilah": "anoreksia",
+    "arti": "Hilangnya atau berkurangnya nafsu makan."
+  },
+  {
+    "id": "812",
+    "istilah": "Anoreksia nervosa",
+    "arti": "gangguan makan akibat rasa takut berlebihan terhadap peningkatan berat badan."
+  },
+  {
+    "id": "813",
+    "istilah": "anorexia nervosa",
+    "arti": "Penderita anorexia nervosa makan dalam jumlah sangat sedikit dan berolahraga berlebihan untuk menjaga berat badan. "
+  },
+  {
+    "id": "814",
+    "istilah": "anorgasmy",
+    "arti": " (anorgasmia) gagal untuk mencapai orgasme."
+  },
+  {
+    "id": "815",
+    "istilah": "anovula menstruation",
+    "arti": "menstruasi tanpa didahului dengan pelepasan ovum."
+  },
+  {
+    "id": "816",
+    "istilah": "ansietas",
+    "arti": "Cemas, resah, rasa cemas yang berlebihan tidak sesuai dengan realitas."
+  },
+  {
+    "id": "817",
+    "istilah": "anteflexion",
+    "arti": "posisi membengkok ke depan. istilah yang digunakan untuk menggambarkan posisi fundus uterus terhadap serviks dan vag1n4."
+  },
+  {
+    "id": "818",
+    "istilah": "Antegrade Pyeologram",
+    "arti": "Pyelogram antegrad (antegrade pyeologram) adalah jenis sinar-X yang digunakan untuk mendiagnosis sumbatan pada saluran kemih bagian atas. Selama prosedur, pewarna kontras disuntikkan ke bagian ureter (tabung sempit yang membawa urin dari ginjal ke kandung kemih) yang paling dekat dengan ginjal yang disebut pelvis renalis. Aliran pewarna kontras kemudian dapat diamati dengan sinar-X ketika bergerak dari ginjal ke ureter dan kandung kemih."
+  },
+  {
+    "id": "819",
+    "istilah": "antenatal",
+    "arti": "periode sebelum kelahiran; periode dari pembuahan hingga kelahiran."
+  },
+  {
+    "id": "820",
+    "istilah": "antenatal care",
+    "arti": " pemeriksaan kehamilan, serangkaian observasi pada ibu dan janin guna mendeteksi dan menyelidiki faktor risiko dan penyimpangan dari normal kesejahteraan ibu dan pertumbuhan janin. Termasuk konseling dan persiapan untuk persalinan dan perawatan bayi."
+  },
+  {
+    "id": "821",
+    "istilah": "antenatal haemorrhage",
+    "arti": " pendarahan yang terlihat pervag1n4 selama kehamilan; merupakan tanda adanya penyimpangan dari normal. Misalnya plasenta previa, abrubsio plasenta dan infeksi atau erosi serviks."
+  },
+  {
+    "id": "822",
+    "istilah": "antepartum",
+    "arti": "sebelum kelahiran."
+  },
+  {
+    "id": "823",
+    "istilah": "antepartum bleeding",
+    "arti": "pendarahan melalui vag1n4 pada usia kehamilan 20 minggu atau lebih."
+  },
+  {
+    "id": "824",
+    "istilah": "anterior fontanelle",
+    "arti": " area fibromembranosa pada kepala janin atau neonatus, yang terletak di antara sutura frontalis, sagitalis dan koronalis."
+  },
+  {
+    "id": "825",
+    "istilah": "Anterior horn cells",
+    "arti": "kumpulan saraf motorik yang terletak di substansia abu-abu tulang belakang sisi depan."
+  },
+  {
+    "id": "826",
+    "istilah": "anthraks",
+    "arti": "Penyakit infeksi karena bakteri Bacillus anthracis yang umumnya menjangkiti ternak, dapat menular kepada manusia dan pada kulit menimbulkan semacam bisul yang khas. Sebagian besar kasus anthraks ditemukan dalam bentuk anthraks kulit, bentuk lain yang jarang adalah anthraks paru, anthraks saluran cerna dan anthraks meningitis "
+  },
+  {
+    "id": "827",
+    "istilah": "antibiotik",
+    "arti": "Obat yang menghentikan atau memperlambat pertumbuhan bakteri "
+  },
+  {
+    "id": "828",
+    "istilah": "antibodi monoklonal",
+    "arti": "Obat anti kanker dengan &ldquo;target khusus&rdquo; untuk pengobatan Non Hodgkin Limfoma (NHL) yang merupakan pilihan terapi termutakhir dan menjadi salah satu pilihan utama di dunia. Target khusus tersebut adalah protein CD20+ yang ditemukan pada 95% permukaan sel B NHL. "
+  },
+  {
+    "id": "829",
+    "istilah": "Antinuclear antibodi",
+    "arti": "antibodi yang menyerang inti sel."
+  },
+  {
+    "id": "830",
+    "istilah": "antioksidan",
+    "arti": "Molekul yang memiliki kemampuan mencegah atau mengurangi kemungkinan proses oksidasi (stress oksidatif) di berbagai bagian tubuh. Sumber-sumber antioksidan yang mudah diperoleh dari makanan sehari-hari antara lain sayuran hijau daun katuk, cincau hijau, bayam, kangkung, delima, stroberi, susu kambing, alpukat, brokoli, teh, anggur, apel, tomat, wortel, telur dll. "
+  },
+  {
+    "id": "831",
+    "istilah": "antiretroviral",
+    "arti": "Obat-obat yang bekerja melawan retrovirus (misalnya HIV) "
+  },
+  {
+    "id": "832",
+    "istilah": "antropometri",
+    "arti": "Secara umum artinya ukuran tubuh manusia. Ditinjau dari sudut pandang gizi maka antropometri gizi berhubungan dengan berbagai macam peng-ukuran dimensi tubuh dan komposisi tubuh dari berbagai tingkat umur dan tingkat gizi "
+  },
+  {
+    "id": "833",
+    "istilah": "Anuria",
+    "arti": "Tidak terjadi eksin urin."
+  },
+  {
+    "id": "834",
+    "istilah": "aorta",
+    "arti": "Aorta adalah pembuluh arteri utama yang menghubungkan jantung dengan semua organ utama tubuh (otak, perut, ginjal, dll). Segmen aorta di dalam rongga dada disebut aorta dada dan yang di dalam perut disebut aorta perut."
+  },
+  {
+    "id": "835",
+    "istilah": "Aorta abdominal",
+    "arti": "pembuluh darah utama bagian perut."
+  },
+  {
+    "id": "836",
+    "istilah": "Aorta thoracal",
+    "arti": "pembuluh darah utama bagian dada."
+  },
+  {
+    "id": "837",
+    "istilah": "aortic valve",
+    "arti": "katup yang menjaga aorta dari ventrikel kiri."
+  },
+  {
+    "id": "838",
+    "istilah": "Aparatus lacrima",
+    "arti": "saluran air mata."
+  },
+  {
+    "id": "839",
+    "istilah": "Aparatus lacrimal",
+    "arti": "saluran air mata."
+  },
+  {
+    "id": "840",
+    "istilah": "Apendectomy",
+    "arti": "Operasi pengangkatan usus buntu / Apendisitis."
+  },
+  {
+    "id": "841",
+    "istilah": "Apendisitis",
+    "arti": "peradangan mendadak atau pembengkakan usus buntu."
+  },
+  {
+    "id": "842",
+    "istilah": "apgar",
+    "arti": "APGAR adalah sebuah pengukuran respon bayi terhadap kelahiran dan kehidupan di luar rahim. Penilaian APGAR didasarkan pada Appearance (penampilan), Pulse (denyut jantung), Grimace (refleks), Activity (kegiatan), dan Respiration (pernafasan). Penilaian yang diambil pada 1 dan 5 menit setelah kelahiran ini berkisar antara 1 sampai 10, di mana 10 adalah nilai tertinggi dan 1 adalah nilai terendah "
+  },
+  {
+    "id": "843",
+    "istilah": "apgar score",
+    "arti": " sistem untuk menilai keadaan fisik bayi segera setelah dilahirkan. Pada menit pertama, ke lima dan ke sepuluh setelah kelahiran serta dapat menentukan indikasi kebutuhan resusitasi. Skor Apgar mengkaji lima tampilan dengan nilai maksimal. Masing-masing tampilan adalah; usaha nafas, tonus, otot, respons terhadap stimulus, warna, dan akan memberikan nilai sepuluh pada bayi yang kondisinya baik."
+  },
+  {
+    "id": "844",
+    "istilah": "Apical Abscess",
+    "arti": "Reaksi radang supuratif yang mencakup jaringan di sekitar bagian apikal gigi, terjadi dalam bentuk akut dan kronis."
+  },
+  {
+    "id": "845",
+    "istilah": "APIKES",
+    "arti": "Akademi Perekam Informasi Kesehatan;&nbsp;Pendidikan Kesehatan tingkat Akademi dengan kekhususan mempelajari bidang Perekam Informasi Kesehatan"
+  },
+  {
+    "id": "846",
+    "istilah": "apotek",
+    "arti": "Tempat tertentu, tempat dilakukan pekerjaan kefarmasian dan penyaluran sediaan farmasi, perbekalan kesehatan lainnya kepada masyarakat "
+  },
+  {
+    "id": "847",
+    "istilah": "apoteker",
+    "arti": "Sarjana farmasi yang telah lulus dan telah mengucapkan sumpah jabatan apoteker, mereka berdasarkan peraturan perundangan yang berlaku berhak melakukan pekerjaan kefarmasian di Indonesia sebagai apoteker. (Sumber: Kepmenkes No. 1332/2002 tentang perubahan permenkes No.922/1993 tentang ketentuan dan tata cara pemberian izin apotek) "
+  },
+  {
+    "id": "848",
+    "istilah": "Appendiceal Abscess",
+    "arti": "appendicular abscess; abses yang disebabkan pecahnya radang akut apendiks."
+  },
+  {
+    "id": "849",
+    "istilah": "appliance",
+    "arti": "alat&nbsp; yang berfungsi&nbsp; memberikan efek&nbsp; terapeutik."
+  },
+  {
+    "id": "850",
+    "istilah": "applicator",
+    "arti": "batang berlubang untuk memasukkan struktur lunak misalnya tampon atau obat ke dalam bagian tubuh yang sulit dicapai."
+  },
+  {
+    "id": "851",
+    "istilah": "appropriate for gestational age",
+    "arti": "(AGA) grafik pembanding pertumbuhan janin yang diharapkan dengan pencapaian pertumbuhan janin di dalam uterus pada setiap trimester kehamilan."
+  },
+  {
+    "id": "852",
+    "istilah": "apraxia",
+    "arti": "kehilangan&nbsp; kemampuan&nbsp; bergerak yang&nbsp; biasa dilakukan&nbsp; motorik atau&nbsp; sensorik."
+  },
+  {
+    "id": "853",
+    "istilah": "arachnodactyly",
+    "arti": "jari&nbsp; tangan dan kaki&nbsp; yang panjang;&nbsp; kelangsungannya secara tidak&nbsp; normal."
+  },
+  {
+    "id": "854",
+    "istilah": "arbor",
+    "arti": "vitae uteri lipatan mukosa seperti tonjolan yang ditemukan dalam serviks uterus."
+  },
+  {
+    "id": "855",
+    "istilah": "arbovirosis",
+    "arti": "Sekelompok penyakit yang disebabkan oleh arthropode borne viruses (virus yang ditularkan melalui arthropoda seperti nyamuk, caplak, tungau). Penyakit yang tergolong dalam kelompok ini antara lain demam berdarah dengue, chikungunya dan lain-lain "
+  },
+  {
+    "id": "856",
+    "istilah": "arbovirus",
+    "arti": "jenis virus&nbsp; yang menyebabkan dernam&nbsp; kuning, ensefalitis&nbsp; virus dan infeksi&nbsp; tertentu yang ditularkan ke manusia&nbsp; melalui berbagai&nbsp; jenis nyamuk."
+  },
+  {
+    "id": "857",
+    "istilah": "arcing spring contraceptive device",
+    "arti": " diafragma yang dimasukkan ke vag1n4 dan bekerja sebagai barrier penetrasi sperma."
+  },
+  {
+    "id": "858",
+    "istilah": "areola",
+    "arti": "daerah berwarna gelap atau berpigmen terletak di sekitar puting susu. Areola meluas saat kehamilan. Biasanya seluruh areola harus masuk ke mulut bayi agar bayi dapat menyusu secara efektif."
+  },
+  {
+    "id": "859",
+    "istilah": "areolitis inflamasi",
+    "arti": "areola di sekitar puting susu akibat puting susu yang pecah-pecah dan posisi menyusui yang kurang tepat."
+  },
+  {
+    "id": "860",
+    "istilah": "arm prolapse",
+    "arti": " kondisi yang terjadi saat serviks dilatasi dan ketuban pecah pada janin yang terletak melintang. Lengan melewati serviks dan dapat dilihat atau terasa menonjol keluar. Seksio sesaria darurat mungkin diperlukan dalam kondisi ini."
+  },
+  {
+    "id": "861",
+    "istilah": "arsenic",
+    "arti": "unsur obat&nbsp; racun nomor atom&nbsp; 33, simbol As.&nbsp; Keracunan arsen&nbsp; akut dapat mengakibatkan syok&nbsp; dan kematian,&nbsp; dengan ruam pada&nbsp; kulit, muntahmuntah, diare, nyeri abdomen,&nbsp; kram otot, dan&nbsp; pembengkakan&nbsp; kelopak marsen&nbsp; dalam jangka&nbsp; waktu yang lama,&nbsp; ditandai oleh&nbsp; oigmenasi yang&nbsp; disertai dengan&nbsp; persisikan, hiperkerastosis pada&nbsp; telapak tangan dan&nbsp; telapak kaki, garisgaris transversal&nbsp; pada kuku jari,&nbsp; nyeri kepala, neuropati perifer dan&nbsp; kebingungan."
+  },
+  {
+    "id": "862",
+    "istilah": "Arteri",
+    "arti": "Pembuluh darah yang mengalirkan darah dari jantung ke seluruh jaringan tubuh. Pada vertebrata arteri mempunya dinding otot tebal. Salah satu arteri yaitu aorta memiliki cabang banyak sekali sampai yang terkecil dapat mencapai ke seluruh bagian tubuh."
+  },
+  {
+    "id": "863",
+    "istilah": "Arteri dorsalis pedis",
+    "arti": "kelanjutan dari arteri tibialis anterior, yang bercabang ke arkuata tarsal lateral dan medial, dan arteri plantar dalam."
+  },
+  {
+    "id": "864",
+    "istilah": "Arteri karotis",
+    "arti": "Arteri atau pembuluh darah yang mensuplai darah ke leher dan kepala."
+  },
+  {
+    "id": "865",
+    "istilah": "Arteri sirkumfleks",
+    "arti": "cabang dari pembuluh darah koroner sisi kiri, yang mengalirkan darah terutama ke ventrikel kiri."
+  },
+  {
+    "id": "866",
+    "istilah": "Arterial Thromboembolism",
+    "arti": "Sumbatan akibat pembekuan darah pada pembuluh nadi. AT umumnya berhubungan dengan kondisi yang disebut aterosklerosis yang menyebabkan stenosis pada pembuluh nadi. "
+  },
+  {
+    "id": "867",
+    "istilah": "Arterio venous malformation",
+    "arti": "Jaringan pembuluh darah arteri dan vena yang bentuknya tidak normal"
+  },
+  {
+    "id": "868",
+    "istilah": "Arteriografy",
+    "arti": "teknik pencitraan untuk melihat keadaan pembuluh darah arteri bagian dalam."
+  },
+  {
+    "id": "869",
+    "istilah": "Arteriol",
+    "arti": "Arteri kecil dengan dinding tersusun dari otot-otot halus. Sistem saraf otonom mengendalikan gerak otot-otot ini dan dengan demikian mengontrol pengiriman darah ke pembuluh kapiler."
+  },
+  {
+    "id": "870",
+    "istilah": "arthalgia",
+    "arti": "kondisi&nbsp; rasa sakit berupa&nbsp; nyeri pada sendi&nbsp; yang biasa disebut&nbsp; arthrodynia."
+  },
+  {
+    "id": "871",
+    "istilah": "Arthritis kronis",
+    "arti": "peradangan sendi yang sudah berlangsung lama"
+  },
+  {
+    "id": "872",
+    "istilah": "arthropathy",
+    "arti": "setiap penyakit struktur sendi yang diikuti penyakit sistem saraf pusat atau sistem saraf tepi."
+  },
+  {
+    "id": "873",
+    "istilah": "arthrostomy",
+    "arti": "pembuatan lubang&nbsp; secara bedah&nbsp; ke dalam suatu&nbsp; sendi untuk tujuan&nbsp; drainase."
+  },
+  {
+    "id": "874",
+    "istilah": "arthroxesis",
+    "arti": "kondisi&nbsp; pengikisan jaringan sakit pada&nbsp; suatu permukaan&nbsp; sendi."
+  },
+  {
+    "id": "875",
+    "istilah": "artificial cardiac valve",
+    "arti": " pengganti katup jantung dengan alat mekanik atau susunan jaringan."
+  },
+  {
+    "id": "876",
+    "istilah": "artificial rupture of membranes",
+    "arti": " (ARM) ketuban dibocorkan sehingga cairan amnion keluar; biasanya dilakukan dengan tujuan mempercepat persalinan serta untuk melihat apakah mekonium telah keluar,yang menunjukkan gawat janin. Efek sampingnya termasuk bertambahnya nyeri, bertambahnya kemungkinan intervensi lanjut dalam persalinan dan kadang terjadi prolaps tali pusat."
+  },
+  {
+    "id": "877",
+    "istilah": "artritis",
+    "arti": "Istilah umum bagi peradangan (inflamasi) dan pembengkakan di daerah persendian. "
+  },
+  {
+    "id": "878",
+    "istilah": "Asam Amino",
+    "arti": "Suatu asam organik dengan gugusan atom (-NH2) dalam molekulnya."
+  },
+  {
+    "id": "879",
+    "istilah": "Asam Folat",
+    "arti": "folic acid, folate, folacin, vitamin B9, vitamin BC, pteroyl-L-glutamic acid, pteroyl-L-glutamate, pteroylmonoglutamic acid); vitamin yang larut air. Vitamin B9 sangat penting untuk berbagai fungsi tubuh mulai dari sintesis nukleotid ke remetilasi homocysteine. Vitamin ini terutama penting pada period pembelahan dan pertumbuhan sel. Anak-anak dan orang dewasa memerlukan Asam Folat untuk memproduksi sel darah merah dan mencegah anemia. Folat dan asam folat mendapatkan namanya dari kata latin folium (daun)"
+  },
+  {
+    "id": "880",
+    "istilah": "Asam palmitat",
+    "arti": "asam lemak jenuh utama dalam produk daging dan susu. Asam palmitat merupakan komponen utama minyak dari pohon kelapa (minyak sawit dan minyak kelapa)."
+  },
+  {
+    "id": "881",
+    "istilah": "Asam salisilat",
+    "arti": "Jenis obat keratolitik (yang menghilangkan lapisan luar kulit) yang digunakan untuk mengobati berbagai kondisi kulit."
+  },
+  {
+    "id": "882",
+    "istilah": "asam urat",
+    "arti": "Sisa metabolisme zat purin yang berasal dari makanan yang dikonsumsi. Purin adalah zat yang terdapat pada tiap bahan makanan yang berasal dari tubuh makhluk hidup. Jika tubuh dalam keadaan normal, asam urat itu akan dikeluarkan tubuh melalui kotoran atau urin. Namun karena ginjal tidak mampu mengeluarkan asam urat maka yang terjadi adalah kadar asam urat dalam tubuh berlebihan. Asam urat tadi kemudian terkumpul pada persendian sehingga menyebabkan rasa nyeri dan bengkak. Oleh karena itulah maka penderita asam urat biasanya susah jalan. "
+  },
+  {
+    "id": "883",
+    "istilah": "Asbestosis",
+    "arti": "Penyakit paru-paru serius progresif jangka panjang yang disebabkan oleh inhalasi serat asbes selama jangka waktu lama."
+  },
+  {
+    "id": "884",
+    "istilah": "ASDR",
+    "arti": "Banyaknya kematian pada kelompok umur tertentu per seribu penduduk dalam kelompok umur yang sama. "
+  },
+  {
+    "id": "885",
+    "istilah": "Asfiksia Neonatorum",
+    "arti": "Kegagalan nafas secara spontan dan teratur pada saat lahir/beberapa saat setelah lahir; terjadi hipoksia (kekurangan oksigen) yang ditandai dengan nilai APGAR waktu lahir kurang dari 7. "
+  },
+  {
+    "id": "886",
+    "istilah": "ASFR",
+    "arti": "Banyaknya kelahiran setiap seribu wanita pada kelompok umur tertentu. "
+  },
+  {
+    "id": "887",
+    "istilah": "ASI eksklusif",
+    "arti": "Pemberian Hanya ASI (Air Susu Ibu) saja tanpa makanan dan minuman lain kepada bayi sejak lahir sampai berusia 6 bulan. (Keputusan Menteri Kesehatan Nomor 450/Menkes/SK/IV/2004) "
+  },
+  {
+    "id": "888",
+    "istilah": "asidosis",
+    "arti": "Kondisi dimana keasaman tubuh sudah terlalu tinggi sehingga tubuh rentan terhadap penyakit. Gejala awal asidosis adalah sering sakit kepala (migren), asma, sinusitis, mudah alergi, sering pilek, batuk, flu, jerawat, bisul, sering sakit maag, kembung atau sembelit, keputihan, napas dan keringat bau, sering nyeri otot dan persendian, lesu kronis dan kelebihan berat badan. "
+  },
+  {
+    "id": "889",
+    "istilah": "Asidosis tubulus renalis",
+    "arti": "(bahasa Inggris: Renal tubular acidosis, RTA) adalah suatu penyakit ginjal (renal) khususnya pada bagian tubulus renalis-nya. Menurut sejumlah literatur ilmiah bidang kesehatan, penyakit ATR ini memang tergolong penyakit langka, dengan manifestasi klinis yang tidak spesifik sehingga diagnosis sering terlambat."
+  },
+  {
+    "id": "890",
+    "istilah": "Asimilasi",
+    "arti": "mengambil suatu materi dan mengubahnya menjadi bagian suatu organ tubuh, misalnya ketika organisme mengasimilasi makanan, senyawa kimia makanan tersebut diolah menjadi bagian tubuh organisme."
+  },
+  {
+    "id": "891",
+    "istilah": "Asimtomatik",
+    "arti": "Asymtomatic;&nbsp;Keadaan tanpa gejala. Berkaitan dengan HIV, istilah ini biasanya dipakai untuk menggambarkan orang yang hasil tes HIV-nya positif, tetapi tidak menunjukkan gejala klinis. Orang yang HIV-positif masih dapat menyebarkan penyakit itu bahkan saat mereka mengalami fase asimtomatik."
+  },
+  {
+    "id": "892",
+    "istilah": "Asisten Apoteker",
+    "arti": "Mereka yang berdasarkan peraturan perundang-undangan yang berlaku berhak melakukan pekerjaan kefarmasian sebagai asisten apoteker. (Sumber: Kepmenkes No. 1332/2002 ttg perubahan permenkes No.922/1993 ttg ketentuan dan tata cara pemberian izin apotek)."
+  },
+  {
+    "id": "893",
+    "istilah": "Asites",
+    "arti": "Penimbunan cairan dalam rongga perut"
+  },
+  {
+    "id": "894",
+    "istilah": "askariasis",
+    "arti": "Penyakit yang disebabkan oleh infestasi parasit Ascaris lumbricoides. Di Indonesia prevalensi askariasis tinggi, terutama pada anak. Frekuensinya antara 60-90%. Diperkirakan 807-1.221 juta orang di dunia terinfeksi Ascaris lumbricoides."
+  },
+  {
+    "id": "895",
+    "istilah": "asma",
+    "arti": "Berasal dari kata Asthma yang diambil dari bahasa Yunani yang berarti sukar bernapas. Hal ini disebabkan karena pengencangan dari otot sekitar saluran pernafasan, peradangan, rasa nyeri, pembengkakan, dan iritasi pada saluran nafas di paru-paru.Penyakit inflamasi (radang) kronik saluran napas menyebabkan peningkatan hiperesponsif jalan nafas yang menimbulkan gejala episodik berulang berupa mengi (nafas berbunyi ngik-ngik), sesak nafas, dada terasa berat dan batuk-batuk terutama malam menjelang dini hari. Gejala tersebut terjadi berhubungan dengan obstruksi jalan nafas yang luas, bervariasi dan seringkali bersifat reversible dengan atau tanpa pengobatan. "
+  },
+  {
+    "id": "896",
+    "istilah": "assisted reproduction technologies",
+    "arti": "Teknologi reproduksi berbantuan (assisted reproduction technologies) ; bentuk baru perawatan kesuburan yang menggabungkan banyak metode pengambilan dan persiapan sperma. Setelah diproses untuk memastikan potensi fertilitas yang optimal, sperma digunakan dalam berbagai prosedur yang membantu proses pembuahan. Prosedur tersebut meliputi inseminasi buatan (AI), fertilisasi in vitro (IVF) atau bayi tabung dan injeksi sperma intrasitoplasma (ICSI)."
+  },
+  {
+    "id": "897",
+    "istilah": "astrocytoma",
+    "arti": "tumor&nbsp; yang terdiri atas&nbsp; astrosit; jenis&nbsp; tumor otak yang&nbsp; paling lazim ditemukan di sepanjang sistem saraf&nbsp; pusat, diklasifikasikan sesuai histologi atau terkait&nbsp; hubungannya&nbsp; dengan keganasan&nbsp; (Derajat I-IV)."
+  },
+  {
+    "id": "898",
+    "istilah": "asulfurosis",
+    "arti": "kondisi&nbsp; yang ditimbulkan&nbsp; oleh kurangnya&nbsp; sulfur dalam&nbsp; tubuh."
+  },
+  {
+    "id": "899",
+    "istilah": "asylum",
+    "arti": "tempat perlindungan untuk&nbsp; merawat orangorang tidak berdaya, menderita&nbsp; defisiensi mental,&nbsp; gangguan emosi&nbsp; dan orang buta."
+  },
+  {
+    "id": "900",
+    "istilah": "asymbolia",
+    "arti": "kondisi&nbsp; kehilangan daya&nbsp; untuk memahami benda-benda&nbsp; simbolik seperti kata, gambar,&nbsp; isyarat gerak dan&nbsp; tanda-tanda, yang biasanya disebut\r\n asemia."
+  },
+  {
+    "id": "901",
+    "istilah": "asymtomatic",
+    "arti": "Keadaan tanpa gejala. Berkaitan dengan HIV, istilah ini biasanya dipakai untuk menggambarkan orang yang hasil tes HIV-nya positif, tetapi tidak menunjukkan gejala klinis. Orang yang HIV-positif masih dapat menyebarkan penyakit itu bahkan saat mereka mengalami fase asimtomatik. "
+  },
+  {
+    "id": "902",
+    "istilah": "Ataksia",
+    "arti": "Gangguan koordinasi gerakan"
+  },
+  {
+    "id": "903",
+    "istilah": "atelectasis",
+    "arti": "pengembangan paru yang&nbsp; tidak lengkap&nbsp; saat lahir, atau&nbsp; pengempisan&nbsp; paru pada orang&nbsp; dewasa."
+  },
+  {
+    "id": "904",
+    "istilah": "Atherectomy",
+    "arti": "Teknik bedah minimal invasif untuk mengeluarkan sumbatan lemak (aterosklerosis) pada pembuluh darah."
+  },
+  {
+    "id": "905",
+    "istilah": "Atherosclerosis",
+    "arti": "Penumpukan lemak kolesterol pada dinding pembuluh darah arteri sehingga dapat membatasi atau menghambat aliran darah. "
+  },
+  {
+    "id": "906",
+    "istilah": "Atonia",
+    "arti": "Relaksasi otot"
+  },
+  {
+    "id": "907",
+    "istilah": "atrioventrikular valves",
+    "arti": " katup yang terdapat di antara atrium kanan dan ventrikel kanan (katup trikuspidalis) dan antara atrium kiri dengan ventrikel kiri (katup mitra&rsquo;s)."
+  },
+  {
+    "id": "908",
+    "istilah": "Atrium",
+    "arti": "Nama lain serambi jantung."
+  },
+  {
+    "id": "909",
+    "istilah": "Atrofi muskular",
+    "arti": "Berkurang nya ukuran dan jumlah serat otot akibat proses penuaan, penurunan aliran darah, kurangnya gizi ataupun akibat hilangnya fungsi saraf."
+  },
+  {
+    "id": "910",
+    "istilah": "Atrofi tubular",
+    "arti": "berkurangnya ukuran tabung kecil yang terletak di dalam ginjal"
+  },
+  {
+    "id": "911",
+    "istilah": "Atropi",
+    "arti": "berkurangnya ukuran suatu sel atau organ."
+  },
+  {
+    "id": "912",
+    "istilah": "attenuated vaccine",
+    "arti": " vaksin yang direncanakan oleh mikororganisme atau virus hidup yang dikembang- kan di bawah keadaan yang tidak cocok agar kehilangan virulensinya namun tetap memiliki kekuatan menginduksi kekebalan pelindung; vaksin yang diambil dari mikroorganisme atau virus yang masih hidup dan sengaja dibiakkan dalam situasi tertentu agar hilang kemampuan infeksinya. Tetapi, tetap mampu menginduksi kekebalan pelindung."
+  },
+  {
+    "id": "913",
+    "istilah": "atticoantrotomy",
+    "arti": "tindakan operasi pembukaan&nbsp; antrum mastoid&nbsp; dana recessus&nbsp; epitympanicus telinga tengah yang&nbsp; biasanya disebut&nbsp; juga antroatticotomy."
+  },
+  {
+    "id": "914",
+    "istilah": "Audiometri",
+    "arti": "pemeriksaan untuk menentukan kemampuan pendengaran."
+  },
+  {
+    "id": "915",
+    "istilah": "Audit Maternal Perinatal",
+    "arti": "AMP; Proses penelaahan bersama kasus kesakitan dan kematian ibu dan perinatal serta penatalaksanaannya, dengan menggunakan berbagai informasi dan pengalaman dari suatu kelompok terdekat, untuk mendapatkan masukan mengenai intervensi yang paling tepat dilakukan dalam upaya peningkatan kualitas pelayanan KIA disuatu wilayah."
+  },
+  {
+    "id": "916",
+    "istilah": "Audit Medik Pelayanan Keluarga Berencana",
+    "arti": "AMP-KB; Suatu proses kajian kasus medik KB yang sistematis dan kritis dari komplikasi, kegagalan penggunaan alat/obat kontrasepsi (alokon) serta penatalaksanaannya dengan memanfaatkan data dan informasi yang terkait, sehingga teridentifikasi berbagai faktor penyebab serta memperoleh solusi perbaikan dan disepakatinya jenis intervensi yang diperlukan sebagai kegiatan tindak lanjut"
+  },
+  {
+    "id": "917",
+    "istilah": "autisme",
+    "arti": "Kecacatan perkembangan yang kompleks sebagai hasil dari gangguan neurologis yang berdampak pada fungsi normal otak, yang memengaruhi perkembangan komunikasi seseorang dan keterampilan interaksi sosialnya. Autisme memanifestasikan diri selama tiga tahun pertama kehidupan seseorang. Para penyandang autisme memiliki masalah dengan komunikasi non-verbal, berbagai interaksi sosial, dan kegiatan yang meliputi unsur bermain dan bercanda. "
+  },
+  {
+    "id": "918",
+    "istilah": "autoamputation",
+    "arti": "pelepasan spontan&nbsp; pada tubuh dan&nbsp; pembuangan&nbsp; suatu benjolan&nbsp; atau pertumbuhan&nbsp; abnormal, seperti&nbsp; polip."
+  },
+  {
+    "id": "919",
+    "istilah": "autoanitibody",
+    "arti": "antibodi yang dibentuk sebagai respon&nbsp; terhadap dan&nbsp; bereaksi melawan&nbsp; suatu konstituenantigenik dan&nbsp; auto antibodi jaringan individu\r\n itu sendiri"
+  },
+  {
+    "id": "920",
+    "istilah": "autohypnosis",
+    "arti": "kemampuan untuk membuat diri sendiri tidak sadar dan tidak peduli dengan duni sekitar. Beberapa ibu melakukannya secara mandiri agar mereka mampu mengatasi nyeri persalinan."
+  },
+  {
+    "id": "921",
+    "istilah": "autoimmune",
+    "arti": "AutoImmune adalah penyakit dimana sistem kekebalan yang terbentuk salah mengidentifikasi benda asing, dimana sel, jaringan atau organ tubuh manusia justru dianggap sebagai benda asing sehingga dirusak oleh antibodi. Jadi adanya penyakit autoimmune tidak memberikan dampak peningkatan ketahanan tubuh dalam melawan suatu penyakit, tetapi justru terjadi kerusakan tubuh akibat kekebalan yang terbentuk. Penyakit autoimmune contohnya adalah psoriasis, rhematoid arthritis, multiple sclerosis. "
+  },
+  {
+    "id": "922",
+    "istilah": "autonomy",
+    "arti": "hak untuk mengendalikan diri sendiri; kemampuan bidan untuk menjalankan praktik sesuai tanggungjawabnya pada ibu dalam kehamilan dan kelahiran normal."
+  },
+  {
+    "id": "923",
+    "istilah": "Autopsi Verbal",
+    "arti": "Suatu penelusuran rangkaian peristiwa, keadaan, gejala, dan tanda penyakit yang mengarah pada kematian melalui wawancara dengan keluarga atau pihak lain yang mengetahui kondisi sakit dari almarhum. "
+  },
+  {
+    "id": "924",
+    "istilah": "autosomagtognosis",
+    "arti": "semacam perasaan&nbsp; bahwa suatu&nbsp; bagian anggota&nbsp; badan yang telah&nbsp; diangkat, seperti&nbsp; amputasi masih&nbsp; ada."
+  },
+  {
+    "id": "925",
+    "istilah": "autosomal dominant inheritance",
+    "arti": " gen pembawa sifat penyakit tertentu yang akan menimbulkan kondisi tersebut dengan suami/isteri memiliki pasanga"
+  },
+  {
+    "id": "926",
+    "istilah": "autosome",
+    "arti": "kromosom-kromosom yang&nbsp; berpasangan yang&nbsp; sama pada lakilaki dan wanita&nbsp; dan dibedakan&nbsp; dari kromosom&nbsp; 5ek5 yang terdapat&nbsp; 22 pasang autosom&nbsp; pada manusia."
+  },
+  {
+    "id": "927",
+    "istilah": "autosynthesis",
+    "arti": "reproduksi sendiri."
+  },
+  {
+    "id": "928",
+    "istilah": "autotherapy",
+    "arti": "metode  penyembuhan  secara spontan  atau dengan cara  penyembuhan  sendiri yakni  dengan filtrat dari  sekret pasien itu  sendiri."
+  },
+  {
+    "id": "929",
+    "istilah": "autotransfusion",
+    "arti": "memasukkan kembali darah atau  hasil darah yang diproduksi dari  sirkulasi pasien  sendiri, biasanya  disebut autologous  transfusion."
+  },
+  {
+    "id": "930",
+    "istilah": "autotrepanation",
+    "arti": "suatu kondisi erosi  tengkorak pada  tumor otak."
+  },
+  {
+    "id": "931",
+    "istilah": "autotrophy",
+    "arti": "kondisi  autotrofik; ilmu  gizi autotrofik."
+  },
+  {
+    "id": "932",
+    "istilah": "autovaccinia",
+    "arti": "bentuk  reaksi vaksin yang  timbul pada tubuh  yang berbeda dari  tempat pertama  vaksinasi cacar air  sebagai akibat dari  pemindahan virus  vaksinasi dengan  penggarukan."
+  },
+  {
+    "id": "933",
+    "istilah": "auxiometer",
+    "arti": "alat  perangkat untuk  mengukur daya  pembesaran lensa,  yang biasanya disebut auxometer."
+  },
+  {
+    "id": "934",
+    "istilah": "auxotox",
+    "arti": "gugus  kimiawi yang menimbulkan suatu  senyawa bersifat  toksik."
+  },
+  {
+    "id": "935",
+    "istilah": "Avian Influenza",
+    "arti": "Suatu penyakit menular yang disebabkan oleh virus influenza tipe A dan ditularkan oleh unggas. Penyakit flu burung yang disebabkan oleh virus avian infuenza sub tipe H5N1 pada unggas dikonfirmasikan telah terjadi di Republik Korea, Vietnam, Jepang, Thailand, Kamboja, Taiwan, Laos, China, Indonesia dan Pakistan. Sumber virus diduga berasal dari migrasi burung dan transportasi unggas yang terinfeksi."
+  },
+  {
+    "id": "936",
+    "istilah": "avoidance",
+    "arti": "mekanisme defensif sadar atau tidak  yang dimaksudkan  untuk melepaskan  situasi, aktivitas,  dan objek yang  bisa menghasilkan konflik,  kecemasan dan  kegelisahan."
+  },
+  {
+    "id": "937",
+    "istilah": "axis traction",
+    "arti": " proses menarik kepala janin untuk membantu pelahiran jika kemajuan kala dua persalinan terhenti."
+  },
+  {
+    "id": "938",
+    "istilah": "azotemia",
+    "arti": "kondisi  kelebihan urea  atau senyawa  nitrogen lain  dalam darah; biasa  disebu uremia."
+  },
+  {
+    "id": "939",
+    "istilah": "azotorrhea",
+    "arti": "kondisi  kehilangan banyak  nitrogen di dalam  feses."
+  },
+  {
+    "id": "940",
+    "istilah": "azoturia",
+    "arti": "kelebihan  jumlah urea atau  senyawa nitrogen  lain dalam urin."
+  },
+  {
+    "id": "941",
+    "istilah": "azuresin",
+    "arti": "percampuran atau kombinasi kompleks  dari pewarnaan  azure A dan resin  bertukar kation  karbalkrilik, yang  digunakan untuk  alat diagnostik  dalam mendeteksi  secret lambung."
+  },
+  {
+    "id": "942",
+    "istilah": "babesia",
+    "arti": "genus (keluarga Babesiadae, ordo Haemosporidia) parasit sel darah merah yang tak teratur bentuknya, menyebabkan babesiosis pada kebanyakan binatang peliharaan"
+  },
+  {
+    "id": "943",
+    "istilah": "babinski’s reflex",
+    "arti": " reflek ekstensor plantaris. Penggoresan pada bagian telapak kaki yang tidak menimbulkan gerakan ekstensi ibu jari kaki tetapi gerakan refleksi. Tanda ini normal pada bayi dan abnormal sesudah usia sekitar 2 tahun."
+  },
+  {
+    "id": "944",
+    "istilah": "baby bottle tooth decay",
+    "arti": " kerusakan gigi pada usia dini akibat pemanjangan yang lama terhadap susu atau jus saat bayi dibiarkan tidur sambil minum dengan botol."
+  },
+  {
+    "id": "945",
+    "istilah": "bacillary",
+    "arti": "bacillar,berhubungan dengan atau yang disebabkan oleh basil"
+  },
+  {
+    "id": "946",
+    "istilah": "bacilli",
+    "arti": "bentuk jamak dari bacillus (basili)"
+  },
+  {
+    "id": "947",
+    "istilah": "Bacillus",
+    "arti": "bakteri yang berbentuk batang; bertanggung jawab atas difteri, tetanus, disentri, dan TBC, serta penyakit lainnya."
+  },
+  {
+    "id": "948",
+    "istilah": "backache",
+    "arti": "rasa nyeri yang timbul di regio lumbal punggung; biasanya terjadi saat kehamilan karena perubahan pusat gravitasi yang disebabkan uterus semakin berat."
+  },
+  {
+    "id": "949",
+    "istilah": "backflow",
+    "arti": "aliran  terbalik ccairan  yang abnormal;  regurgitasi."
+  },
+  {
+    "id": "950",
+    "istilah": "baclofen",
+    "arti": "analog  asam amino yang  dipakai sebagai  relaksan otot  dalam pengobatan spasfisitas di  penyakit-penyakit  medula spinalis."
+  },
+  {
+    "id": "951",
+    "istilah": "bacteriolysin",
+    "arti": "antibodi antibakteri yang  mengakibatkan  lisis pada dinding  bakteri."
+  },
+  {
+    "id": "952",
+    "istilah": "bacteriuria",
+    "arti": "terdapat bakteri dalam urine."
+  },
+  {
+    "id": "953",
+    "istilah": "Badan Narkotika Nasional",
+    "arti": "BNN; Lembaga Pemerintah Non Kementerian (LPNK) Indonesia yang mempunyai tugas melaksanakan tugas pemerintahan di bidang pencegahan, pemberantasan penyalahgunaan dan peredaran gelap psikotropika, prekursor, dan bahan adiktif lainnya kecuali bahan adiktif untuk tembakau dan alkohol. BNN dipimpin oleh seorang kepala yang bertanggung jawab langsung kepada Presiden melalui koordinasi Kepala Kepolisian Negara Republik Indonesia."
+  },
+  {
+    "id": "954",
+    "istilah": "baduta",
+    "arti": "bawah dua tahun; Istilah yang digunakan untuk anak yang berusia 0 &ndash; 23 bulan. "
+  },
+  {
+    "id": "955",
+    "istilah": "bag of waters",
+    "arti": "sebutan untuk cairan yang terdapat dalam membran amnion"
+  },
+  {
+    "id": "956",
+    "istilah": "bagassosis",
+    "arti": "penyakit  paru-paru yang  disebabkan dari  pengisapan debu  dan residu tebu  setelah ekstraksi  gula (bagase)."
+  },
+  {
+    "id": "957",
+    "istilah": "Bakteremia",
+    "arti": "Suatu kondisi di mana bakteri hadir dalam aliran darah; mungkin terjadi setelah operasi kecil atau infeksi dan dapat berbahaya bagi orang dengan sistem kekebalan yang lemah atau katup jantung yang abnormal."
+  },
+  {
+    "id": "958",
+    "istilah": "bakteri",
+    "arti": "kelompok mikroorganisme yang tidak memiliki membran inti sel; Mikroorganisme bersel tunggal yang dapat hidup secara independen (bebas) atau sebagai parasit (tergantung pada organisme lain untuk hidup). Bakteri parasit dapat menyebabkan penyakit seperti difteri, pertusis, tetanus, Haemophilus influenzae, dan pneumokokus."
+  },
+  {
+    "id": "959",
+    "istilah": "Bakteri Anaerob",
+    "arti": "Bakteri yang tidak membutuhkan oksigen untuk tumbuh."
+  },
+  {
+    "id": "960",
+    "istilah": "Bakteriosidal",
+    "arti": "Bakterisidal; zat yang bersifat membunuh bakteri, tidak hanya mencegah mereka berkembang biak. Bandingkan dengan bakteriostatik."
+  },
+  {
+    "id": "961",
+    "istilah": "bakteriostatik",
+    "arti": "substansi kimia atau konsentrasi rendah bakterisida yang mampu menahan pertumbuhan bakteri, tetapi tidak mematikannya, seperti bakterisida."
+  },
+  {
+    "id": "962",
+    "istilah": "bakterisida",
+    "arti": "substansi kimia yang mampu membunuh atau menghancurkan bakteri; pembasmi bakteri."
+  },
+  {
+    "id": "963",
+    "istilah": "Bakterisidal",
+    "arti": "Lihat bakteriosidal."
+  },
+  {
+    "id": "964",
+    "istilah": "Bakteriuria",
+    "arti": "kehadiran bakteri di dalam urin; jumlah besar dapat menunjukkan infeksi kandung kemih, uretra, atau ginjal."
+  },
+  {
+    "id": "965",
+    "istilah": "Balai Penelitian Tanaman Obat",
+    "arti": "BPTO; Balai penelitian yang mempunyai tugas melaksanakan penelitian dibidang adaptasi, pelestarian, kultivasi dan standarisasi tanaman obat (TO) yang meliputi tanaman obat yang digunakan dalam pengobatan modern, tanaman obat tradisional dan tanaman obat yang menghasilkan bahan pemula (precusor) untuk pembuatan bahan baku obat.BPTO berlokasi di Tawangmangu Jawa Tengah. (Sumber: www.litbang.depkes.go.id)"
+  },
+  {
+    "id": "966",
+    "istilah": "balanic glans",
+    "arti": "pen1s pada pria dan klitoris pada wanita."
+  },
+  {
+    "id": "967",
+    "istilah": "balanitis",
+    "arti": "inflamasi glans pen1s. Pada bayi menunjukkan perlunya mengganti popok lebih sering."
+  },
+  {
+    "id": "968",
+    "istilah": "Balanitis Xerotica Obliterans",
+    "arti": "infeksi pada glans atau kulup, yang ditandai dengan permukaan yang putih agak mengeras. Juga dikenal sebagai liken sklerosus et atrofikus (LSA)."
+  },
+  {
+    "id": "969",
+    "istilah": "Balanopostitis",
+    "arti": "Peradangan pada glans dan kulup."
+  },
+  {
+    "id": "970",
+    "istilah": "balita",
+    "arti": "bawah lima tahun; Anak yang berusia 0 &ndash; 59 bulan "
+  },
+  {
+    "id": "971",
+    "istilah": "Ballism",
+    "arti": "Balisme; bentuk korea yang parah. Pada kelainan gerak ini, gerakan dapat seperti memukul-mukulkan lengan atau kaki yang menyebabkan melempar atau menjatuhkan apa saja yang ada di tangan. Berjalan mungkin menjadi aneh, dengan postur dan gerakan kaki berlebihan."
+  },
+  {
+    "id": "972",
+    "istilah": "ballottement",
+    "arti": "teknik yang digunakan untuk meraba suatu objek atau organ yang mengapung. Pada kehamilan, pemeriksaan dengan teknik ini dengan cara menekan uterus dan janin akan dapat diraba ketika mengapung balik ke posisi semula, pemeriksaan ballottement bisa dilakukan perabdominam atau pervag1n4m."
+  },
+  {
+    "id": "973",
+    "istilah": "Balsem",
+    "arti": "salah satu dari berbagai zat bergetah aromatik yang digunakan untuk penyembuhan dan menenangkan; diterapkan secara eksternal sebagai obat atau mengurangi iritasi."
+  },
+  {
+    "id": "974",
+    "istilah": "bandage",
+    "arti": "material  yang digunakan  untuk membungkus atau mengikat  setiap bagian dari  tubuh."
+  },
+  {
+    "id": "975",
+    "istilah": "banding",
+    "arti": "tindakan  melingkari dan  mengikat dengan  suatu strip bahan  yang tipis; (pada  genetika) setiap  teknik pewarnaan  kromosom dimana  pola karakteristik  pita melintang  gelap dan terang  menjadi terlihat,  kemungkinan  identifikasi pasangan kromosom  individual."
+  },
+  {
+    "id": "976",
+    "istilah": "bandl’s ring",
+    "arti": " penebalan patologis pada cincin retraksi normal yang terjadi saat persalinan macet. Jika dapat dirasakan melalui palpasi abdomen, ini menunjukkan bahwa akan terjadi ruptur uterus iminem."
+  },
+  {
+    "id": "977",
+    "istilah": "Barbiturat",
+    "arti": "Sekelompok obat penenang yang mengurangi aktivitas di otak; menimbulkan kecanduan dan kemungkinan fatal ketika diambil bersamaan dengan alkohol. Barbiturat terutama digunakan untuk sedasi ringan, anestesi umum, dan sebagai pengobatan untuk beberapa jenis epilepsi."
+  },
+  {
+    "id": "978",
+    "istilah": "barbotage",
+    "arti": "penarikan  dan injeksi cairan  secara berulangulang menggunakan alat suntik  dengan bergantian, seperti pada  lavase gastrik,  atau pemberian  anestetik ke dalam  rongga subarakhnoid dengan cara  injeksi bergantian  dalam jumlah  kecil anestesi dan  penarikan cairan  serebrospinalis ke  dalam alat suntik."
+  },
+  {
+    "id": "979",
+    "istilah": "Bariatrik",
+    "arti": "Bidang kedokteran yang menawarkan perawatan untuk menurunkan kelebihan berat badan dengan prosedur pembedahan. Kata bariatrik berasal dari Yunani, &ldquo;baros&rdquo; yang berarti &ldquo;berat&rdquo; dan &ldquo;iatrikos&rdquo; yang berati &ldquo;pengobatan&rdquo;. Lebih lanjut, lihat bedah bariatrik."
+  },
+  {
+    "id": "980",
+    "istilah": "Barium",
+    "arti": "Barium (BaSO4) adalah sebuah zat putih yang terlihat dengan sinar-X dan dapat ditelan untuk mengkontraskan perut (barium telan) atau dimasukkan melalui 4nus untuk mengkontraskan usus besar (barium enema)."
+  },
+  {
+    "id": "981",
+    "istilah": "Barium Enema",
+    "arti": "Seri GI bawah, enema kontras atau enema larut air adalah penggunaan larutan barium sulfat yang diberikan melalui 4nus untuk memungkinkan pemeriksaan rontgen pada saluran usus bawah (rektum, usus besar). Gambar sinar-x yang dihasilkan akan menunjukkan menunjukkan apakah ada striktur (daerah menyempit), obstruksi (sumbatan), atau masalah lainnya."
+  },
+  {
+    "id": "982",
+    "istilah": "Barium Telan",
+    "arti": "penggunaan larutan barium sulfat yang diberikan secara oral untuk memungkinkan pemeriksaan rontgen pada saluran usus bagian atas."
+  },
+  {
+    "id": "983",
+    "istilah": "barlow’s disease",
+    "arti": " penyakit skorbut yang ditemukan pada bayi yang disebabkan oleh defisiensi vitamin C dalam makanan."
+  },
+  {
+    "id": "984",
+    "istilah": "barlow’s sign",
+    "arti": "sebuah tanda yang digunakan untuk salah satu tes yang bertujuan mendiagnosis dislokasi kongenital sendi paha pada bayi baru lahir."
+  },
+  {
+    "id": "985",
+    "istilah": "barotitis",
+    "arti": "kondisi  penyakit telinga  yang diakibatkan  tekanan atmosfir  yang berbeda."
+  },
+  {
+    "id": "986",
+    "istilah": "barotrauma",
+    "arti": "luka  yang diakibatkan  oleh tekanan, termasuk luka pada  tabung eustachio,  gendang telinga,  paru-paru dan  perut; kerusakan telinga yang disebabkan oleh tekanan abnormal yang memengaruhi telinga bagian luar, tengah atau dalam. Kondisi ini dapat terjadi karena olahraga air seperti menyelam dan perubahan ketinggian yang cepat seperti ketika terbang dengan pesawat tanpa pengatur tekanan udara."
+  },
+  {
+    "id": "987",
+    "istilah": "bart’s test",
+    "arti": " pemeriksaan darah yang disarankan dilakukan saat usia gestasi 16-18 miinggu untuk mengidentifikasi ibu berisiko tinggi mengandung janin yang memiliki kelainan. Sekarang lebih dikenal dengan pemeriksaan double, triple atau quadruple."
+  },
+  {
+    "id": "988",
+    "istilah": "Bartolinitis",
+    "arti": "infeksi pada salah satu atau kedua kelenjar bartolin. Kondisi ini menyebabkan pembengkakan pada jaringan di sekitarnya, dan mungkin juga abses menyakitkan. Kelenjar bartolin mungkin juga tersumbat, menyebabkan kista bartolin."
+  },
+  {
+    "id": "989",
+    "istilah": "bartonellosis",
+    "arti": "penyakit menular yang  disebabkan oleh  Bartoneliabacil  liformis, biasanya  ditularkan oleh  lalat pasir, juga  disertai dengan  suatu erupsi kulit  nodular."
+  },
+  {
+    "id": "990",
+    "istilah": "Basa",
+    "arti": "Alkali; salah satu kelas basis kaustik, seperti soda, potas, amonia, dan litia, yang ciri khasnya adalah kelarutan dalam alkohol dan air, bersatu dengan minyak dan lemak untuk membentuk sabun dan bersatu dengan asam untuk membentuk garam, dan mengubah beberapa kuning dan merah nabati menjadi coklat."
+  },
+  {
+    "id": "991",
+    "istilah": "Basal Cell Adenoma",
+    "arti": "Tumor kelenjar saliva yang jinak, berkapsul, tumbuh lambat, tidak nyeri, dan berasal dari sel interkalaris atau reserve cell, terutama dijumpai pada pria, di kelenjar parotid atau bibir atas; tipe-tipe solid, kanalikular, trabekular-tubular, dan membranosa dapat dibedakan secara histoligis."
+  },
+  {
+    "id": "992",
+    "istilah": "Basal cell cancer",
+    "arti": "kanker kulit yang berasal dari sel basal."
+  },
+  {
+    "id": "993",
+    "istilah": "basal temperature",
+    "arti": " suhu tubuh yang diukur setelah istirahat dan sebelum suhu tersebut bertambah tinggi. Kenaikan suhu sebesar 0,5 &deg;C di atas suhu normal pada waktu yang sama menunjukkan akan terjadi ovulasi; suhu tersebut tetap meningkat sampai periode menstruasi berikutnya. Digunakan untuk tujuan keluarga berencana, kadang digabung dengan metode lain."
+  },
+  {
+    "id": "994",
+    "istilah": "Basilofobia",
+    "arti": "ketakutan yang abnormal dan terus-menerus terhadap basil (bakteri)."
+  },
+  {
+    "id": "995",
+    "istilah": "Basofil",
+    "arti": "Sejenis sel darah putih yang berisi (dan dapat melepaskan) histamin dan serotonin selama respon kekebalan tubuh; jumlahnya meningkat pada reaksi alergi dan keganasan."
+  },
+  {
+    "id": "996",
+    "istilah": "batantra",
+    "arti": "Salah satu upaya pengobatan dan atau perawatan cara lain di luar ilmu kedokteran dan ilmu keperawatan, mencakup cara (metoda), obat dan pengobatannya, yang mengacu kepada pengetahuan, pengalaman dan ketrampilan yang diperoleh secara turun temurun, berguru, magang atau pendidikan/pelatihan baik yang asli maupun yang berasal dari luar Indonesia dan diterapkan sesuai dengan norma yang berlaku dalam masyarakat. (Sumber: Hasil Rapat Tim Verifikasi Battra Asing Departemen Kesehatan RI) "
+  },
+  {
+    "id": "997",
+    "istilah": "batita",
+    "arti": "bawah tiga tahun; Anak yang berusia 0 &ndash; 35 bulan "
+  },
+  {
+    "id": "998",
+    "istilah": "battledore placenta",
+    "arti": "plasenta dengan insersio tali pusat yang tidak berada di tengah tetapi berada di bagian tepinya."
+  },
+  {
+    "id": "999",
+    "istilah": "battra",
+    "arti": "Orang yang melakukan pengobatan tradisional (alternatif). (Sumber: Kepmenkes nomor 1076/menkes/SK/VII/2003 tentang Penyelenggaraan Pengobatan Tradisional) "
+  },
+  {
+    "id": "1000",
+    "istilah": "Battra asing",
+    "arti": "Pengobat tradisional warga negara asing yang memiliki visa tinggal terbatas/izin tinggal terbatas/izin tinggal tetap untuk maksud bekerja di wilayah Republik Indonesia. (Sumber: Kepmenkes nomor 1076/menkes/SK/VII/2003 tentang Penyelenggaran Pengobatan Tradisional)"
+  },
+  {
+    "id": "1001",
+    "istilah": "Battra Ketrampilan",
+    "arti": "Seseorang yang melakukan pengobatan dan/atau perawatan tradisional berdasarkan ketrampilan fisik dengan menggunakan anggota gerak dan/atau alat Bantu lain, contoh: Battra pijat urut, battra patah tulang, battra sunat, battra dukun bayi, battra pijat refleksi, akupresuris, akupunkturis, chiropractor, dll. (Sumber: Kepmenkes nomor 1076/menkes/SK/VII/2003 tentang Penyelenggaran Pengobatan Tradisional)"
+  },
+  {
+    "id": "1002",
+    "istilah": "Battra pendekatan agama",
+    "arti": "Seseorang yang melakukan pengobatan dan/atau perawatan tradisional dengan menggunakan pendekatan agama Islam, Kristen, Katholik, Hindu atau Budha. (Sumber: Kepmenkes nomor 1076/menkes/SKNII/2003 tentang Penyelenggaran Pengobatan Tradisional)"
+  },
+  {
+    "id": "1003",
+    "istilah": "Battra ramuan",
+    "arti": "Seseorang yang melakukan pengobatan dan/atau perawatan tradisional dengan menggunakan obat/ramuan tradisional yang berasal dari tanaman (flora), fauna, bahan mineral, air, dan bahan alam lainnya, contoh: battra ramuan Indonesia (jamu), battra gurah, shinshe, tabib, homoeopath, aromatherapist, dll. (Sumber: Kepmenkes nomor 1076/menkes/SK/VII/2003 tentang Penyelenggaran Pengobatan Tradisional)"
+  },
+  {
+    "id": "1004",
+    "istilah": "Battra Supranatural",
+    "arti": "Seseorang yang melakukan pengobatan dan/atau perawatan tradisional dengan menggunakan tenaga dalam, meditasi, olah per napasan, indera keenam (pewaskita), kebatinan, contoh: tenaga dalam (prana), battra paranormal, reiky master, qigong, battra kebatinan. (Sumber: Kepmenkes nomor 1076/menkes/SK/VII/2003 tentang Penyelenggaran Pengobatan Tradisional)"
+  },
+  {
+    "id": "1005",
+    "istilah": "Batu Empedu",
+    "arti": "Batu empedu terbentuk ketika zat-zat di dalam empedu mengeras. Batu-batu tersebut dapat menghambat aliran empedu melalui saluran empedu. Serangan batu empedu biasanya terjadi setelah Anda makan. Tanda-tanda serangan batu empedu mungkin termasuk mual, muntah, atau nyeri di perut, punggung, atau hanya di bawah lengan kanan."
+  },
+  {
+    "id": "1006",
+    "istilah": "Batu Ginjal",
+    "arti": "nefrolitiasis; akumulasi zat dalam ginjal (misalnya, kristal obat, mineral) yang menyebabkan penyumbatan dan rasa sakit."
+  },
+  {
+    "id": "1007",
+    "istilah": "Batuk",
+    "arti": "Hembusan cepat udara dari paru-paru yang biasanya dalam rangka untuk membersihkan saluran udara paru-paru cairan, lendir, atau materi. Juga disebut tusis."
+  },
+  {
+    "id": "1008",
+    "istilah": "Batuk Rejan",
+    "arti": "Pertusis (juga disebut batuk rejan) ; penyakit infeksi bakteri yang terutama mempengaruhi bayi dan anak muda. Penyakit ini ditandai dengan batuk hebat yang disertai mengi khas saat udara dihirup. Pertusis menyebabkan ribuan kematian di tahun 1930-an dan 1940-an, tetapi dengan munculnya vaksin, tingkat kematian telah menurun secara dramatis."
+  },
+  {
+    "id": "1009",
+    "istilah": "bayi",
+    "arti": "Anak berumur 0-12 bulan "
+  },
+  {
+    "id": "1010",
+    "istilah": "bayi biru",
+    "arti": "Bayi yang memiliki semburat biru di kulit mereka (sianosis) yang disebabkan oleh kekurangan oksigen dalam darah arteri. "
+  },
+  {
+    "id": "1011",
+    "istilah": "bayi prematur",
+    "arti": "Bayi yang lahir pada usia kehamilan kurang dari 37 minggu. "
+  },
+  {
+    "id": "1012",
+    "istilah": "bayi tabung",
+    "arti": "In Vitro Fertilization (IVF); Proses pembuahan sel telur yang terjadi di luar tubuh; sel sperma dan sel telur dipertemukan di tabung yang ditumbuhkan beberapa hari 2-3 hari dan &ldquo;dierami&rdquo; di dalam inkubator, yang semuanya terjadi dalam kondisi laboratorium, selanjutnya dimasukkan ke dalam rahim dengan menggunakan catheter khusus melalui vagina. Kemudian embrio tersebut akan tertanam dalam dinding rahim (implementasi) dan seterusnya proses kehamilan akan menjadi sebuah keniscayaan, dan akan berlangsung sama dengan proses kehamilan alami. "
+  }
+]
