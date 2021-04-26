@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Kamus Farmasi</string>
     <string name="findHere">Cari Istilah Apapun...</string>
+    <string name="send_to">Send to</string>
 </resources>
