@@ -5,12 +5,15 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.animation.AnimationUtils
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.gms.ads.MobileAds
 import kotlinx.android.synthetic.main.splash_screen.*
 
 class SplashScreen : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.splash_screen)
+        MobileAds.initialize(this) {}
+
         val topAnimation = AnimationUtils.loadAnimation(this,R.anim.top_anim);
         val bottomAnmation = AnimationUtils.loadAnimation(this, R.anim.bottom_anim);
 

@@ -26,6 +26,10 @@
         <activity android:name=".DetailIstilah"
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".ListIstilah" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_app_id"/>
+
     </application>
 
 </manifest>

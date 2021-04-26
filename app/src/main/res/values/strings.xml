@@ -2,4 +2,6 @@
     <string name="app_name">Kamus Farmasi</string>
     <string name="findHere">Cari Istilah Apapun...</string>
     <string name="send_to">Send to</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
 </resources>

@@ -5,6 +5,9 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdView
+import com.google.android.gms.ads.MobileAds
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.pintarmedia.kamusfarmasi.model.Farmasi
@@ -14,9 +17,16 @@ import java.io.Serializable
 
 class MainActivity : BaseActivity() {
     private val JSON_FARMASI = "farmasi.json"
+    lateinit var mAdView : AdView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        MobileAds.initialize(this) {}
+        mAdView = findViewById(R.id.ad_view)
+        val adRequest = AdRequest.Builder().build()
+        mAdView.loadAd(adRequest)
+
         val jsonFileString = getJsonDataFromAsset(applicationContext, JSON_FARMASI)
         val gson = Gson()
         val listPersonType = object : TypeToken<List<Farmasi>>() {}.type
